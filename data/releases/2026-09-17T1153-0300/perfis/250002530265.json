@@ -1,0 +1,76 @@
+{
+  "id": "250002530265",
+  "name": "Eng. Catharina Donato",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30777",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530265.jpg",
+    "alt": "Foto oficial de Eng. Catharina Donato"
+  },
+  "background": {
+    "occupation": "Engenheiro",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 36,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530265/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ILUMINANDOAESCURIDAO"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/CATHARINADON"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CATHARINA.DONATO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/CATHARINA-DONATO/61559076500763/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/catharina.donato/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@iluminandoaescuridao"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/CatharinaDon"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Catharina-Donato/61559076500763/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@catharina.donato"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530265/2026/SP"
+  }
+}

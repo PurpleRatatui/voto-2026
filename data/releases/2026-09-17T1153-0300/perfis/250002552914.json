@@ -1,0 +1,39 @@
+{
+  "id": "250002552914",
+  "name": "Alemão da Vista Linda",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MOBILIZA",
+    "number": "33040",
+    "status": "INDEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002552914.jpg",
+    "alt": "Foto oficial de Alemão da Vista Linda"
+  },
+  "background": {
+    "occupation": "Aposentado (exceto Servidor Público)",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 78,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002552914/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": []
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002552914/2026/SP"
+  }
+}

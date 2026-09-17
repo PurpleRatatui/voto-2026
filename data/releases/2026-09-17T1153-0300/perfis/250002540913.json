@@ -1,0 +1,68 @@
+{
+  "id": "250002540913",
+  "name": "Rita Tonielo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55600",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002540913.jpg",
+    "alt": "Foto oficial de Rita Tonielo"
+  },
+  "background": {
+    "occupation": "Odontólogo",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 51,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540913/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@RITATONIELO?SI=6AZANWBY9WVXWXKH"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RITATONIELO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RITATONIELO?UTM_SOURCE=QR"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/RITA-TONIELO-536BB9269?UTM_SOURCE=SHARE_VIA&UTM_CONT"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RITATONIELO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ritatonielo/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19NsxwCeoD/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540913/2026/SP"
+  }
+}

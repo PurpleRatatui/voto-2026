@@ -1,0 +1,48 @@
+{
+  "id": "250002532337",
+  "name": "Carol Del Vecchio",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1145",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532337.jpg",
+    "alt": "Foto oficial de Carol Del Vecchio"
+  },
+  "background": {
+    "occupation": "Administrador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 46,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532337/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/CAROLDELVECCHIOOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1HKRDUWRFO/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532337/2026/SP"
+  }
+}

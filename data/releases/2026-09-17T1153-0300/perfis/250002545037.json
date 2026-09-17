@@ -1,0 +1,68 @@
+{
+  "id": "250002545037",
+  "name": "Rafa Minato",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14014",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545037.jpg",
+    "alt": "Foto oficial de Rafa Minato"
+  },
+  "background": {
+    "occupation": "Economista",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 31,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545037/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rafaminatosp?igsh=ZnhjN3Uwano5ZHZq&igsi=ZnhjN3Uwano5ZHZq"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@rafaminatosp?_r=1&_t=ZS-98p7LHIESQ9"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@rafaminatosp?si=NaFqls0wygS5EDXx"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/rafaminatosp?s=11"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61577493584383"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@rafaminatosp/uCsUuGyr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/rafaminatosp"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545037/2026/SP"
+  }
+}

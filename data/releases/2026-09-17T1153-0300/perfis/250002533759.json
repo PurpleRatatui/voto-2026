@@ -1,0 +1,84 @@
+{
+  "id": "250002533759",
+  "name": "Felipe Franco",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44007",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533759.jpg",
+    "alt": "Foto oficial de Felipe Franco"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 41,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533759/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FEFRANCOPRO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FEFRANCOOFICIAL/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/FEFRANCOOFICIAL"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/FEFRANCOOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FEFRANCOOFICIAL"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://pt.linkedin.com/POSTS/A-FOR%C3%A7A-DO-ESPORTE_ESPORTE-FISICULTURISMO-RAM"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@FEFRANCOOFICIAL?HL=PT-BR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AFORCADOESPORTE?IGSH=AZRTBXEXN3PRB3HO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/17PPQ9MDMV/"
+      },
+      {
+        "label": "Site em aforcadoesporte.com.br",
+        "url": "https://aforcadoesporte.com.br/DEPUTADO/"
+      },
+      {
+        "label": "Site em aforcadoesporte.com.br",
+        "url": "https://aforcadoesporte.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533759/2026/SP"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "250002539938",
+  "name": "Reina do Coletivo Fisioterapia",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50133",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539938.jpg",
+    "alt": "Foto oficial de Reina do Coletivo Fisioterapia"
+  },
+  "background": {
+    "occupation": "Fisioterapeuta e Terapeuta Ocupacional",
+    "education": "Ensino Médio Incompleto",
+    "ageAtTakingOffice": 47,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539938/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em marceloreina.com.br",
+        "url": "http://marceloreina.com.br/?FBCLID=IWY2XJAWTGUWDLEHRUA2FLBQIXMABICMLKETFWOEY2ULR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCELOREINASILIANO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROF.MARCELOREINA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/coletivofisioterapia"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@coletivo.fisioter?_r=1&_t=ZS-991vv8fXVwn"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/17eKN1cDQe/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539938/2026/SP"
+  }
+}

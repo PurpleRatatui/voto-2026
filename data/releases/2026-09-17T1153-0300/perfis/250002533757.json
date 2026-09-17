@@ -1,0 +1,72 @@
+{
+  "id": "250002533757",
+  "name": "Telhadinha - Capitão Telhada",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11190",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533757.jpg",
+    "alt": "Foto oficial de Telhadinha - Capitão Telhada"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533757/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "http://www.instagram.com/capitaotelhada"
+      },
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@capitaotelhada"
+      },
+      {
+        "label": "YouTube",
+        "url": "http://www.youtube.com/@capitaotelhada"
+      },
+      {
+        "label": "Threads",
+        "url": "http://www.threads.com/@capitaotelhada"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/capitaotelhada.com.br"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "http://www.flickr.com/photos/telhada/"
+      },
+      {
+        "label": "Site em capitaotelhada.com.br",
+        "url": "http://www.capitaotelhada.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/capitaotelhada?_rdc=1&_rdr#"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533757/2026/SP"
+  }
+}

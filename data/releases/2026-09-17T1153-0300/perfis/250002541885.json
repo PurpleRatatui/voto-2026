@@ -1,0 +1,64 @@
+{
+  "id": "250002541885",
+  "name": "Edna Macedo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10456",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541885.jpg",
+    "alt": "Foto oficial de Edna Macedo"
+  },
+  "background": {
+    "occupation": "Aposentado (exceto Servidor Público)",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 79,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541885/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDNAMACEDO.OFICIAL/"
+      },
+      {
+        "label": "Site em ednamacedo.meugabinetevirtual.com.br",
+        "url": "https://ednamacedo.meugabinetevirtual.com.br/AUTH?UTM_SOURCE=IG&UTM_MEDIUM=SOCI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Deputada-Edna-Macedo/61584918977623/#"
+      },
+      {
+        "label": "Site em ednafeecoragem.com.br",
+        "url": "https://ednafeecoragem.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@dep.ednamacedoofi"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ednamacedo-v6q?si=51ihD57RTTd-nin10"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541885/2026/SP"
+  }
+}

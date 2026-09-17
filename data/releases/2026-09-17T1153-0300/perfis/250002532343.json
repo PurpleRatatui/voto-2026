@@ -1,0 +1,72 @@
+{
+  "id": "250002532343",
+  "name": "Victor Ruiz",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1133",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532343.jpg",
+    "alt": "Foto oficial de Victor Ruiz"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 30,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532343/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@VICTORRUIZSP"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VICTORRUIZSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/VICTORRUIZSP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/VICTORRUIZSP"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/VICTORRUIZSP"
+      },
+      {
+        "label": "Site em victorruizsp.com.br",
+        "url": "https://victorruizsp.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/victorruizpro/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/victorruizreserva"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532343/2026/SP"
+  }
+}

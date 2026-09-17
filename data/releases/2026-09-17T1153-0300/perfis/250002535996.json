@@ -1,0 +1,60 @@
+{
+  "id": "250002535996",
+  "name": "Tatiane Costa",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2290",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002535996.jpg",
+    "alt": "Foto oficial de Tatiane Costa"
+  },
+  "background": {
+    "occupation": "Vereador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 31,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535996/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/tatianecost22?s=11"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/tatianecostasp?igsi=YmZhMHZvb2Y2NW8x"
+      },
+      {
+        "label": "Site em tatianecostabr.com.br",
+        "url": "https://tatianecostabr.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/tatianecostabr/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@tatianecostabr?_r=1&_t=ZS-98tRbXXBQYC"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535996/2026/SP"
+  }
+}

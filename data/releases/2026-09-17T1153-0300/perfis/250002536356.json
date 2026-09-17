@@ -1,0 +1,84 @@
+{
+  "id": "250002536356",
+  "name": "João Paulo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22345",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536356.jpg",
+    "alt": "Foto oficial de João Paulo"
+  },
+  "background": {
+    "occupation": "Engenheiro",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 39,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536356/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em joaopaulosouza.com.br",
+        "url": "https://joaopaulosouza.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/JO%C3%A3O-PAULO-DE-SOUZA/PFBID027VCIRG8BAQCW3Y5H"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOAOPAULODESOUZA.OFICIAL/"
+      },
+      {
+        "label": "Site em depestadualvarzeapaulista.com.br",
+        "url": "https://depestadualvarzeapaulista.com.br/"
+      },
+      {
+        "label": "Site em depestadualcampolimpopta.com.br",
+        "url": "https://depestadualcampolimpopta.com.br/"
+      },
+      {
+        "label": "Site em depestadualjarinu.com.br",
+        "url": "https://depestadualjarinu.com.br/"
+      },
+      {
+        "label": "Site em depestadualjundiai.com.br",
+        "url": "https://depestadualjundiai.com.br/"
+      },
+      {
+        "label": "Site em depestadualcabreuva.com.br",
+        "url": "https://depestadualcabreuva.com.br/"
+      },
+      {
+        "label": "Site em depestaduallouveira.com.br",
+        "url": "https://depestaduallouveira.com.br/"
+      },
+      {
+        "label": "Site em depestadualitupeva.com.br",
+        "url": "https://depestadualitupeva.com.br/"
+      },
+      {
+        "label": "Site em depestadualitatiba.com.br",
+        "url": "https://depestadualitatiba.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536356/2026/SP"
+  }
+}

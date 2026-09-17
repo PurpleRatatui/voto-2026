@@ -1,0 +1,64 @@
+{
+  "id": "250002532375",
+  "name": "Rafael Demarchi",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1167",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532375.jpg",
+    "alt": "Foto oficial de Rafael Demarchi"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532375/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/RAFAELDEMARCHIOFICIAL"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/IN/RAFAELDEMARCHI"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@RAFAEL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@RAFAELDEMARCHI"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/RAFAELDEMARCHI"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RAFAELDEMARCHI5"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532375/2026/SP"
+  }
+}

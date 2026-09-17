@@ -1,0 +1,52 @@
+{
+  "id": "250002534407",
+  "name": "Ulisses do Rodeio",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "7770",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002534407.jpg",
+    "alt": "Foto oficial de Ulisses do Rodeio"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 36,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534407/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ULISSESDORODEIO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/ULISSESGARCIAMACHADO"
+      },
+      {
+        "label": "Site em ulissesdorodeio.com.br",
+        "url": "https://ulissesdorodeio.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534407/2026/SP"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "250002541892",
+  "name": "Dani Dias da Rádio",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10002",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541892.jpg",
+    "alt": "Foto oficial de Dani Dias da Rádio"
+  },
+  "background": {
+    "occupation": "Jornalista e Redator",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 42,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541892/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1FD66NWIUH/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DANIDIAS.METROPOLITANA?IGSH=CM9HEM5NCTLQMGTS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541892/2026/SP"
+  }
+}

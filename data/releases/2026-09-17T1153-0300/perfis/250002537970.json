@@ -1,0 +1,68 @@
+{
+  "id": "250002537970",
+  "name": "Tome Abduch",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "1001",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002537970.jpg",
+    "alt": "Foto oficial de Tome Abduch"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 51,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537970/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/TOMEABDUCHBR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TOMEABDUCHBR"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@TOME_ABDUCH"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TOME_ABDUCH"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://br.linkedin.com/IN/TOMEABDUCH"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/TOME_ABDUCH"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@TOME_ABDUCH"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537970/2026/SP"
+  }
+}

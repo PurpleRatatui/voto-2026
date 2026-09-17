@@ -1,0 +1,64 @@
+{
+  "id": "250002541119",
+  "name": "Guti",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5522",
+    "status": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541119.jpg",
+    "alt": "Foto oficial de Guti"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 42,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541119/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@GUTI_GRU"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/GUSTAVOHENRICCOSTA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GUTI_OFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GUTI_OFICIAL/"
+      },
+      {
+        "label": "Site em guti.com.br",
+        "url": "https://www.guti.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/gutioficial/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541119/2026/SP"
+  }
+}

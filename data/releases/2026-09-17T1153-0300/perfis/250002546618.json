@@ -1,0 +1,56 @@
+{
+  "id": "250002546618",
+  "name": "Ricardo Augusto",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1411",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002546618.jpg",
+    "alt": "Foto oficial de Ricardo Augusto"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 37,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546618/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://threads.net/@ricardo_augusto_missao"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19S8xvtsVb/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@e_se_politicando"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/ricardo_augusto_missao"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546618/2026/SP"
+  }
+}

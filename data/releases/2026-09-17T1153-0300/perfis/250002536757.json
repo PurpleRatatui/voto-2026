@@ -1,0 +1,80 @@
+{
+  "id": "250002536757",
+  "name": "Jilmar Tatto",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1380",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536757.jpg",
+    "alt": "Foto oficial de Jilmar Tatto"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 61,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536757/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JILMARTATTOSP/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@JILMARTATTO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JILMARTATTO/?HL=PT"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/JILMARTATTO"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://www.whatsapp.com/CHANNEL/0029VA5VKSQ11ULS6GJ6H41I"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/PHOTOS/161691764@N05/ALBUMS/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@jilmartatto"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@jilmartattosp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@jilmartatto13"
+      },
+      {
+        "label": "Site em jilmartatto.com.br",
+        "url": "https://jilmartatto.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536757/2026/SP"
+  }
+}

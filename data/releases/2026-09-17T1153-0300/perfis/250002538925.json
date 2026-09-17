@@ -1,0 +1,52 @@
+{
+  "id": "250002538925",
+  "name": "Mestre Valdenor",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50074",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002538925.jpg",
+    "alt": "Foto oficial de Mestre Valdenor"
+  },
+  "background": {
+    "occupation": "Professor de Ensino Superior",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 75,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538925/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MESTREVALDENOR/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@MESTREVALDENOR?XMT=AQG0ZEAR-DGAXMMEZAJHOMJ06JVRCX9GFMCZ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?%20id=61593923677830"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538925/2026/SP"
+  }
+}

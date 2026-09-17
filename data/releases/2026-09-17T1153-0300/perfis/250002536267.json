@@ -1,0 +1,72 @@
+{
+  "id": "250002536267",
+  "name": "Josa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13616",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536267.jpg",
+    "alt": "Foto oficial de Josa"
+  },
+  "background": {
+    "occupation": "Vereador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 60,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536267/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@JOSAQUEIROZ"
+      },
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/JOSAQUEIROZPT"
+      },
+      {
+        "label": "Site em josaqueiroz.com.br",
+        "url": "https://josaqueiroz.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JOSAQUEIROZPT"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/JOSAQUEIROZPT"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@JOSAQUEIROZPT"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOSAQUEIROZPT/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JOSAQUEIROZPT"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536267/2026/SP"
+  }
+}

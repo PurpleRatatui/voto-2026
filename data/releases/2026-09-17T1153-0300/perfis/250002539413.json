@@ -1,0 +1,48 @@
+{
+  "id": "250002539413",
+  "name": "Pescador Lucas da Orlandina",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4094",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539413.jpg",
+    "alt": "Foto oficial de Pescador Lucas da Orlandina"
+  },
+  "background": {
+    "occupation": "Pescador",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 33,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539413/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LUCASDAORLANDINA?LANG=PT-BR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUCASDAORLANDINA/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539413/2026/SP"
+  }
+}

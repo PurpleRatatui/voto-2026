@@ -1,0 +1,60 @@
+{
+  "id": "250002550256",
+  "name": "Alessandro Japones",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70017",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002550256.jpg",
+    "alt": "Foto oficial de Alessandro Japones"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Médio Incompleto",
+    "ageAtTakingOffice": 48,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550256/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ALESSANDRO.JAPONES/"
+      },
+      {
+        "label": "Site em alessandrojapones.com",
+        "url": "https://www.alessandrojapones.com/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ALESSANDRO.JAPONES.10123"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ALESSANDRO.PEREIRA.10123"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ALESSANDRO.JAPONES.10123"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550256/2026/SP"
+  }
+}

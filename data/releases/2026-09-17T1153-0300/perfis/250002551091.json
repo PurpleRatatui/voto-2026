@@ -1,0 +1,68 @@
+{
+  "id": "250002551091",
+  "name": "Anderson Gimenes Papapenal",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7029",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002551091.jpg",
+    "alt": "Foto oficial de Anderson Gimenes Papapenal"
+  },
+  "background": {
+    "occupation": "Servidor Público Estadual",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 42,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551091/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANDERSON.GIMENES77"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANDERSON_F_GIMENES?IGSH=NNQ3MWT2MWLLYTBO"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@ANDERSON_F_GIMENES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ESCRITORANDERSONGIMENES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ANDERSONFGIMENES"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ANDERSON_GIMENES?SI=ZM3GU5PWW_634B6J"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/ANDERSGIMENES"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551091/2026/SP"
+  }
+}

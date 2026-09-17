@@ -1,0 +1,76 @@
+{
+  "id": "250002551501",
+  "name": "Marina Silva",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "180",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002551501.jpg",
+    "alt": "Foto oficial de Marina Silva"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 69,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551501/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MSILVAONLINE"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@MARINASILVAOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARINASILVA.OFICIAL/"
+      },
+      {
+        "label": "Site em marinasilva.org.br",
+        "url": "https://marinasilva.org.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@_MARINA.SILVA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/MARINASILVA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARINASILVAOFICIAL/"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://www.whatsapp.com/channel/0029Vb8oLQY7j6g6CP0wVJ2L"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@marinasilva_"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551501/2026/SP"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "250002548893",
+  "name": "Edivaldo Meira Batoré",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45123",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002548893.jpg",
+    "alt": "Foto oficial de Edivaldo Meira Batoré"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 60,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548893/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDIVALDOMEIRABATORE?IGSH=MTZ4ZWQ0YZEWNHP6BQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDIVALDOMEIRABATORESBO?IGSH=NGQWNDE5DGPHZWUX"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548893/2026/SP"
+  }
+}

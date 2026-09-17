@@ -1,0 +1,82 @@
+{
+  "id": "280002539826",
+  "name": "Zema",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 62,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/280002539826/2026BR280002539826_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/ROMEUZEMA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ROMEUZEMAOFICIAL"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/ROMEUZEMA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ROMEUZEMAOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ROMEUZEMAOFICIAL"
+      },
+      {
+        "label": "Site em romeuzema.com.br",
+        "url": "https://www.romeuzema.com.br/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@ROMEUZEMAOFICIAL"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ROMEUZEMAOFICIAL"
+      },
+      {
+        "label": "Site em novo.org.br",
+        "url": "https://www.novo.org.br/"
+      },
+      {
+        "label": "Site em planoimplacavel.com.br",
+        "url": "https://www.planoimplacavel.com.br/"
+      },
+      {
+        "label": "Site em zema30.com.br",
+        "url": "https://www.zema30.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002539826/2026/BR"
+  }
+}

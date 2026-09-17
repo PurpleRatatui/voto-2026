@@ -1,0 +1,48 @@
+{
+  "id": "250002536915",
+  "name": "Vera Lúcia",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSTU",
+    "number": "16",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536915.jpg",
+    "alt": "Foto oficial de Vera Lúcia"
+  },
+  "background": {
+    "occupation": "Sociólogo",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 59,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/250002536915/2026SP250002536915_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VERA_PSTU/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@VERAPSTU"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536915/2026/SP"
+  }
+}

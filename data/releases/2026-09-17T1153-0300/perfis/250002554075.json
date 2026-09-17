@@ -1,0 +1,48 @@
+{
+  "id": "250002554075",
+  "name": "Guto Schiavetto",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "144",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002554075.jpg",
+    "alt": "Foto oficial de Guto Schiavetto"
+  },
+  "background": {
+    "occupation": "Comerciante",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554075/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em gutoschiavetto.com.br",
+        "url": "https://www.gutoschiavetto.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/gutoschiavetto/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554075/2026/SP"
+  }
+}

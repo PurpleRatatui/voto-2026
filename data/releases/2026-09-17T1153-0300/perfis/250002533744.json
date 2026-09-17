@@ -1,0 +1,64 @@
+{
+  "id": "250002533744",
+  "name": "Dra. Carla Baroni",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11199",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533744.jpg",
+    "alt": "Foto oficial de Dra. Carla Baroni"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533744/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/IN/CARLA-GRACIELE-BARONI-291065156"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/CARLA.BARONI.7"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/CARLAGRACIELEBARONI"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@CARLABARONI7"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@CARLA.BARONI7"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/CARLABARONI7"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533744/2026/SP"
+  }
+}

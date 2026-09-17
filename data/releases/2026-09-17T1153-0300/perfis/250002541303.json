@@ -1,0 +1,76 @@
+{
+  "id": "250002541303",
+  "name": "Tarcísio",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541303.jpg",
+    "alt": "Foto oficial de Tarcísio"
+  },
+  "background": {
+    "occupation": "Governador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 51,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/250002541303/2026SP250002541303_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TARCISIOGDF/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/TARCISIOGDF/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TAR%C3%87ANEWS"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TARCISIOGDF"
+      },
+      {
+        "label": "Site em tarcisiosp.com.br",
+        "url": "https://tarcisiosp.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@TARCISIOGDF/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@TARCISIOGDF"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/TARCISIOGDF"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@TARCISIOGDF.OFICIAL"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541303/2026/SP"
+  }
+}

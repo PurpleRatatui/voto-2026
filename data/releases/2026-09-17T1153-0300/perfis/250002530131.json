@@ -1,0 +1,76 @@
+{
+  "id": "250002530131",
+  "name": "Olivia Costa",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3009",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530131.jpg",
+    "alt": "Foto oficial de Olivia Costa"
+  },
+  "background": {
+    "occupation": "Arquiteto",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530131/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em oliviacostacruzeirosp.gov.br",
+        "url": "https://www.oliviacostacruzeirosp.gov.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/OLIVIACOSTA.CRUZEIROSP"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/OLIVIA-MENDES-LEAL-COSTA-98926824/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/OLIVIACOSTA.CRUZEIROSP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/oliviacosta.cruzeirosp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/oliviacosta.cruzeirosp"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/olivia-mendes-leal-costa-98926824/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@oliviacosta.cruzeirosp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@oliviacostacruzeirosp"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530131/2026/SP"
+  }
+}

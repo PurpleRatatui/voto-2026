@@ -1,0 +1,84 @@
+{
+  "id": "250002530115",
+  "name": "Marina Helena",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3007",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530115.jpg",
+    "alt": "Foto oficial de Marina Helena"
+  },
+  "background": {
+    "occupation": "Economista",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 46,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530115/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em marinahelenabr.com.br",
+        "url": "https://marinahelenabr.com.br/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/MARINAHELENASANTOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARINAHELENABR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARINAHELENABR"
+      },
+      {
+        "label": "Site em marinahelenabr.com.br",
+        "url": "http://www.marinahelenabr.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "http://www.instagram.com/marinahelenabr"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/marinahelenabr"
+      },
+      {
+        "label": "X",
+        "url": "http://www.twitter.com/marinahelenabr"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "http://www.linkedin.com/in/marinahelenasantos"
+      },
+      {
+        "label": "YouTube",
+        "url": "http://www.youtube.com/@MarinaHelenaBR"
+      },
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@marinahelenabr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530115/2026/SP"
+  }
+}

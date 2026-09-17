@@ -1,0 +1,68 @@
+{
+  "id": "250002554103",
+  "name": "Juliano Ferreira",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70192",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002554103.jpg",
+    "alt": "Foto oficial de Juliano Ferreira"
+  },
+  "background": {
+    "occupation": "Administrador",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 41,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554103/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@JULIANO_FERREIRA2024"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/19RRSXL4VM/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JULIANO_FERREIRA2024?IGSH=MWE5MW8YDXRVCWRRAG=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18VAZWZCHV"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18ZFMN5WFE/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JULIANO_FERREIRA2026?_R=1&_T=ZS-98OOMLFCBG4"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.k.kwai.com/U/@SEGUEOLIDER2024/FAC9ZTNS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554103/2026/SP"
+  }
+}

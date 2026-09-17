@@ -1,0 +1,48 @@
+{
+  "id": "250002539300",
+  "name": "Jonas Wagner",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "40404",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539300.jpg",
+    "alt": "Foto oficial de Jonas Wagner"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Fundamental Incompleto",
+    "ageAtTakingOffice": 53,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539300/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61557142095996&REF=NONE_XAV_IG_PROFILE_P"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JONAS_WAGNERSP/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539300/2026/SP"
+  }
+}

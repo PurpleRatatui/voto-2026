@@ -1,0 +1,46 @@
+{
+  "id": "280002554479",
+  "name": "Leonardo Avalanche",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PRTB",
+    "number": "28",
+    "status": "PENDENTE DE JULGAMENTO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 49,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/280002554479/2026BR280002554479_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/leonardoavalanche/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/prtbbrasileiro28/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002554479/2026/BR"
+  }
+}

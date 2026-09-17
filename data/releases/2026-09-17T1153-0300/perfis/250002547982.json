@@ -1,0 +1,52 @@
+{
+  "id": "250002547982",
+  "name": "Flávia Rodrigues",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12333",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002547982.jpg",
+    "alt": "Foto oficial de Flávia Rodrigues"
+  },
+  "background": {
+    "occupation": "Assistente Social",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547982/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@FLAVIAH9952"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FLAVIAH9952?IGSH=CZDHCDNJOGHOM3ZS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=100024644118877"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547982/2026/SP"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "250002544998",
+  "name": "Isis Delboni",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14110",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002544998.jpg",
+    "alt": "Foto oficial de Isis Delboni"
+  },
+  "background": {
+    "occupation": "Estudante, Bolsista, Estagiário e Assemelhados",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 21,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544998/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em isisdelboni.com",
+        "url": "https://isisdelboni.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/delboni_isis"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@delboni_isis"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/delboni_isis"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@delboni_isis"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544998/2026/SP"
+  }
+}

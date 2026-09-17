@@ -1,0 +1,76 @@
+{
+  "id": "250002532335",
+  "name": "Dra. Regiane Souza Neves",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1147",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532335.jpg",
+    "alt": "Foto oficial de Dra. Regiane Souza Neves"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 50,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532335/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DRA.REGIANESOUZANEVES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/REGIANESOUZANEVES.PERFIL2"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DRAREGIANESOUZANEVES"
+      },
+      {
+        "label": "Site em draregianesouzaneves.com.br",
+        "url": "https://www.draregianesouzaneves.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DRA.REGIANESOUZANEVES"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/DRAREGIANESOUZANEVES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/REGIANESOUZANEVES.PERFIL1"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DRA.REGIANESOUZANEVES"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@DRA.REGIANESOUZANEVES"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532335/2026/SP"
+  }
+}

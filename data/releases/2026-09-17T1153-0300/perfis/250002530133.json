@@ -1,0 +1,80 @@
+{
+  "id": "250002530133",
+  "name": "Prof° Valtinho Olimpio",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3078",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530133.jpg",
+    "alt": "Foto oficial de Prof° Valtinho Olimpio"
+  },
+  "background": {
+    "occupation": "Professor de Ensino Fundamental",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 48,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530133/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VALTINHOOLIMPIOOFICIAL?IGSH=ZTVJCXQ4ZZN2AGZ2"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1HXPQPXMCQ/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VALTINHOOLIMPIOOFICIALL?_R=1&_T=ZS-97OWQRKNKM8"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VALTINHOOLIMPIO?SI=VVPWVQ4RVGL5ZLL8"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@VALTINHOOLIMPIOOF/BRCZWKXR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/podtheteachers?igsh=aXY1eWtkaTYwd2U"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/patriotasdofuturo?igsh=bWFwN3h0M29yaWVi"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/precosbaixoseaqui?igsh=ZzBvczhxM21kcTN5"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/podcastldef?igsh=MTVvZmpvdW1wdnc1bw=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/valtinhoolimpiooficia1?igsh=MWRlemoyemg2cXRoaQ=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530133/2026/SP"
+  }
+}

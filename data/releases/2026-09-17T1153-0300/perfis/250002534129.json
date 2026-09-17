@@ -1,0 +1,56 @@
+{
+  "id": "250002534129",
+  "name": "Thiago Buscarioli",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "25025",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002534129.jpg",
+    "alt": "Foto oficial de Thiago Buscarioli"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 42,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534129/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/THIAGOBUSCARIOLIOFICIAL/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/THIAGO.BUSCARIOLI"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@THIAGOBUSCARIOLI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/THIAGO.BUSCARIOLI.5"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534129/2026/SP"
+  }
+}

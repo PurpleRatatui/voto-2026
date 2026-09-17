@@ -1,0 +1,60 @@
+{
+  "id": "250002541147",
+  "name": "Barjas Negri",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5525",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541147.jpg",
+    "alt": "Foto oficial de Barjas Negri"
+  },
+  "background": {
+    "occupation": "Professor de Ensino Superior",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 76,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541147/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/negri.barjas?_rdc=1&_rdr#"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/negri.barjas/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@barjasnegri?_r=1&_t=ZS-98yxkbJ3W0O"
+      },
+      {
+        "label": "Site em barjasnegri.com.br",
+        "url": "https://barjasnegri.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/barjas.negri/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541147/2026/SP"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "250002548500",
+  "name": "Keli Talks",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1218",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002548500.jpg",
+    "alt": "Foto oficial de Keli Talks"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548500/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@KELITALKS?SI=JAIEDSNPF84LI4EN"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KELITALKS?IGSH=MXE4MZVXMHI0AMHZEQ%3D%3D&UTM_SOURCE=QR"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/KELITALKS?S=11&T=CE0NJGRPBUSBJ-2UWSXXAW"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.k.kwai.com/U/@KELITALKS/NXQCZPNS"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@KELITALKS?_R=1&_T=ZS-98FVLROQGCG"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@KELITALKS?IGSHID=NTC4MTIWNJQ2YQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1R9R2CYRMA/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548500/2026/SP"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "250002541107",
+  "name": "Paola Machado",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5567",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541107.jpg",
+    "alt": "Foto oficial de Paola Machado"
+  },
+  "background": {
+    "occupation": "Atleta Profissional e Técnico Em Desportos",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541107/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/PAOLA-MACHADO-322B8238"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MACHADO_PAOLA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@PROFA.PAOLAMACHADO"
+      },
+      {
+        "label": "Site em paolamachado.com.br",
+        "url": "https://www.paolamachado.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/PAOLAMACHADO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eupaolamachado"
+      },
+      {
+        "label": "Site em paolamachado5567.com.br",
+        "url": "http://www.paolamachado5567.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541107/2026/SP"
+  }
+}

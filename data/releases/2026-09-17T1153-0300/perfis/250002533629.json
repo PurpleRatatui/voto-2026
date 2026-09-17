@@ -1,0 +1,56 @@
+{
+  "id": "250002533629",
+  "name": "Ieda Caldeira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1514",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533629.jpg",
+    "alt": "Foto oficial de Ieda Caldeira"
+  },
+  "background": {
+    "occupation": "Técnico de Enfermagem e Assemelhados (exceto Enfermeiro)",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 47,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533629/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@IEDA.CALDEIRAA?_R=1&_T=ZS-97XCQIX5VG1"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@IEDACALDEIRAA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/IEDACALDEIRAOFICIAL?UTM_SOURCE=QR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19Xy45bNFi/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533629/2026/SP"
+  }
+}

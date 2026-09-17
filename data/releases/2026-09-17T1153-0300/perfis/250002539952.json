@@ -1,0 +1,68 @@
+{
+  "id": "250002539952",
+  "name": "Paula da Bancada Feminista",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50000",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539952.jpg",
+    "alt": "Foto oficial de Paula da Bancada Feminista"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 33,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539952/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BANCADAFEMINISTAPSOL?_R=1&_T=ZS-98DTDWTSFUJ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BANCADAFEMINISTAPSOL/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@BANCADAFEMINISTAPSOL?XMT=AQG0UINFXASTFNOAMCM8K1AIEN2YUJ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAULABANCADAFEMINISTA/"
+      },
+      {
+        "label": "Site em bancadafeministapsol.com.br",
+        "url": "https://www.bancadafeministapsol.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/bfeministapsol"
+      },
+      {
+        "label": "Site em mulherescomlula13.com.br",
+        "url": "https://mulherescomlula13.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539952/2026/SP"
+  }
+}

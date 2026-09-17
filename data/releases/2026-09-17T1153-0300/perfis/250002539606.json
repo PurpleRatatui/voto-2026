@@ -1,0 +1,68 @@
+{
+  "id": "250002539606",
+  "name": "Alleph Hillz",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "1822",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539606.jpg",
+    "alt": "Foto oficial de Alleph Hillz"
+  },
+  "background": {
+    "occupation": "Psicólogo",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 33,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539606/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/allephhillz.sp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AllephHillz.Sp/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@AllephHillz"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/Euallephhillz"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@allephhillz"
+      },
+      {
+        "label": "Site em allephhillz.com",
+        "url": "https://www.allephhillz.com/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/allef-f65231155?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539606/2026/SP"
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "id": "250002536385",
+  "name": "Marcelo Bolsonaro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22202",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536385.jpg",
+    "alt": "Foto oficial de Marcelo Bolsonaro"
+  },
+  "background": {
+    "occupation": "Odontólogo",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 52,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536385/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em lydr.com.br",
+        "url": "https://lydr.com.br/MARCELO-BOLSONARO/ZQCYU"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/MARCELOBOLSONARO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DR.MARCELOBOLSONARO/"
+      },
+      {
+        "label": "Site em lydr.com.br",
+        "url": "https://lydr.com.br/MARCELO-BOLSONARO"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536385/2026/SP"
+  }
+}

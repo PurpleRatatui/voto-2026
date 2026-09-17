@@ -1,0 +1,84 @@
+{
+  "id": "250002530144",
+  "name": "Sidney Elias",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3080",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530144.jpg",
+    "alt": "Foto oficial de Sidney Elias"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 56,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530144/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@SIDNEY_ELIAS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ADV,SIDNEY"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SIDVEL"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/_SIDNEY_"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@ADV.SIDNEY"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/adv,sidney"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sidvel"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@sidney_elias"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/_sidney_"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@adv.sidney"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@sidvel"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530144/2026/SP"
+  }
+}

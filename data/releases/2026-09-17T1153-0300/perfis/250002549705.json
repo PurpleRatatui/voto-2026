@@ -1,0 +1,76 @@
+{
+  "id": "250002549705",
+  "name": "Fernando Haddad",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002549705.jpg",
+    "alt": "Foto oficial de Fernando Haddad"
+  },
+  "background": {
+    "occupation": "Professor de Ensino Superior",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 63,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/250002549705/2026SP250002549705_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FERNANDOHADDADOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/FERNANDOHADDAD"
+      },
+      {
+        "label": "Site em haddadelula.com",
+        "url": "https://haddadelula.com/"
+      },
+      {
+        "label": "Site em haddadoficial.com.br",
+        "url": "https://haddadoficial.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@HADDADFERNANDO"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@FERNANDOHADDADOFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FERNANDOHADDADOFICIAL/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/HADDAD_FERNANDO"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@HADDADFERNANDO"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002549705/2026/SP"
+  }
+}

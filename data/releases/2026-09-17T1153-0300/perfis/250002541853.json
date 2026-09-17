@@ -1,0 +1,52 @@
+{
+  "id": "250002541853",
+  "name": "Policial Major Sérgio",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10221",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541853.jpg",
+    "alt": "Foto oficial de Policial Major Sérgio"
+  },
+  "background": {
+    "occupation": "Policial Militar",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541853/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DH7D8YUBP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MAJOR_SERGIO_?%20%20IGSH=MW9ZZJFJDXJTAZFRBA=="
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PAULOSERGIOROCHA10221"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541853/2026/SP"
+  }
+}

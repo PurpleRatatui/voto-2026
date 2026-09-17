@@ -1,0 +1,56 @@
+{
+  "id": "250002550397",
+  "name": "Vladimir Alves",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "4511",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002550397.jpg",
+    "alt": "Foto oficial de Vladimir Alves"
+  },
+  "background": {
+    "occupation": "Jornalista e Redator",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 52,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550397/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VLADIMIRALVES/?HL=PT-BR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/VLADIMIRALVESSOUZA/?LOCALE=PT_BR"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@VLADIMIRALVES?XMT=AQG0HPPA00QYURSJWUTKXUZ6W0XLWSJTNKL7_"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/vladimiralves"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550397/2026/SP"
+  }
+}

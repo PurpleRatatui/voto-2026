@@ -1,0 +1,64 @@
+{
+  "id": "250002532338",
+  "name": "Fausto Pinato",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4411",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532338.jpg",
+    "alt": "Foto oficial de Fausto Pinato"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 49,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532338/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@FAUSTOPINATO6392?SI=L-Q7RKJH2ZEPLS0U"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/FAUSTO_PINATO?S=21"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FAUSTOPINATO?_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1CCMTJUS2J/?MIB"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FAUSTOPINATO/"
+      },
+      {
+        "label": "Site em tirzepatidaparatodos.com.br",
+        "url": "https://tirzepatidaparatodos.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532338/2026/SP"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "250002536733",
+  "name": "Joao Paulo Cunha",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1325",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536733.jpg",
+    "alt": "Foto oficial de Joao Paulo Cunha"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 68,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536733/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@JOAOPAULOCUNHAOFICIAL"
+      },
+      {
+        "label": "Site em joaopaulooficial.com.br",
+        "url": "https://joaopaulooficial.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/JOAOPAULO_2026?S=21"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOAOPAULOCUNHAOFICIAL/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JOAOPAULOCUNHAOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JOAOPAULOCUNHADOPT"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536733/2026/SP"
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "id": "250002533633",
+  "name": "Dra Bruna Ituassu",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1584",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533633.jpg",
+    "alt": "Foto oficial de Dra Bruna Ituassu"
+  },
+  "background": {
+    "occupation": "Médico",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533633/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "http://www.instagram.com/DRABRUNAITUASSU/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DRABRUNA.ITUASSU"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DRABRUNAITUASSU"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533633/2026/SP"
+  }
+}

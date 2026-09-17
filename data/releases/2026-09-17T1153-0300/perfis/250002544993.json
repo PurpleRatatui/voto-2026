@@ -1,0 +1,64 @@
+{
+  "id": "250002544993",
+  "name": "Luis Acuña",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14005",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002544993.jpg",
+    "alt": "Foto oficial de Luis Acuña"
+  },
+  "background": {
+    "occupation": "Desenhista",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 39,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544993/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/luisacuna.missao"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@luisacuna.missao"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@luisacuna.missao"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/aa.luisfernando"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/aaluisfernando"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/luisacunaa"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544993/2026/SP"
+  }
+}

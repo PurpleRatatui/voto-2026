@@ -1,0 +1,60 @@
+{
+  "id": "250002548898",
+  "name": "Político Gago - Cláudio Gaspar",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45032",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002548898.jpg",
+    "alt": "Foto oficial de Político Gago - Cláudio Gaspar"
+  },
+  "background": {
+    "occupation": "Corretor de Imóveis, Seguros, Títulos e Valores",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 54,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548898/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CLAUDIOGASPAR_SP/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/CHANNEL/UCUF4IXRQGMVTAWXOF1MCLDQ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CLAUDIO.GASPAR.164618"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@CLAUDIOGASPAR_SP"
+      },
+      {
+        "label": "Site em acordasp.com.br",
+        "url": "https://acordasp.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548898/2026/SP"
+  }
+}

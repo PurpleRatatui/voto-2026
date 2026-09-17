@@ -1,0 +1,68 @@
+{
+  "id": "250002541365",
+  "name": "Weller Gonçalves",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSTU",
+    "number": "160",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541365.jpg",
+    "alt": "Foto oficial de Weller Gonçalves"
+  },
+  "background": {
+    "occupation": "Trabalhador Metalúrgico e Siderúrgico",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541365/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/WELLERSIND"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@WELLER_GONCALVES"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@WELLERGONCALVES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/WELLERMETALURGICO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WELLER_GONCALVES"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@CANALDOWELLER"
+      },
+      {
+        "label": "Site em wellergoncalves.com.br",
+        "url": "https://wellergoncalves.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541365/2026/SP"
+  }
+}

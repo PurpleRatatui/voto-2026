@@ -1,0 +1,56 @@
+{
+  "id": "250002550379",
+  "name": "Erivelton Munhoz Cágado",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "4506",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002550379.jpg",
+    "alt": "Foto oficial de Erivelton Munhoz Cágado"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 49,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550379/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/CAPTADOR-CAGADO-LIMEIRA/61577568850651/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ERIVELTON_MUNHOZ_CAPTDOR/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MUNHOZ_ESPORTES/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@MUNHOZ_ESPORTES?XMT=AQG0PXX8OXSXO74CVKT8Z4Z2RSVUML21WC3"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550379/2026/SP"
+  }
+}

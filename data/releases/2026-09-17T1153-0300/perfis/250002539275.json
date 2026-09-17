@@ -1,0 +1,60 @@
+{
+  "id": "250002539275",
+  "name": "Rebeca Cristina",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "40340",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539275.jpg",
+    "alt": "Foto oficial de Rebeca Cristina"
+  },
+  "background": {
+    "occupation": "Estudante, Bolsista, Estagiário e Assemelhados",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 22,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539275/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@REBECACRISTINASP"
+      },
+      {
+        "label": "Site em rebecacristina.com",
+        "url": "https://www.rebecacristina.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/REBECACRISTINASP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/REBECACRISTINA.CPS/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/19RAVPGDOH/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539275/2026/SP"
+  }
+}

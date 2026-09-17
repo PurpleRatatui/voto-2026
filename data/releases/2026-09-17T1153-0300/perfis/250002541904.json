@@ -1,0 +1,56 @@
+{
+  "id": "250002541904",
+  "name": "Molina",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10999",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541904.jpg",
+    "alt": "Foto oficial de Molina"
+  },
+  "background": {
+    "occupation": "Diretor de Empresas",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 49,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541904/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RICARDOMOLINASP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RICARDOMOLINASP/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://br.linkedin.com/IN/RICARDO-MOLINA-DIAS-96900420"
+      },
+      {
+        "label": "Site em molinasp.com.br",
+        "url": "https://molinasp.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541904/2026/SP"
+  }
+}

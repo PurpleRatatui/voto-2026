@@ -1,0 +1,72 @@
+{
+  "id": "250002530122",
+  "name": "Lord Marinho",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3068",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530122.jpg",
+    "alt": "Foto oficial de Lord Marinho"
+  },
+  "background": {
+    "occupation": "Professor e Instrutor de Formação Profissional",
+    "education": "Ensino Fundamental Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530122/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LORDMARINHO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRASIL_DIREITASP"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@LORDEMARINHO?SI=DET8P_7DH85HYR2Q"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/deputado_federal_sp"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fraternidadenovavida"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Lordemarinho"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ellias_marinho"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lordmarinho"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530122/2026/SP"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "250002539312",
+  "name": "Abidan Henrique",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "40000",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539312.jpg",
+    "alt": "Foto oficial de Abidan Henrique"
+  },
+  "background": {
+    "occupation": "Engenheiro",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 29,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539312/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em abidan.com.br",
+        "url": "https://abidan.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ABIDANHENRIQUE/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ABIDANHENRIQUE/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/ABIDANHENRIQUE/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ABIDAN.HENRIQUE.SILVA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539312/2026/SP"
+  }
+}

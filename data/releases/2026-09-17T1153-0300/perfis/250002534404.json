@@ -1,0 +1,60 @@
+{
+  "id": "250002534404",
+  "name": "Aline Assistente Social",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "7789",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002534404.jpg",
+    "alt": "Foto oficial de Aline Assistente Social"
+  },
+  "background": {
+    "occupation": "Assistente Social",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 44,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534404/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ASSISTENTESOCIALALINE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/@ALINE_ASSISTENTESOCIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ALINE.SOUZA.UBIDA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ALINE.SOUZAUBIDA"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/ALINE_ASSISTENTESOCIAL"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534404/2026/SP"
+  }
+}

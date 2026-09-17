@@ -1,0 +1,64 @@
+{
+  "id": "250002530266",
+  "name": "Vanessa Santana Mãe Leoa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30038",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530266.jpg",
+    "alt": "Foto oficial de Vanessa Santana Mãe Leoa"
+  },
+  "background": {
+    "occupation": "Jornalista e Redator",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530266/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VANESSASANTANAMAELEOANOVO?IGSH=MTFKNMH4MWNVNND5CQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1CW6NKSMWU/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VANESSASANTANAMAELEOA?SI=SRG7LSMH_4IWS_TQ"
+      },
+      {
+        "label": "Site em share.google",
+        "url": "https://share.google/TX7MQJUQIG9JGFS6S"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VANESSASANTANANOVO?_R=1&_T=ZS-97SD6NWQKQ1"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vanessasantanamaeleoanovo?igsh=b2N6cWc3dXZ6M2t4"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530266/2026/SP"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "250002533758",
+  "name": "Rafael Saraiva",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44077",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533758.jpg",
+    "alt": "Foto oficial de Rafael Saraiva"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 33,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533758/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RAFAELSARAIVASP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAFAELSARAIVASP/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SEARCH/TOP?Q=RAFAEL%20SARAIVA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RAFAELSARAIVASP"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RAFAELSARAIVA.SP"
+      },
+      {
+        "label": "Site em rafaelsaraivasp.com.br",
+        "url": "https://rafaelsaraivasp.com.br/"
+      },
+      {
+        "label": "Site em rafaelsaraivasp.com.br",
+        "url": "https://rafaelsaraivasp.com.br/ninapassadore"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533758/2026/SP"
+  }
+}

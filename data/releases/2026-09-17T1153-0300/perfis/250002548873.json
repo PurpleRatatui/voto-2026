@@ -1,0 +1,48 @@
+{
+  "id": "250002548873",
+  "name": "Kelly Lima",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45428",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002548873.jpg",
+    "alt": "Foto oficial de Kelly Lima"
+  },
+  "background": {
+    "occupation": "Estudante, Bolsista, Estagiário e Assemelhados",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 60,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548873/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KELLY.LIMA.45?IGSH=MWX3A2TZY2R4AWZIYQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kelly_lima_45428?igsi=MW1yMWplcnN6amx2Zg=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548873/2026/SP"
+  }
+}

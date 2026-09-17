@@ -1,0 +1,52 @@
+{
+  "id": "250002540906",
+  "name": "Eng. Renato Archanjo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55888",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002540906.jpg",
+    "alt": "Foto oficial de Eng. Renato Archanjo"
+  },
+  "background": {
+    "occupation": "Engenheiro",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 53,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540906/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RENATO_ARCHANJOCASTRO/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/IN/RENATO-ARCHANJO-4A370147"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RenatoArchanjo/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540906/2026/SP"
+  }
+}

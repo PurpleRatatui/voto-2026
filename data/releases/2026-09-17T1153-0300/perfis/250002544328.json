@@ -1,0 +1,56 @@
+{
+  "id": "250002544328",
+  "name": "Juliana Clemente",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2012",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002544328.jpg",
+    "alt": "Foto oficial de Juliana Clemente"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Fundamental Completo",
+    "ageAtTakingOffice": 51,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544328/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JULIANACLEMENTE.20?IGSH=MTBJCGXODHPQZJHUZQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1HtgPcXTX2/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1J2zquJqiq/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/julianaclemente.2012?igsi=NDBmc2E0YnB0bnox"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544328/2026/SP"
+  }
+}

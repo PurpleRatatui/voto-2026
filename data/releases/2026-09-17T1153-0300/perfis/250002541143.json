@@ -1,0 +1,72 @@
+{
+  "id": "250002541143",
+  "name": "Eleuses Paiva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5555",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541143.jpg",
+    "alt": "Foto oficial de Eleuses Paiva"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 37,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541143/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ELEUSESPAIVAF"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ELEUSESPAIVAFILHO"
+      },
+      {
+        "label": "Site em eleusespaiva.com.br",
+        "url": "https://eleusespaiva.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAIVAELEUSES/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/eleuses-paiva-filho/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/paivaeleuses"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/eleusespaivaf"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eleusespaivafilho/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541143/2026/SP"
+  }
+}

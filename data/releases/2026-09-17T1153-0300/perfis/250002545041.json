@@ -1,0 +1,60 @@
+{
+  "id": "250002545041",
+  "name": "Gabriel Lima (kapo)",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14018",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545041.jpg",
+    "alt": "Foto oficial de Gabriel Lima (kapo)"
+  },
+  "background": {
+    "occupation": "Motorista de Veículos de Transporte Coletivo de Passageiros",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 32,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545041/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/gabriellimambl"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@gabriellimambl"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/gabriellimambl"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/gabriellimambl"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@gabriellimambl"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545041/2026/SP"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "250002548475",
+  "name": "Arafeth",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1221",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002548475.jpg",
+    "alt": "Foto oficial de Arafeth"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 57,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548475/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ARAFETH"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@WWW.INSTAGRAM.COM/ARAFETHNASREDDINE"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/ARAFETH%20NASREDDINE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ARAFETH%20NASREDDINE"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ARAFETH%20NASREDDINE"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@AREFETH%20NASREDDINE"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548475/2026/SP"
+  }
+}

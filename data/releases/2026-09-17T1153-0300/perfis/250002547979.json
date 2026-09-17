@@ -1,0 +1,68 @@
+{
+  "id": "250002547979",
+  "name": "Tati Tiberio",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12112",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002547979.jpg",
+    "alt": "Foto oficial de Tati Tiberio"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 48,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547979/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@TATIANA.TIBERIO?_R=1&_T=ZS-98HTXJGHDN3"
+      },
+      {
+        "label": "Site em tatitiberio.com",
+        "url": "https://www.tatitiberio.com/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@TATIANATIBERIO9142?SI=_T4ACSAVKJMM7AJ6"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TIBERIOTATIANA?IGSH=MTN4OTJLMJZOBJN3NQ=="
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@TIBERIOTATIANA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BCQRIIJEB/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1CzwAnBuVE/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547979/2026/SP"
+  }
+}

@@ -1,0 +1,48 @@
+{
+  "id": "250002533669",
+  "name": "Fernando Red Dog",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1528",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533669.jpg",
+    "alt": "Foto oficial de Fernando Red Dog"
+  },
+  "background": {
+    "occupation": "Administrador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 69,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533669/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@REDDOGWALKER_?_R=1&_T=ZS-98FMUCRLX9A"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/REDDOGWALKER?UTM_SOURCE=QR&IGSH=DMZYETB2CWOXCMPS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533669/2026/SP"
+  }
+}

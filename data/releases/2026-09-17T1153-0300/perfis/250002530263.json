@@ -1,0 +1,68 @@
+{
+  "id": "250002530263",
+  "name": "Ricardo F. Ramos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30027",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530263.jpg",
+    "alt": "Foto oficial de Ricardo F. Ramos"
+  },
+  "background": {
+    "occupation": "Escritor e Crítico",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 66,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530263/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em filporamos.com.br",
+        "url": "https://www.filporamos.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RICARDOFILPORAMOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/WEBFOTOGRAFO/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ricardofilporamos"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/webfotografo/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ricardofilporamos1"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ricardofilporamos"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530263/2026/SP"
+  }
+}

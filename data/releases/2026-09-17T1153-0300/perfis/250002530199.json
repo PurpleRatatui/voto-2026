@@ -1,0 +1,92 @@
+{
+  "id": "250002530199",
+  "name": "Roberto Nascimento",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30505",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530199.jpg",
+    "alt": "Foto oficial de Roberto Nascimento"
+  },
+  "background": {
+    "occupation": "Técnico de Laboratório e Raios X",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 60,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530199/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ROBERTOLUIZ.NASCIMENTO.9?MIBEXTID=KFXXJD"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/_ROBERTOLUIZ"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@ROBERTOLUIZDONASCIMENTO"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/ROBERTO-LUIZ-DO-NASCIMENTO-NASCIMENTO-4A74A727"
+      },
+      {
+        "label": "Site em robertoacreditar.webnode.page",
+        "url": "https://robertoacreditar.webnode.page/?FBCLID=PAZXH0BGNHZW0CMTEAAAAVE-HGTEPFNF5F"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ROBERTO.RADIOLOGIA?IGSH=AXU3Z2PQD2G2MMPN"
+      },
+      {
+        "label": "Site em robertoacreditar.webnode.page",
+        "url": "https://robertoacreditar.webnode.page/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/roberto.radiologia"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/robertoluiz.nascimento.9"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/_robertoluiz"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@robertoluizdonascimento"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/roberto-luiz-do-nascimento-nascimento-4a74a727"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@roberto.radiologia"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530199/2026/SP"
+  }
+}

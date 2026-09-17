@@ -1,0 +1,60 @@
+{
+  "id": "250002539386",
+  "name": "Gilson Souza",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4050",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539386.jpg",
+    "alt": "Foto oficial de Gilson Souza"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 71,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539386/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GILSONDESOUZADEP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@gilsondesouzadepfederal"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@gilsondesouzadeputadofederal"
+      },
+      {
+        "label": "Site em saudepratodosfranca.com.br",
+        "url": "https://saudepratodosfranca.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/gilsondesouzadep/?_rdc=1&_rdr#"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539386/2026/SP"
+  }
+}

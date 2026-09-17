@@ -1,0 +1,84 @@
+{
+  "id": "250002545143",
+  "name": "Amanda Ganem",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20010",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545143.jpg",
+    "alt": "Foto oficial de Amanda Ganem"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 34,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545143/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMANDAGANEM.SEGURANCA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMANDAGANEM.FIBROMIALGIA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AMANDAGANEM.ONCOLOGIA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AMANDAGANEMSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AMANDAGANEM.SEGURANCA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMANDAGANEMSP/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AMANDAGANEM.MG"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMANDAGANEM.MG/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMANDAGANEM.ONCOLOGIA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AMANDAGANEM.FIBROMIALGIA"
+      },
+      {
+        "label": "Site em materialganem.com.br",
+        "url": "http://materialganem.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545143/2026/SP"
+  }
+}

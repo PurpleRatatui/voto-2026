@@ -1,0 +1,60 @@
+{
+  "id": "250002532363",
+  "name": "Baianinho de Mauá",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4488",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532363.jpg",
+    "alt": "Foto oficial de Baianinho de Mauá"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Fundamental Incompleto",
+    "ageAtTakingOffice": 53,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532363/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BAIANINHODEMAUAOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61570206008999"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EUBAIANINHODEMAUA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EUBAIANINHODEMAUA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eubaianinhodemaua"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532363/2026/SP"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "250002533751",
+  "name": "Sheik Rodrigo Jalloul",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44248",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533751.jpg",
+    "alt": "Foto oficial de Sheik Rodrigo Jalloul"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 41,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533751/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BUMYQBNDE/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@SHEIKRODRIGOJALLOUL8059?SI=T6VB5ZS8KNSGV1HQ"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/SHEIKHRODRIGO?S=11"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RODRIGO_JALLOUL?IGSH=MTH0Z2W3BDLMNM5IAA=="
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@SHEIKRODRIGOJALLOUL?_R=1&_T=ZS-9892IOWJTCR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533751/2026/SP"
+  }
+}

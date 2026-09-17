@@ -1,0 +1,64 @@
+{
+  "id": "250002536387",
+  "name": "Lisboa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22300",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536387.jpg",
+    "alt": "Foto oficial de Lisboa"
+  },
+  "background": {
+    "occupation": "Jornalista e Redator",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 44,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536387/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VLOGDOLISBOA"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@VLOGDOLISBOA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LISBOADEGUARULHOS"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@IDEIALIGADA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/lisboadeputado22300/"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029VaB1Qgw9cDDYrBRUzQ13"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536387/2026/SP"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "id": "250002530211",
+  "name": "Renata Castel-Branco",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30002",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530211.jpg",
+    "alt": "Foto oficial de Renata Castel-Branco"
+  },
+  "background": {
+    "occupation": "Publicitário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 62,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530211/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RENATA.CASTELBRAN"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CASTELBRANCORENATA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1HAKXTVNTD/.FACEBOOK.COM/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RENATACASTEL-BRANCO-R3H.YOUTUBE.COM/@"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@CASTELBRANCORENATA"
+      },
+      {
+        "label": "Site em novo.org.br",
+        "url": "https://novo.org.br/PRE-CANDIDATO-2026/124/RENATA-CASTEL-BRANCO/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530211/2026/SP"
+  }
+}

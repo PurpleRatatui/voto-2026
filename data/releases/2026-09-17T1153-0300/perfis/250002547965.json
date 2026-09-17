@@ -1,0 +1,56 @@
+{
+  "id": "250002547965",
+  "name": "Dr André",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12033",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002547965.jpg",
+    "alt": "Foto oficial de Dr André"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 54,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547965/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DR_ANDREBARBOSA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.web.facebook.com/DRANDREBARBOSAOFICIAL?_RDC=1&_RDR#"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@dr_andrebarbosa"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@dr_andrebarbosa"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547965/2026/SP"
+  }
+}

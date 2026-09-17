@@ -1,0 +1,127 @@
+{
+  "releaseId": "2026-09-17T1153-0300",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "cards": [
+    {
+      "id": "250002550913",
+      "name": "Carlos Machado",
+      "initials": "CM",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002550913.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002550913.jpg",
+        "alt": "Foto oficial de Carlos Machado"
+      }
+    },
+    {
+      "id": "250002549705",
+      "name": "Fernando Haddad",
+      "initials": "FH",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002549705.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002549705.jpg",
+        "alt": "Foto oficial de Fernando Haddad"
+      }
+    },
+    {
+      "id": "250002553062",
+      "name": "Izadora Dias",
+      "initials": "ID",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002553062.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002553062.jpg",
+        "alt": "Foto oficial de Izadora Dias"
+      }
+    },
+    {
+      "id": "250002548080",
+      "name": "Policial Edjane",
+      "initials": "PE",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002548080.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002548080.jpg",
+        "alt": "Foto oficial de Policial Edjane"
+      }
+    },
+    {
+      "id": "250002541303",
+      "name": "Tarcísio",
+      "initials": "TA",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002541303.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002541303.jpg",
+        "alt": "Foto oficial de Tarcísio"
+      }
+    },
+    {
+      "id": "250002536915",
+      "name": "Vera Lúcia",
+      "initials": "VL",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002536915.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002536915.jpg",
+        "alt": "Foto oficial de Vera Lúcia"
+      }
+    },
+    {
+      "id": "250002544912",
+      "name": "Vivian Mendes",
+      "initials": "VM",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/250002544912.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1153-0300/fotos/250002544912.jpg",
+        "alt": "Foto oficial de Vivian Mendes"
+      }
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "250002530114",
+  "name": "Paixão",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3018",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530114.jpg",
+    "alt": "Foto oficial de Paixão"
+  },
+  "background": {
+    "occupation": "Servidor Público Civil Aposentado",
+    "education": "Ensino Fundamental Completo",
+    "ageAtTakingOffice": 66,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530114/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAIXAOPOREMBUOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JO%C3%83OCAETANOPAIXAO"
+      },
+      {
+        "label": "Site em observatoriodatransparencia.org.br",
+        "url": "https://www.observatoriodatransparencia.org.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530114/2026/SP"
+  }
+}

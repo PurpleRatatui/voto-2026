@@ -1,0 +1,100 @@
+{
+  "id": "250002534927",
+  "name": "Professor Fernando Moreira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "7780",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002534927.jpg",
+    "alt": "Foto oficial de Professor Fernando Moreira"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 44,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534927/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FALAMAFIA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/FERNANDO.S.M.SANTOS"
+      },
+      {
+        "label": "Site em moreiradossantos.com.br",
+        "url": "https://www.moreiradossantos.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/PEOPLE/FERNANDO-MOREIRA/61577830747435/"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/PROFILE/FALAMAFIA.BSKY.SOCIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/FALAMAFIA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/PROFESSORDOUTORFERNANDOMOREIRA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PROFESSORFERNANDOMOREIRA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FALAMAFIA"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@FALAMAFIA"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@FALAMAFIA?KPN=KWAI&SHARE_DEVICE_ID=49E6834F-56B1-43F6-930C"
+      },
+      {
+        "label": "Site em discord.com",
+        "url": "https://discord.com/CHANNELS/@PROFESSORFERNANDOMOREIRA"
+      },
+      {
+        "label": "Site em twitch.tv",
+        "url": "https://www.twitch.tv/FALAMAFIA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/FALA_MAFIA"
+      },
+      {
+        "label": "Site em professorfernandomoreira",
+        "url": "https://professorfernandomoreira/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534927/2026/SP"
+  }
+}

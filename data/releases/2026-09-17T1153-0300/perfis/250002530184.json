@@ -1,0 +1,92 @@
+{
+  "id": "250002530184",
+  "name": "Jucymara Rangel",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30644",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530184.jpg",
+    "alt": "Foto oficial de Jucymara Rangel"
+  },
+  "background": {
+    "occupation": "Servidor Público Civil Aposentado",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 59,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530184/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JUCYMARA_RANGEL?IGSH=MTE1C2PPEG5KZWK%3D&UTM_SOURCE=QR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JUCYMARARANGELOFICIAL?IGSH=N2RKB3LHBWXUCZBK&UTM_SOURCE"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@JUCYMARARANGEL5452"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@JUCYMARA_RANGEL?IGSHID=NTC4MTIWNJQ2YQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1GC2RQMMUJ/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RANGELJUCY18837/STATUS/2062871211147751731?S=46"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jucymararangeloficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/jucymara_rangel"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@jucymararangel5452"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1Gc2rQmmuj/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/rangeljucy18837/status/2062871211147751731"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@jucymara_rangel"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@jucymararangel"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530184/2026/SP"
+  }
+}

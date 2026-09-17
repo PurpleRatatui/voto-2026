@@ -1,0 +1,76 @@
+{
+  "id": "250002545156",
+  "name": "Rogerio Lins",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20200",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545156.jpg",
+    "alt": "Foto oficial de Rogerio Lins"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 48,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545156/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/rogeriolinsoficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/rogeriolinsoficial"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@rogeriolinsoficial"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@rogeriolinsoficial"
+      },
+      {
+        "label": "Threads",
+        "url": "https://threads.com/@rogeriolinsoficial"
+      },
+      {
+        "label": "Site em rogeriolins.com.br",
+        "url": "https://www.rogeriolins.com.br/"
+      },
+      {
+        "label": "Site em rogeriolinsoficial.com.br",
+        "url": "https://www.rogeriolinsoficial.com.br/"
+      },
+      {
+        "label": "Site em rogeriolinsoficial.com",
+        "url": "https://www.rogeriolinsoficial.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rogeriolinscortes"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545156/2026/SP"
+  }
+}

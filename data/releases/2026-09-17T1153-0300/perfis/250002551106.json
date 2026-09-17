@@ -1,0 +1,52 @@
+{
+  "id": "250002551106",
+  "name": "Elaine Guedes",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7004",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002551106.jpg",
+    "alt": "Foto oficial de Elaine Guedes"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551106/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SOS.CONSUMIDOR_?IGSH=AGRJBGTTCGC1BNAX&UTM_SOURCE=QR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ELAINEAGUEDES?IGSH=ZG8ZOHZ6CM5QN256&UTM_SOURCE=QR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18EQ1ZN8Y8/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551106/2026/SP"
+  }
+}

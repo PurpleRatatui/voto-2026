@@ -1,0 +1,96 @@
+{
+  "id": "250002533743",
+  "name": "Delegada Maria Corsato",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44004",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002533743.jpg",
+    "alt": "Foto oficial de Delegada Maria Corsato"
+  },
+  "background": {
+    "occupation": "Servidor Público Estadual",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 54,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533743/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/DELMARIACORSATO?S=11"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/DISCOVER/DELEGADA-MARIA-CORSATO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DELEGADA.MARIACORSATO?IGSH=MWPHEHJHMWTQYJJOCW=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DELEGADA.MARIA.CORSATO.SP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mariaarezendecorsato/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/delegada.mariacorsatoreserva/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/delegada.mariacorsatoconvite/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1D4JmiYcaW/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1DLuuyyqYF/?mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@delegada.maria.co?_r=1&_t=ZS-98r0XK1TvkO"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@mariacorsato/AKPLUbCx"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/Delmariacorsato"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@delegadamariacorsato?si=zXEIlovu-sx4ZBgq"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/delegada.mariacorsato"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533743/2026/SP"
+  }
+}

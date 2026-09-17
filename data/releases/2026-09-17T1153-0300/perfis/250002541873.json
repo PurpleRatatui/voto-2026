@@ -1,0 +1,100 @@
+{
+  "id": "250002541873",
+  "name": "Sebastião Santos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10321",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541873.jpg",
+    "alt": "Foto oficial de Sebastião Santos"
+  },
+  "background": {
+    "occupation": "Deputado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 62,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541873/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em deputadosebastiaosantos.com.br",
+        "url": "https://www.deputadosebastiaosantos.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DEPUTADOSEBASTIAOSANTOS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PRSEBASTIAOSANTOS"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/DEPUTADOSEBASTIAOSANTOS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/prsebastiaosantos?igsh=MXN3M2RoNzBycWd0ZQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/deputadoSebastiaoSantos?mibextid=wwXIfr&mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SebastiaoSantos4?mibextid=wwXIfr&mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sebastiao.santosii?mibextid=wwXIfr&mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@deputadosebastiaosantos?_r=1&_t=ZS-982UExmG7M0"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/deputadosebastiaosantos"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029Vb7TbmS5EjxwtuUQ1G2w"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@deputadosebastiaosantos?si=iFnh2XlOrrlACTIz"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/depsebastiao?s=21"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@prsebastiaosantos?igshid=NTc4MTIwNjQ2YQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/channel/AbZxl4-LWSjx4c5d/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541873/2026/SP"
+  }
+}

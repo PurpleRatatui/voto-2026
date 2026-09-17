@@ -1,0 +1,136 @@
+{
+  "id": "250002541166",
+  "name": "Diretor Elias Junior",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "15190",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541166.jpg",
+    "alt": "Foto oficial de Diretor Elias Junior"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 61,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541166/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Telegram",
+        "url": "https://t.me/DIRETORELIASJUNIOR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DIRETORELIASJUNIOR?_R=1&_T=ZS-97DVEWI8MKC"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DIRETORELIASJUNIOR?IGSH=NNNLEXU4BTAXCZNW&UTM_SOURCE=QR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/USER/ROTAFILME"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@DIRETORELIASJUNIOR/X5PCLXOM"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eliasjuniorcineasta"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100064270410717"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/diretoreliasjunior/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/diretoreliasjr1/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/diretoreliasjunior/?hl=pt-br"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/videospoliciais_oficial/?hl=pt-br"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/eliasjuniorfilmes/?hl=pt-br"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/faclubediretoreliasjunior/?hl=pt-br"
+      },
+      {
+        "label": "Site em diretoreliasjunior.com.br",
+        "url": "http://www.diretoreliasjunior.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@diretoreliasjunior2"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@diretoreliasjunior"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/DiretorEliasJunior"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/diretoreliasjr?s=11&t=yC585dezDhNJY3d2CSIGAA"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@diretoreliasjunior?igshid=NTc4MTIwNjQ2YQ=="
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@Diretoreliasjunior/BOCVye6d"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@qrxnarede"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DiretorEliasJunior"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EliasJuniorDiretor"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EliasJuniorSemCortes"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541166/2026/SP"
+  }
+}

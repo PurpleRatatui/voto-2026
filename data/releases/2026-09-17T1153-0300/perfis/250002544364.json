@@ -1,0 +1,124 @@
+{
+  "id": "250002544364",
+  "name": "Marcelo Ortega",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2009",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002544364.jpg",
+    "alt": "Foto oficial de Marcelo Ortega"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 49,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544364/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCELOORTEGASP/"
+      },
+      {
+        "label": "Site em ortegasp.com.br",
+        "url": "https://ortegasp.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@marceloortegaasp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MarceloOrtegaSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/marceloortegasp"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/catolicospelavida.com.br/"
+      },
+      {
+        "label": "Site em avare.ortegasp.com.br",
+        "url": "https://avare.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em vida.ortegasp.com.br",
+        "url": "https://vida.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em maes.ortegasp.com.br",
+        "url": "https://maes.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em pet.ortegasp.com.br",
+        "url": "https://pet.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em pais.ortegasp.com.br",
+        "url": "https://pais.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em tarifa.ortegasp.com.br",
+        "url": "https://tarifa.ortegasp.com.br/"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/chegou-nossa-vez/id6783067919"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/cat%C3%B3licos-pela-vida/id6789977757"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/pelas-m%C3%A3esat%C3%ADpicas/id6790994521"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/causa-pet/id6793695088"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/pais-educa/id6793895260"
+      },
+      {
+        "label": "Site em apps.apple.com",
+        "url": "https://apps.apple.com/br/app/tarifa-zero-j%C3%A1/id6794110669"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/maesatipicas.sp"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/causapet.sp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1F1Qeht5Je/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544364/2026/SP"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "id": "250002539592",
+  "name": "Thiago Ávila",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "1888",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539592.jpg",
+    "alt": "Foto oficial de Thiago Ávila"
+  },
+  "background": {
+    "occupation": "Comunicólogo",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 40,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539592/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em transformaromundo.com.br",
+        "url": "https://transformaromundo.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/THIAGOAVILABRASIL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@THIAGOAVILABRASIL3"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/THIAGOAVILABR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://m.youtube.com/@REDESULGLOBAL"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539592/2026/SP"
+  }
+}

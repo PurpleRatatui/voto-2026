@@ -1,0 +1,68 @@
+{
+  "id": "250002539608",
+  "name": "Gabriel dos Animais",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "5016",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539608.jpg",
+    "alt": "Foto oficial de Gabriel dos Animais"
+  },
+  "background": {
+    "occupation": "Estudante, Bolsista, Estagiário e Assemelhados",
+    "education": "Ensino Médio Incompleto",
+    "ageAtTakingOffice": 28,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539608/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em gabrieldosanimais.com.br",
+        "url": "https://gabrieldosanimais.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/GABRIELDOSANIMA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/GABRIELDOSANIMAIS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GABRIELDOSANIMAIS"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@GABRIELDOSANIMAIS"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@GABRIELDOSANIMAIS"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@GABRIELDOSANIMAIS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539608/2026/SP"
+  }
+}

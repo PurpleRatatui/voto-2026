@@ -1,0 +1,76 @@
+{
+  "id": "250002530237",
+  "name": "Thereza Faria Lima",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30444",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530237.jpg",
+    "alt": "Foto oficial de Thereza Faria Lima"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 66,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530237/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FARIALIMATHEREZA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/THEREZAFARIALIMA"
+      },
+      {
+        "label": "Site em therezafarialima.com.br",
+        "url": "https://www.therezafarialima.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/farialimathereza"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/farialimathereza2"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/therezafarialima"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@therezafarialima"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/therezafarialima"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@farialimathereza"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530237/2026/SP"
+  }
+}

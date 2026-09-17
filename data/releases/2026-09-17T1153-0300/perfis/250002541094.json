@@ -1,0 +1,60 @@
+{
+  "id": "250002541094",
+  "name": "Israel Palestrante",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5508",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541094.jpg",
+    "alt": "Foto oficial de Israel Palestrante"
+  },
+  "background": {
+    "occupation": "Terapeuta",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 42,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541094/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ISRAELMAGNANIOFICIAL?SI=4BW-EECARAEUQD3W"
+      },
+      {
+        "label": "Site em israelmagnani.com.br",
+        "url": "https://israelmagnani.com.br/%0A"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ISRAELPALESTRANTE/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ISRAELPALESTRANTE"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/israelpalestrante/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541094/2026/SP"
+  }
+}

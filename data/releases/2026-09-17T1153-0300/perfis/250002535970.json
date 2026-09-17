@@ -1,0 +1,60 @@
+{
+  "id": "250002535970",
+  "name": "Vanessa Botam",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2248",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002535970.jpg",
+    "alt": "Foto oficial de Vanessa Botam"
+  },
+  "background": {
+    "occupation": "Diretor de Empresas",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 44,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535970/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VANESSABOTAM/"
+      },
+      {
+        "label": "Site em vanessabotam.com.br",
+        "url": "https://vanessabotam.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/CHANNEL/UC5HXRPUA17VQ2P5EE6BHPTQ/VIDEOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/VANESSABOTAM/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VANESSA.BOTAM"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535970/2026/SP"
+  }
+}

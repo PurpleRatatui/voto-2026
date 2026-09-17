@@ -1,0 +1,76 @@
+{
+  "id": "250002545046",
+  "name": "Monielle Freitas",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14333",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545046.jpg",
+    "alt": "Foto oficial de Monielle Freitas"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 34,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545046/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@amonielle"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/1fk9qfcgei"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/amonielle"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@amonielle"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/amonielle?igsi=c29yanJxenl5emlu&utm_source=qr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@amonielle?_r=1&_t=ZS-99EmD61juT2"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/amonielle?mibextid=wwXIfr&rdid=BgagmNFAPcAASB7B&share_url=https%3A%2F%2Fweb"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@amonielle"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@amoniellee?kpn=KWAI&share_device_id=B601D194-2274-4ADA-8174-C8FF260EDCFC&share"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545046/2026/SP"
+  }
+}

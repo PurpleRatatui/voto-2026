@@ -1,0 +1,76 @@
+{
+  "id": "250002536743",
+  "name": "Edinho Silva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1316",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002536743.jpg",
+    "alt": "Foto oficial de Edinho Silva"
+  },
+  "background": {
+    "occupation": "Professor de Ensino Superior",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 61,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536743/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/EDINHOSILVAPT/?LOCALE=PT_BR"
+      },
+      {
+        "label": "Site em edinhosilva.com.br",
+        "url": "https://www.edinhosilva.com.br/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@EDINHOSILVAPT"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@EDINHOSILVAPT"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EDINHOSILVAPT"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/EDINHOSILVA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDINHOSILVAPT/?HL=PT"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@EDINHOSILVAPT"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@edinhosilvapt"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536743/2026/SP"
+  }
+}

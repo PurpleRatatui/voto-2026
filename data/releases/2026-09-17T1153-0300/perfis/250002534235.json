@@ -1,0 +1,48 @@
+{
+  "id": "250002534235",
+  "name": "Thuane Duran",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "15057",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002534235.jpg",
+    "alt": "Foto oficial de Thuane Duran"
+  },
+  "background": {
+    "occupation": "Estudante, Bolsista, Estagiário e Assemelhados",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 33,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534235/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DURANTHUANE?UTM_SOURCE=QR&IGSH=YW44YWT0EGJONZRK"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1QYCPAG9UY/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534235/2026/SP"
+  }
+}

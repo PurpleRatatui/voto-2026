@@ -1,0 +1,56 @@
+{
+  "id": "250002541852",
+  "name": "Sargento Fernandes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10099",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541852.jpg",
+    "alt": "Foto oficial de Sargento Fernandes"
+  },
+  "background": {
+    "occupation": "Policial Militar",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541852/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em sargentofernandes.com.br",
+        "url": "https://sargentofernandes.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SARGENTO_FERNANDES?IGSH=ZXR0EWR4MDZNNGLR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1FAB98WBPE/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Site em sargentofernandes.com.br",
+        "url": "https://sargentofernandes.com.br/?UTM_SOURCE=IG&UTM_MEDIUM=SOCIAL&UTM_CONTENT=LI"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541852/2026/SP"
+  }
+}

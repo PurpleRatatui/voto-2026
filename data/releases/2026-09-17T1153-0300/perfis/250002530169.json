@@ -1,0 +1,56 @@
+{
+  "id": "250002530169",
+  "name": "Teresinha Neves",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3088",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530169.jpg",
+    "alt": "Foto oficial de Teresinha Neves"
+  },
+  "background": {
+    "occupation": "Advogado",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 56,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530169/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@TERESINHANEVESS?_R=1&_T=ZS-97XEMDSCQG2"
+      },
+      {
+        "label": "Site em teresinhaneves.com.br",
+        "url": "https://www.teresinhaneves.com.br/?M=1"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18CWP6AAQP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TERESINHANEVES?IGSH=Z2TWDXU1ZMW4ZWH3"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530169/2026/SP"
+  }
+}

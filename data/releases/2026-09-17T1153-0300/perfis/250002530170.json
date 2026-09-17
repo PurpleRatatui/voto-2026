@@ -1,0 +1,84 @@
+{
+  "id": "250002530170",
+  "name": "Professor Christian Lohbauer",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3050",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530170.jpg",
+    "alt": "Foto oficial de Professor Christian Lohbauer"
+  },
+  "background": {
+    "occupation": "Cientista Político",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 60,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530170/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em professorchristianlohbauer.com.br",
+        "url": "https://www.professorchristianlohbauer.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PROFESSORCHRISTIANLOHBAUER"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFESSORCHRISTIANLOHBAUER"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/CHRISTIANPROF_"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/professorchristianlohbauer"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/professorchristianlohbauer"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/ChristianProf_"
+      },
+      {
+        "label": "Site em christianlohbauer.com.br",
+        "url": "https://www.christianlohbauer.com.br/"
+      },
+      {
+        "label": "Site em lohbauer.com.br",
+        "url": "https://www.lohbauer.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@christianlohbauer"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ProfessorChristianLohbauer"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530170/2026/SP"
+  }
+}

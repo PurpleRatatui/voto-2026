@@ -1,0 +1,64 @@
+{
+  "id": "250002551223",
+  "name": "Vavá Oliveira",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70713",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002551223.jpg",
+    "alt": "Foto oficial de Vavá Oliveira"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551223/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VAVA2988"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@VAVAOLIVEIRA383"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@VAVA2988"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VAVA.OLIVEIRA88"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/19QAAAVKEN/"
+      },
+      {
+        "label": "Site em vava.rubix.social",
+        "url": "https://vava.rubix.social/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551223/2026/SP"
+  }
+}

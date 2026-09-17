@@ -1,0 +1,56 @@
+{
+  "id": "250002545025",
+  "name": "Anderson Pê",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14055",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545025.jpg",
+    "alt": "Foto oficial de Anderson Pê"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 31,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545025/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/andersonpe_oficial"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@andersonpe_oficial"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/profile.php"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@andersonpe_oficial"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545025/2026/SP"
+  }
+}

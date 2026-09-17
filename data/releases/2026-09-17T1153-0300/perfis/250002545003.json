@@ -1,0 +1,68 @@
+{
+  "id": "250002545003",
+  "name": "Charles Ribeiro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14003",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545003.jpg",
+    "alt": "Foto oficial de Charles Ribeiro"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 38,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545003/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/charlesribeiro_"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/charlesribeiro_"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@charlesribeiro_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/ribeirocharless"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/ribeirocharles"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@charlesribeiro_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/charlesribeir0/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545003/2026/SP"
+  }
+}

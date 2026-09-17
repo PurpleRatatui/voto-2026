@@ -1,0 +1,72 @@
+{
+  "id": "250002541096",
+  "name": "Julie Milk",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5511",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541096.jpg",
+    "alt": "Foto oficial de Julie Milk"
+  },
+  "background": {
+    "occupation": "Jornalista e Redator",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 55,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541096/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JULIEMILK/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@JULIANAMOREIRALEITE?SI=UEFIYKKSPOFSPNCS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1DqEzaMRrb/?mibextid=wwXIfr"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/juliemilkreal"
+      },
+      {
+        "label": "Site em juliemilk.com.br",
+        "url": "https://www.juliemilk.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19YrvBMM7b/?mibextid=wwXIfr"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/juliemilkreal?s=11"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@julianamoreiraleite06"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541096/2026/SP"
+  }
+}

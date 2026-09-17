@@ -1,0 +1,104 @@
+{
+  "id": "250002535941",
+  "name": "Janaina Bastos",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2245",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002535941.jpg",
+    "alt": "Foto oficial de Janaina Bastos"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 47,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535941/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/janainaznbastos?igsh=MXI3enBiazl3cXAyZQ=="
+      },
+      {
+        "label": "Site em janainabastosoficial.com.br",
+        "url": "http://janainabastosoficial.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/janaina.zambusinogueirabastos"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1AfM7n2BJ1/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/janainaznbastos"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19AXM2PevX/"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/wilsonbastos.oficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/wilsonnbastos.oficial?igsh=MTZhZng4Z241OWg2cw=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pl22ibitinga?igsh=cDU2dXRhZzg1cGlz"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pl22mulheribitinga?igsh=MXQwMXpwZHl6aThjdg=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19DTCGSknY/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1BhDeZDw2U/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/pl22ibitinga"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1JmQNM69e1/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=61577922530497"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/plibitinga"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535941/2026/SP"
+  }
+}

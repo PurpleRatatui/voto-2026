@@ -1,0 +1,122 @@
+{
+  "id": "280002551544",
+  "name": "Flavio Bolsonaro",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "background": {
+    "occupation": "Senador",
+    "education": "Superior Completo",
+    "ageAtTakingOffice": 45,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral e pode ser consultado na íntegra. Ainda não publicamos uma síntese temática dele.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1153-0300/propostas/280002551544/2026BR280002551544_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em discord.gg",
+        "url": "https://discord.gg/EXYYRJ5TF"
+      },
+      {
+        "label": "Site em m.twitch.tv",
+        "url": "https://m.twitch.tv/FLAVIOBOLSONARO22/HOME"
+      },
+      {
+        "label": "Site em fleekus.com",
+        "url": "https://fleekus.com/B/FLAVIO-BOLSONARO"
+      },
+      {
+        "label": "Site em truthsocial.com",
+        "url": "https://truthsocial.com/@BOLSONARORJ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FLAVIOBOLSONARO/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/SENADORFLAVIOBOLSONARO"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/SHOW/2CW9CIKXJIB5C6UEN4KOCI?SI=635C7F1C3E7B4521"
+      },
+      {
+        "label": "Site em gettr.com",
+        "url": "https://gettr.com/USER/FLAVIOBOLSONARO"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://www.whatsapp.com/CHANNEL/0029VABZCGR3RZZKEWERCG0O"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Site em deezer.page.link",
+        "url": "https://deezer.page.link/KAWHIOWDYSWL1A9Q7"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/PHOTOS/FLAVIOBOLSONARO/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FLAVIOBOLSONARO"
+      },
+      {
+        "label": "Site em jogotesouraco.com.br",
+        "url": "https://www.jogotesouraco.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@tv.celular"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@flaviobolsonaro?igshid=NTc4MTIwNjQ2YQ%3D%3D"
+      },
+      {
+        "label": "Site em tvcelular.com.br",
+        "url": "https://tvcelular.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551544/2026/BR"
+  }
+}

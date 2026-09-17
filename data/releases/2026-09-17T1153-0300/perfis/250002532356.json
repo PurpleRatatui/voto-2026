@@ -1,0 +1,60 @@
+{
+  "id": "250002532356",
+  "name": "Joyce Paulino",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4414",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002532356.jpg",
+    "alt": "Foto oficial de Joyce Paulino"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 43,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532356/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/JOYCEEDUCA?S=21"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOYCEEDUCA?IGSH=MW1RNXLKEMPXDWZ2ZW=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18YEVNWZE5/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@JOYCEPAULINO955?SI=PLHRT29PRYYTYL7G"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JOYCEEDUCA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532356/2026/SP"
+  }
+}

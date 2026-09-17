@@ -1,0 +1,177 @@
+{
+  "releaseId": "2026-09-17T1153-0300",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "cards": [
+    {
+      "id": "280002552484",
+      "name": "Clariana Barao",
+      "initials": "CB",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002552484.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002551975",
+      "name": "Edmilson Costa",
+      "initials": "EC",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002551975.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002551547",
+      "name": "Escritor Augusto Cury",
+      "initials": "EC",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002551547.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002551544",
+      "name": "Flavio Bolsonaro",
+      "initials": "FB",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002551544.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002541457",
+      "name": "Hertz Dias",
+      "initials": "HD",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002541457.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002554479",
+      "name": "Leonardo Avalanche",
+      "initials": "LA",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002554479.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002542548",
+      "name": "Lula",
+      "initials": "LU",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002542548.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002540694",
+      "name": "Renan Santos",
+      "initials": "RS",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002540694.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002551932",
+      "name": "Ronaldo Caiado",
+      "initials": "RC",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002551932.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002552487",
+      "name": "Rui Costa Pimenta",
+      "initials": "RP",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002552487.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002538811",
+      "name": "Samara",
+      "initials": "SA",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002538811.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002548139",
+      "name": "Veterinário Wilson Grassi",
+      "initials": "VG",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002548139.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    },
+    {
+      "id": "280002539826",
+      "name": "Zema",
+      "initials": "ZE",
+      "profile": "data/releases/2026-09-17T1153-0300/perfis/280002539826.json",
+      "editorialStatus": "not-reviewed",
+      "themeIds": [],
+      "themeKinds": {},
+      "summary": "Este perfil ainda não tem conteúdo temático revisado. Isso não significa ausência de propostas.",
+      "tags": [
+        "Conteúdo temático ainda não publicado"
+      ]
+    }
+  ]
+}

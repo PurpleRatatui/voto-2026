@@ -1,0 +1,52 @@
+{
+  "id": "250002539453",
+  "name": "Karol Lima",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4056",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002539453.jpg",
+    "alt": "Foto oficial de Karol Lima"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 29,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539453/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/karol_lima.tea?igsi=ODl6bXAwNWZ6eXVi&utm_source=qr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1Edu2PKfmU/?mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@karol.lima790?_r=1&_t=ZS-99NLxn0taL4"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539453/2026/SP"
+  }
+}

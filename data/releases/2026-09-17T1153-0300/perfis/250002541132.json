@@ -1,0 +1,68 @@
+{
+  "id": "250002541132",
+  "name": "Debora Rodrigues",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5507",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002541132.jpg",
+    "alt": "Foto oficial de Debora Rodrigues"
+  },
+  "background": {
+    "occupation": "Empresário",
+    "education": "Ensino Médio Completo",
+    "ageAtTakingOffice": 58,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541132/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/DEBORATRUCK7?S=11&T=UOM_ERD6FB6PFZV_GDWURA"
+      },
+      {
+        "label": "Site em deborarodrigues.com.br",
+        "url": "https://www.deborarodrigues.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEBORARODRIGUESOFICIAL"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/DEBORA-RODRIGUES-2A1072120"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DCMR7?SI=UM8WGLQJXTOMGY6M"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DEBORARODRIGUESOFICIAL/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/adeborarodrigues/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541132/2026/SP"
+  }
+}

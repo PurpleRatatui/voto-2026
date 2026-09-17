@@ -1,0 +1,52 @@
+{
+  "id": "250002530134",
+  "name": "Raquel Rafaella",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3034",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002530134.jpg",
+    "alt": "Foto oficial de Raquel Rafaella"
+  },
+  "background": {
+    "occupation": "Outros",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 54,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530134/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@AMOREFEPONTODASLETRAS?_R=1&_T=ZS-97SO7VKZD7V"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://m.facebook.com/PROFILE.PHP?ID=100004992162011"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAQUEL_RAFAELLAOFICIAL?IGSH=MTK0BNM1NDD5DW1IDG%3D%3D&U"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530134/2026/SP"
+  }
+}

@@ -1,0 +1,72 @@
+{
+  "id": "250002545032",
+  "name": "Afonso Silva",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T11:53:07-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14001",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1153-0300/fotos/250002545032.jpg",
+    "alt": "Foto oficial de Afonso Silva"
+  },
+  "background": {
+    "occupation": "Operador de Aparelhos de Produção Industrial",
+    "education": "Superior Incompleto",
+    "ageAtTakingOffice": 31,
+    "sourceRef": "candidateRecord"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Conteúdo programático ainda não publicado",
+      "text": "Este perfil ainda não tem propostas verificadas e publicadas. Para cargos legislativos, não há plano de governo obrigatório no TSE.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545032/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/afonso.riopardo"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@euafonsosilva"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/1ebungg4tk"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@euafonsosilva"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/afonso.riopardo?igsi=MTdzMTN2anNheWcz-ZQ%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/people/Paulo-Afonso-Santos-Silva/100035698902246/?mibextid=wwXIfr&rdid=Tmjh"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@euafonsosilva"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@euafonsosilva?_r=1&_t=ZS-994M6AL8CVJ"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545032/2026/SP"
+  }
+}
