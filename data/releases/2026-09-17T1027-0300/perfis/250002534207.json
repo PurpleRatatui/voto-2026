@@ -1,0 +1,82 @@
+{
+  "id": "250002534207",
+  "name": "Pr Andre Bueno",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "15777",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534207.jpg",
+    "alt": "Foto oficial de Pr Andre Bueno"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534207/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ANDREBUENOOFC1"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BORABUENOSP"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/ANDREBUENOOFC"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ANDREBUENOOFC"
+      },
+      {
+        "label": "Site em andrebuenooficial.com.br",
+        "url": "http://andrebuenooficial.com.br/"
+      },
+      {
+        "label": "Site em borabueno.com.br",
+        "url": "http://borabueno.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANDREBUENOOFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANDREBUENOOFC"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ANDREBUENOOFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANDREBUENOOFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BORABUENOSP"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BORABUENOSP"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534207/2026/SP"
+  }
+}

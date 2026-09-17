@@ -1,0 +1,42 @@
+{
+  "id": "250002551230",
+  "name": "Reinaldo Galdino",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70008",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551230.jpg",
+    "alt": "Foto oficial de Reinaldo Galdino"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551230/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/REINALDOGALDINO07"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/REINALDO.GALDINO.2025"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551230/2026/SP"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "250002548506",
+  "name": "Professor Franklin Andrade",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1267",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548506.jpg",
+    "alt": "Foto oficial de Professor Franklin Andrade"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548506/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FRANKLINANDRADE08?_R=1&_T=ZS-98BZUFLR9SG"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/INVITES/CONTACT/?I=1283RAJ51POYR&UTM_CONTENT=W6UUHG"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/FRANKLINANDRADE.PRESIDENTE?MIBEXTID=ZBWKWL"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.k.kwai.com/U/@FRANKLINANDRAD195/AVC3YCM7"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@FRANKLINANDRADE4377?SI=PD5IO_PITAPQHRJT"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548506/2026/SP"
+  }
+}

@@ -1,0 +1,86 @@
+{
+  "id": "250002545217",
+  "name": "Parra",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20111",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545217.jpg",
+    "alt": "Foto oficial de Parra"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545217/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VEREADORPARRA5604?SI=M0JZRTTIMDG6U0NE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VEREADORPARRA?IGSH=MTJHBZG5ODLNBHD6"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1NRUV58MW3/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DGR5AMAVY/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@VEREADORPARRA"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@PARRA.VEREADOR?_R=1&_T=ZS-96UMR1KDQFD"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vereadorparra"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/edisonparravereador"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/parravereador"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@vereadorparra"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@parra.vereador"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@vereadorparra5604?si=mEzgXszEfOkqJkWA"
+      },
+      {
+        "label": "Site em vereadorparra.com.br",
+        "url": "https://vereadorparra.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545217/2026/SP"
+  }
+}

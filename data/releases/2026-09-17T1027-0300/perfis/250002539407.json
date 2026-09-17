@@ -1,0 +1,50 @@
+{
+  "id": "250002539407",
+  "name": "Keiko Ota",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4096",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539407.jpg",
+    "alt": "Foto oficial de Keiko Ota"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539407/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AKEIKOOTA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@KEIKOOTAOFICIAL7267"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/KEIKOOTAOFICIAL/?LOCALE=PT_BR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@akeikoota4?_r=1&_t=ZS-98gucBD7py9"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539407/2026/SP"
+  }
+}

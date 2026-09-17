@@ -1,0 +1,58 @@
+{
+  "id": "250002548861",
+  "name": "Maria Helena Mh",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45210",
+    "status": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548861.jpg",
+    "alt": "Foto oficial de Maria Helena Mh"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548861/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mariahelenaramalho_45"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/v/1EMkwkMfYa/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@mariahelenaram143/5pAiIWCH"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@lya07930?_r=1&_t=ZS-99KCcdWDS9w"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@mariahelena45210"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mariahelenalya2?igsi=MXdxOGN6Y2l0bWdscA=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548861/2026/SP"
+  }
+}

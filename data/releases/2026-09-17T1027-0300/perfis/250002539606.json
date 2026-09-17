@@ -1,0 +1,62 @@
+{
+  "id": "250002539606",
+  "name": "Alleph Hillz",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "1822",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539606.jpg",
+    "alt": "Foto oficial de Alleph Hillz"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539606/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/allephhillz.sp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AllephHillz.Sp/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@AllephHillz"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/Euallephhillz"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@allephhillz"
+      },
+      {
+        "label": "Site em allephhillz.com",
+        "url": "https://www.allephhillz.com/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/allef-f65231155?utm_source=share_via&utm_content=profile&utm_medium=member_android"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539606/2026/SP"
+  }
+}

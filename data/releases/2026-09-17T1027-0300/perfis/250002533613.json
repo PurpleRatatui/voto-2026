@@ -1,0 +1,50 @@
+{
+  "id": "250002533613",
+  "name": "Cassio Gallo",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1551",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533613.jpg",
+    "alt": "Foto oficial de Cassio Gallo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533613/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@CASSIOGALLO3?_R=1&_T=ZS-97HRLDMSFTJ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CASSIOGALLO_JB/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CASSIO.GALLO.CEGG"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@CASSIOGALLO8926/VIDEOS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533613/2026/SP"
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "250002541143",
+  "name": "Eleuses Paiva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5555",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541143.jpg",
+    "alt": "Foto oficial de Eleuses Paiva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541143/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ELEUSESPAIVAF"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ELEUSESPAIVAFILHO"
+      },
+      {
+        "label": "Site em eleusespaiva.com.br",
+        "url": "https://eleusespaiva.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAIVAELEUSES/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/eleuses-paiva-filho/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/paivaeleuses"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/eleusespaivaf"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eleusespaivafilho/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541143/2026/SP"
+  }
+}

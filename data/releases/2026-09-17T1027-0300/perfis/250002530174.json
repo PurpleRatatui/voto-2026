@@ -1,0 +1,98 @@
+{
+  "id": "250002530174",
+  "name": "Dacio Gomyde Pretoni",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3056",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530174.jpg",
+    "alt": "Foto oficial de Dacio Gomyde Pretoni"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530174/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DACIOPRETONIOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DACIOPRETONIOFICIAL/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@DACIOPRETONIFEDERA"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/D%C3%A1CIO-PRETONI-6431B51A/?LOCALE=PT"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DACIOPRETONI2026"
+      },
+      {
+        "label": "Site em daciopretoni.com.br",
+        "url": "https://www.daciopretoni.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/PRETONIDACIO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@daciopretonioficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/daciopretonioficial"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/daciopretonioficial/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@daciopretonifedera"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/PretoniDacio"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/d%C3%A1cio-pretoni-6431b51a/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@daciopretoni2026"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/daciopretoni2026"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@daciopretonioficial"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530174/2026/SP"
+  }
+}

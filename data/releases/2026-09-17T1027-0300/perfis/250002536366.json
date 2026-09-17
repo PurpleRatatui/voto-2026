@@ -1,0 +1,62 @@
+{
+  "id": "250002536366",
+  "name": "Delegada Graciela",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22888",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536366.jpg",
+    "alt": "Foto oficial de Delegada Graciela"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536366/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@DELEGADAGRACIELA?XMT=AQG03XS99N6V4UVSEKPBVPZOGZOAZE-XGR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DELEGADAGRACIELA"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/TIKTOKSTUDIO"
+      },
+      {
+        "label": "Site em delegadagraciela.com.br",
+        "url": "https://delegadagraciela.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DELEGADAGRACIELA?IGSH=CWN4ZGV3Y3NRCG5Q"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@DELEGADAGRACIELA"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEPUTADAGRACIELA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536366/2026/SP"
+  }
+}

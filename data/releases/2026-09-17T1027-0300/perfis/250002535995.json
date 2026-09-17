@@ -1,0 +1,74 @@
+{
+  "id": "250002535995",
+  "name": "Lucas Pavanato",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2211",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535995.jpg",
+    "alt": "Foto oficial de Lucas Pavanato"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535995/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LUCASPAVANATO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUCASPAVANATO/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LUCASPAVANATO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LUCASPAVANATO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pavanato2026/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@axjkh610/dAmBCt0G"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/lucaspavanato?locale=pt_BR"
+      },
+      {
+        "label": "Site em go.nikita.com.br",
+        "url": "https://go.nikita.com.br/LucasPavanato_CorteRapidoFunkDoPavanato"
+      },
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/Lucaspavanatotropa"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@lucaspavanato?igshid=NTc4MTIwNjQ2YQ=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535995/2026/SP"
+  }
+}

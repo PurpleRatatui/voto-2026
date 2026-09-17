@@ -1,0 +1,42 @@
+{
+  "id": "250002545205",
+  "name": "Marco Cobra",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20222",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545205.jpg",
+    "alt": "Foto oficial de Marco Cobra"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545205/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1JRWAGZJ8U/?MIBEXTID=WWXIFR,"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCOCOBRA_?IGSH=MTCYADDWMZMWYJH6DQ%3D%3D&UTM_SOURCE=Q"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545205/2026/SP"
+  }
+}

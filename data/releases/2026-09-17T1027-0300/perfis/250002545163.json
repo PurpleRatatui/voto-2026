@@ -1,0 +1,74 @@
+{
+  "id": "250002545163",
+  "name": "Gilberto Pinheiro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20150",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545163.jpg",
+    "alt": "Foto oficial de Gilberto Pinheiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545163/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/GILBERTOPINHEIRO"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GILBERTOAP.PINHEIRO"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/GIBERTOPINHEIRO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PSI.GILBERTO/%20HTTPS://WWW.INSTAGRAM.COM/GILBERTOPINHEIR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@GILBERTO_PINHEIRO"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/GILBERTOPINHEIRO2024/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/psi.gilberto/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/GilbertoPinheiro20.150/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/gilbertopinheiropodemos/"
+      },
+      {
+        "label": "Site em gilberto-paulo-sp.cmaraujo05.chatgpt.site",
+        "url": "https://gilberto-paulo-sp.cmaraujo05.chatgpt.site/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545163/2026/SP"
+  }
+}

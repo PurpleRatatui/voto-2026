@@ -1,0 +1,42 @@
+{
+  "id": "250002538914",
+  "name": "Fábio Pereira dos Santos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50507",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002538914.jpg",
+    "alt": "Foto oficial de Fábio Pereira dos Santos"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538914/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/FABIO.PEREIRA.DOS.SANTOS.494107?RDID=AZIZW9ZCQD9PFL9I&S"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FABIOPEREIRA.SP?UTM_SOURCE=QR&IGSH=MTUYZ2JNYMKYYXKXDQ%"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538914/2026/SP"
+  }
+}

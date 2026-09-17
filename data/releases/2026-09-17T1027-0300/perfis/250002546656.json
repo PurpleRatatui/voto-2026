@@ -1,0 +1,74 @@
+{
+  "id": "250002546656",
+  "name": "Ludy Dias",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1441",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546656.jpg",
+    "alt": "Foto oficial de Ludy Dias"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546656/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/aludydias?igsi=ZDFndnZmbWo3Y2pi"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/aludydias.propostas?igsi=MTRqMmR5Y29vZnFzNQ=="
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/aludydias?s=11"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@aludydias14?_r=1&_t=ZS-994HNH4N3cj"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1FG99eYmMa/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1FA3RNQv4U/?mibextid=wwXIfr"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@aludydias?si=XjwkjsulEOMnDTHu"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@aludydias?igshid=NTc4MTIwNjQ2YQ=="
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@aludydias"
+      },
+      {
+        "label": "Site em aludydias.com.br",
+        "url": "https://aludydias.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546656/2026/SP"
+  }
+}

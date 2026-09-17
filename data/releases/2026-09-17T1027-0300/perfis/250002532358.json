@@ -1,0 +1,58 @@
+{
+  "id": "250002532358",
+  "name": "Nina Passadore",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4407",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532358.jpg",
+    "alt": "Foto oficial de Nina Passadore"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532358/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARINA.PASSADORE"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@NINAPASSADORE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/NINAPASSADORE/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/MARINAPASSADORE"
+      },
+      {
+        "label": "Site em ninapassadore.com.br",
+        "url": "https://ninapassadore.com.br/"
+      },
+      {
+        "label": "Site em rafaelsaraivasp.com.br",
+        "url": "https://rafaelsaraivasp.com.br/ninapassadore"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532358/2026/SP"
+  }
+}

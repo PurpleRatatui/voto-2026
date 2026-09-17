@@ -1,0 +1,42 @@
+{
+  "id": "250002547984",
+  "name": "Henrique Barros",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12000",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002547984.jpg",
+    "alt": "Foto oficial de Henrique Barros"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547984/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ENGHENRIQUEBARROS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ENG.HENRIQUE.BARROS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547984/2026/SP"
+  }
+}

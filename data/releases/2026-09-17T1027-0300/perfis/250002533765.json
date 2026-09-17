@@ -1,0 +1,58 @@
+{
+  "id": "250002533765",
+  "name": "Eliane Pacheco",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11221",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533765.jpg",
+    "alt": "Foto oficial de Eliane Pacheco"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533765/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@ELIANEPACHECOCON"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@THEELIANEP?SI=QXPS4TQFZIR3VC8O"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@ELIANEPACHECO98"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ELIANE.PACHECO.227163#"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ELIANEPACHECOCON"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@THEELIANEP"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533765/2026/SP"
+  }
+}

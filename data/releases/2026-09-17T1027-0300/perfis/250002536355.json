@@ -1,0 +1,50 @@
+{
+  "id": "250002536355",
+  "name": "Dra. Carol Amaro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22212",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536355.jpg",
+    "alt": "Foto oficial de Dra. Carol Amaro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536355/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em acarol-amaro-dra-carol-amaro-campanha.cheetah.builderall.com",
+        "url": "https://acarol-amaro-dra-carol-amaro-campanha.cheetah.builderall.com/?FBCLID=IWR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DRACAROL.CEDRAL?IGSH=MWFKEHVLCNF0CXHSMG%3D%3D&UTM_SOUR"
+      },
+      {
+        "label": "Site em dracarolamaro22212.com.br",
+        "url": "https://dracarolamaro22212.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/carol.amaro.31"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536355/2026/SP"
+  }
+}

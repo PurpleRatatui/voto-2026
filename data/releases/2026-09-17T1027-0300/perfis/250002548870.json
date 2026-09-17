@@ -1,0 +1,42 @@
+{
+  "id": "250002548870",
+  "name": "Jairo da Silva Alves",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45455",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548870.jpg",
+    "alt": "Foto oficial de Jairo da Silva Alves"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548870/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@_PS.JAIRO?XMT=AQG0CMUDYMOLNFWG-E4XDG0W_ECWQ2QRRFI1LO6BF"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_PS.JAIRO/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548870/2026/SP"
+  }
+}

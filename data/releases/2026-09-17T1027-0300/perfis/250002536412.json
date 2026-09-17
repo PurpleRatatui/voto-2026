@@ -1,0 +1,58 @@
+{
+  "id": "250002536412",
+  "name": "Paulo Kogos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22038",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536412.jpg",
+    "alt": "Foto oficial de Paulo Kogos"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536412/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/OPROPRIOKOGOS/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PAULOKOGOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/OPROPRIOKOGOS"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/OPROPRIOKOGOS"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@OPROPRIOKOGOS"
+      },
+      {
+        "label": "Site em paulokogos.com.br",
+        "url": "https://www.paulokogos.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536412/2026/SP"
+  }
+}

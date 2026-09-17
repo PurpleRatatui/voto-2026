@@ -1,0 +1,54 @@
+{
+  "id": "250002539421",
+  "name": "Netinho Maia",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4065",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539421.jpg",
+    "alt": "Foto oficial de Netinho Maia"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539421/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ONETINHOMAIA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/onetinhomaia?igsh=MTRueDNjY2xtdG9rbA==&igsi=MTRueDNjY2xtdG9rbA=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/17bzT6DoeT/?mibextid=wwXIfr"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@netinhoomaia?si=xHw4cx-4wFtQNMbx"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@netinhomaiaoficial?_r=1&_t=ZS-98er6dpEbNF"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539421/2026/SP"
+  }
+}

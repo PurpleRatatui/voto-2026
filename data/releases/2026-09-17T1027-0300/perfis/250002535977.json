@@ -1,0 +1,62 @@
+{
+  "id": "250002535977",
+  "name": "Kleber Ribeiro",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2228",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535977.jpg",
+    "alt": "Foto oficial de Kleber Ribeiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535977/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KLEBERRIBEIRO.00?IGSH=NXLPZHBODWK4YXDR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@KLEBERRIBEIRRO00?_R=1&_T=ZS-96NXVKFBOAS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GABINETEMOVEL_KR?IGSH=NDIXCWRUANB4OHCY"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KLEBERRIBEIRO00/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/KLEBER.RIBEIRODESOUZA.7?RDID=IXJB57LXYCHHJ4XT&SHARE_URL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/KLEBERRIBEIROSP?RDID=APHE5R76AON0JOW2&SHARE_URL=HTTPS%3"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@KLEBERRIBEIRO00?SI=BOLODDGUAJ7EWIVZ"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535977/2026/SP"
+  }
+}

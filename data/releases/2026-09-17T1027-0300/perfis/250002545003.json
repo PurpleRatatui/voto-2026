@@ -1,0 +1,62 @@
+{
+  "id": "250002545003",
+  "name": "Charles Ribeiro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14003",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545003.jpg",
+    "alt": "Foto oficial de Charles Ribeiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545003/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/charlesribeiro_"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/charlesribeiro_"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@charlesribeiro_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/ribeirocharless"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/ribeirocharles"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@charlesribeiro_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/charlesribeir0/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545003/2026/SP"
+  }
+}

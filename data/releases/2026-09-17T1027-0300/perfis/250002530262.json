@@ -1,0 +1,54 @@
+{
+  "id": "250002530262",
+  "name": "Prof. Haroldo Nogueira",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30430",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530262.jpg",
+    "alt": "Foto oficial de Prof. Haroldo Nogueira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530262/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/HAROLDOLNS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/HAROLDO.SILVA.3975"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@HAROLDONOGUEIRA"
+      },
+      {
+        "label": "Site em haroldonogueira.com.br",
+        "url": "https://www.haroldonogueira.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/HAROLDO-NOGUEIRA/61591758002997/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530262/2026/SP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "250002541866",
+  "name": "Vinicius Aith",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10555",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541866.jpg",
+    "alt": "Foto oficial de Vinicius Aith"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541866/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DK3FVKJ9D/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VINICIUSAITH?IGSH=OWU2BJLIDM1NNGZU"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@viniciusaith"
+      },
+      {
+        "label": "Site em participe.viniciusaith.com.br",
+        "url": "https://participe.viniciusaith.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541866/2026/SP"
+  }
+}

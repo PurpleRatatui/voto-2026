@@ -1,0 +1,50 @@
+{
+  "id": "250002532325",
+  "name": "Ana Paula Goffi",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4440",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532325.jpg",
+    "alt": "Foto oficial de Ana Paula Goffi"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532325/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ANAPAULAGOFFI"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/ANAPAULAGOFFI"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANAPAULAGOFFI"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANAPAULAGOFFI/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532325/2026/SP"
+  }
+}

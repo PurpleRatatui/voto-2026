@@ -1,0 +1,200 @@
+{
+  "id": "280002542548",
+  "name": "Lula",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002542548/2026BR280002542548_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LULAOFICIAL?IGSH=NGRIZTRVMND4ZTJS"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LULAOFICIAL?_R=1&_T=ZS-98H1GREGK7H"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@LULAOFICIAL/XGXCOK66"
+      },
+      {
+        "label": "Site em music.amazon.com.br",
+        "url": "https://music.amazon.com.br/PODCASTS/FF48DCC6-34FF-453A-92B9-9D27161A646D/PODCAS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/OBRASILCOMLULA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BRASILCOMLULA_"
+      },
+      {
+        "label": "Site em deezer.com",
+        "url": "https://www.deezer.com/ES/SHOW/3728967"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@BRASILCOMLULA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LULAOFICIAL"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/SHOW/0VHUNM3XLD6CGI3LRTTGBB"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LULA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/OBRASILCOMLULA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LULAOFICIAL"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/PHOTOS/LULAOFICIAL/"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/SHOW/5YNKXGHBJDP3RWY6Q2M2SX?SI=C1CDAF95D0384616"
+      },
+      {
+        "label": "Site em mercadodamentira.com.br",
+        "url": "http://www.mercadodamentira.com.br/"
+      },
+      {
+        "label": "Site em opiordosbolsonaros.com.br",
+        "url": "https://opiordosbolsonaros.com.br/"
+      },
+      {
+        "label": "Site em podeespalhar.com.br",
+        "url": "https://podeespalhar.com.br/"
+      },
+      {
+        "label": "Site em comitepopular.org.br",
+        "url": "https://comitepopular.org.br/"
+      },
+      {
+        "label": "Site em doelula13.com.br",
+        "url": "https://doelula13.com.br/"
+      },
+      {
+        "label": "Site em geracao.lula.com.br",
+        "url": "https://geracao.lula.com.br/"
+      },
+      {
+        "label": "Site em brasilquermaistempo.com.br",
+        "url": "https://brasilquermaistempo.com.br/"
+      },
+      {
+        "label": "Site em brasilquermais.com.br",
+        "url": "https://brasilquermais.com.br/"
+      },
+      {
+        "label": "Site em timelulanosenado.com.br",
+        "url": "https://www.timelulanosenado.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@pode_espalhar"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@evangelicoscomlula"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@comitedeluta?lang=en"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/comitepopularoficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lulaversoficial"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pode_espalhar"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/geracaolula"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/evangelicoscomlula"
+      },
+      {
+        "label": "Instagram",
+        "url": "http://instagram.com/brasilquermais"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/lulaverso"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/pode_espalhar"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LulaEvangelicos"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/comitespop"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Pode-Espalhar/61577944114979"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/evangelicoscomlula"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/lulaverso"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/geracaolula"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/u/@podeespalhar/Cu4CfgOx"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002542548/2026/BR"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "250002546615",
+  "name": "Yasmin Sarraf",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1415",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546615.jpg",
+    "alt": "Foto oficial de Yasmin Sarraf"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546615/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/yasminsarrafsp/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@yasminsarrafsp?is_from_webapp=1&sender_device=pc"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/yasminsarrafsp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1HNxZHcGJ7/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/yasminsarrafsp/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@yasminsarrafsp"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@yasminsarrafsp/XeAMCBJa"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546615/2026/SP"
+  }
+}

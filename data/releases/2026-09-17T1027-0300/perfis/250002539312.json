@@ -1,0 +1,54 @@
+{
+  "id": "250002539312",
+  "name": "Abidan Henrique",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "40000",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539312.jpg",
+    "alt": "Foto oficial de Abidan Henrique"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539312/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em abidan.com.br",
+        "url": "https://abidan.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ABIDANHENRIQUE/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ABIDANHENRIQUE/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/ABIDANHENRIQUE/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ABIDAN.HENRIQUE.SILVA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539312/2026/SP"
+  }
+}

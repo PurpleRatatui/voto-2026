@@ -1,0 +1,66 @@
+{
+  "id": "250002548502",
+  "name": "Glauce Lima",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1233",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548502.jpg",
+    "alt": "Foto oficial de Glauce Lima"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548502/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GLAUCELIMA12/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.web.facebook.com/GLAUCELIMAGKSCANONLINE"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@GKSCANONLINEGLAUCE?_R=1&_T=ZS-98EQLZHVVON"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GKSCANONLINE/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GLAUCELIMA12"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GKSCANONLINE"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.web.facebook.com/GKSCANONLI"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/GLAUCELIMA12"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548502/2026/SP"
+  }
+}

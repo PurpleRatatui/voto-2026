@@ -1,0 +1,84 @@
+{
+  "schemaVersion": 1,
+  "electionYear": 2026,
+  "releaseId": "2026-09-17T1027-0300",
+  "generatedAt": "2026-09-17T10:27:00-03:00",
+  "source": {
+    "name": "TSE — Dados Abertos e DivulgaCandContas",
+    "datasetUrl": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026",
+    "candidateSource": "CAND, Candex e DivulgaCand",
+    "inputFiles": [
+      "consulta_cand_2026_BR.csv",
+      "consulta_cand_2026_SP.csv"
+    ],
+    "complementFiles": [
+      "consulta_cand_complementar_2026_BR.csv",
+      "consulta_cand_complementar_2026_SP.csv"
+    ],
+    "socialFiles": [
+      "rede_social_candidato_2026_BR.csv",
+      "rede_social_candidato_2026_SP.csv"
+    ],
+    "proposalDirectories": [
+      "BR",
+      "SP"
+    ]
+  },
+  "coverage": {
+    "BR": {
+      "presidencia": {
+        "label": "Presidência",
+        "cards": "data/releases/2026-09-17T1027-0300/BR/presidencia.cards.json",
+        "count": 13,
+        "status": "available"
+      }
+    },
+    "SP": {
+      "governador": {
+        "label": "Governo do estado",
+        "cards": "data/releases/2026-09-17T1027-0300/SP/governador.cards.json",
+        "count": 7,
+        "status": "available"
+      },
+      "senador": {
+        "label": "Senado",
+        "cards": "data/releases/2026-09-17T1027-0300/SP/senador.cards.json",
+        "count": 15,
+        "status": "available"
+      },
+      "deputado-federal": {
+        "label": "Câmara dos Deputados",
+        "cards": "data/releases/2026-09-17T1027-0300/SP/deputado-federal.cards.json",
+        "count": 1071,
+        "status": "available"
+      },
+      "deputado-estadual": {
+        "label": "Assembleia Legislativa",
+        "cards": "data/releases/2026-09-17T1027-0300/SP/deputado-estadual.cards.json",
+        "count": 1366,
+        "status": "available"
+      }
+    }
+  },
+  "importSummary": {
+    "inputRows": 2656,
+    "complementRows": 2656,
+    "ignoredRows": 58,
+    "excludedWithoutComplement": 0,
+    "excludedNotOnBallot": 126,
+    "candidateProfiles": 2472,
+    "localPhotos": 2459,
+    "socialRows": 8987,
+    "socialMatchedRows": 8681,
+    "socialRowsOutsideRelease": 306,
+    "profilesWithSocialLinks": 2029,
+    "socialLinksAccepted": 7996,
+    "socialLinksRejected": 685,
+    "proposalFilesFound": 22,
+    "proposalFilesSkippedEmpty": 0,
+    "proposalDocumentsAvailable": 22,
+    "proposalFilesOutsideRelease": 1,
+    "proposalDocumentsCopied": 21,
+    "profilesWithProposalDocuments": 19
+  }
+}

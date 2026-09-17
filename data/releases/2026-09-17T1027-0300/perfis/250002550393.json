@@ -1,0 +1,46 @@
+{
+  "id": "250002550393",
+  "name": "Priscila Enfermeira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "4550",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002550393.jpg",
+    "alt": "Foto oficial de Priscila Enfermeira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550393/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PRIENFERMEIRAVEREADORA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PRISCILA.FRANCO30/?LOCALE=PT_BR"
+      },
+      {
+        "label": "Site em priscilaenfermeira.com.br",
+        "url": "https://priscilaenfermeira.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550393/2026/SP"
+  }
+}

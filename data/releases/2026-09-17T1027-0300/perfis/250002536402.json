@@ -1,0 +1,58 @@
+{
+  "id": "250002536402",
+  "name": "Stella Braga",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22121",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536402.jpg",
+    "alt": "Foto oficial de Stella Braga"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536402/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/STELLABRAGA.SP?IGSH=MTJ5NDVSDMMWZJB1NA=="
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/stellabragasp?s=21"
+      },
+      {
+        "label": "Site em stellabraga.com.br",
+        "url": "https://www.stellabraga.com.br/22121"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1GxT4CkSZ6/?mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@stellabragat?_r=1&_t=ZS-9931bQYFAa8"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/5517997473540"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536402/2026/SP"
+  }
+}

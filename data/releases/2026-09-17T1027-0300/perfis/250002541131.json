@@ -1,0 +1,58 @@
+{
+  "id": "250002541131",
+  "name": "Doutor Caboclo",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5554",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541131.jpg",
+    "alt": "Foto oficial de Doutor Caboclo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541131/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/CARLOSALBERTODECARVALHO"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DOUTORCABOCLO?SI=DM_BOV_VMGD64KZF"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DOUTOR.CABOCLO/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@CABOCLODOUTOR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/doutorcaboclo/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/doutorcaboclo/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541131/2026/SP"
+  }
+}

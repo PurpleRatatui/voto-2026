@@ -1,0 +1,62 @@
+{
+  "id": "250002534178",
+  "name": "Atila Jacomussi",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "25000",
+    "status": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534178.jpg",
+    "alt": "Foto oficial de Atila Jacomussi"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534178/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ATILAJACOMUSSIPOLITICO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ATILAJACOMUSSI/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=100010318265964"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ATILA.JACOMUSSI.18"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEPUTADOATILAJACOMUSSI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ATILA.JACOMUSSI.5"
+      },
+      {
+        "label": "Site em atilajacomussi.com.br",
+        "url": "http://www.atilajacomussi.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534178/2026/SP"
+  }
+}

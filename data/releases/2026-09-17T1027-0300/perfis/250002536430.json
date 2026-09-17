@@ -1,0 +1,54 @@
+{
+  "id": "250002536430",
+  "name": "Major Bonfim",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22266",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536430.jpg",
+    "alt": "Foto oficial de Major Bonfim"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536430/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18NSZ1XWAH/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18NSZ1XWAH"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MAJOR_ELIASBONFIM?UTM_SOURCE=QR&IGSH=MWJUETVXBDJVZMHXB"
+      },
+      {
+        "label": "Site em majorbonfim.com.br",
+        "url": "https://majorbonfim.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/majorbonfim22266"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536430/2026/SP"
+  }
+}

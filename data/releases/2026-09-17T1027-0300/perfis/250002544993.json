@@ -1,0 +1,58 @@
+{
+  "id": "250002544993",
+  "name": "Luis Acuña",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14005",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544993.jpg",
+    "alt": "Foto oficial de Luis Acuña"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544993/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/luisacuna.missao"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@luisacuna.missao"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@luisacuna.missao"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/aa.luisfernando"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/aaluisfernando"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/in/luisacunaa"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544993/2026/SP"
+  }
+}

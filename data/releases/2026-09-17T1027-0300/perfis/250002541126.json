@@ -1,0 +1,58 @@
+{
+  "id": "250002541126",
+  "name": "Daniel Bassi",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5565",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541126.jpg",
+    "alt": "Foto oficial de Daniel Bassi"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541126/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DANIELBASSIOFICIAL/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/DANIELBASSIOFICIAL"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DANIELBASSIOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DANIELBASSIOFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/danielbassioficial/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/17tQ1uJgkc/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541126/2026/SP"
+  }
+}

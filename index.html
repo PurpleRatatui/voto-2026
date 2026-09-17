@@ -170,11 +170,12 @@
           <h1 id="offices-title">Por onde você quer começar?</h1>
           <p class="lead" id="office-copy">Comece pela Presidência. As bases do seu estado entram assim que a importação oficial terminar.</p>
           <div class="office-list">
-            <button class="office" type="button" data-office="presidencia"><span><strong>Presidência</strong><small id="presidencia-count">Lote nacional disponível</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="presidencia"><span><strong>Presidência</strong><small>Lote nacional disponível</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
             <button class="office" type="button" data-office="governador" disabled><span><strong>Governo do estado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
             <button class="office" type="button" data-office="senador" disabled><span><strong>Senado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
             <button class="office" type="button" data-office="deputado-federal" disabled><span><strong>Câmara dos Deputados</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
             <button class="office" type="button" data-office="deputado-estadual" disabled><span><strong>Assembleia Legislativa</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-distrital" hidden disabled><span><strong>Câmara Legislativa do DF</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
           </div>
         </section>
 
@@ -207,7 +208,7 @@
 
         <section class="view" id="view-saved" hidden aria-labelledby="saved-title"><p class="eyebrow">Sua lista</p><h1 id="saved-title">Salvos para revisar</h1><p class="lead">Revise fontes e, quando quiser, confira partido e número de urna.</p><div class="saved-list" id="saved-list"></div><div class="empty-state" id="saved-empty" hidden><h3>Nenhuma candidatura salva ainda</h3><p>Explore um cargo e guarde os perfis que quiser analisar depois.</p><button class="button button--primary" id="empty-explore" type="button">Explorar candidaturas</button></div><details id="skipped-details"><summary id="skipped-summary">Candidaturas puladas (0)</summary><div class="skipped-list" id="skipped-list"></div></details></section>
 
-        <section class="view" id="view-about" hidden aria-labelledby="about-title"><p class="eyebrow">Sobre este projeto</p><h1 id="about-title">Como os dados entram?</h1><div class="explain-list"><section class="explain-item"><h3>Sem ranking</h3><p>Os temas destacam conteúdo quando houver fonte revisada. Eles não calculam afinidade nem recomendam voto.</p></section><section class="explain-item"><h3>Dados no seu aparelho</h3><p>Salvos, pulados e prioridades ficam neste navegador. Não há login, anúncios ou rastreamento dessas escolhas.</p></section><section class="explain-item"><h3>Fonte e atualização</h3><p>O lote inicial foi consultado no TSE em 16 de setembro de 2026, às 14h30. <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2026" target="_blank" rel="noopener noreferrer">Ver base de candidaturas do TSE</a>.</p></section><section class="explain-item"><h3>Cobertura em etapas</h3><p>O site baixa só os dados do cargo e estado escolhidos. Fontes e temas entram após revisão humana.</p></section></div><div class="button-row"><button class="button button--secondary" id="clear-data" type="button">Apagar dados deste dispositivo</button><button class="button button--quiet button--danger" id="restart" type="button">Reiniciar</button></div></section>
+        <section class="view" id="view-about" hidden aria-labelledby="about-title"><p class="eyebrow">Sobre este projeto</p><h1 id="about-title">Como os dados entram?</h1><div class="explain-list"><section class="explain-item"><h3>Sem ranking</h3><p>Os temas destacam conteúdo quando houver fonte revisada. Eles não calculam afinidade nem recomendam voto.</p></section><section class="explain-item"><h3>Dados no seu aparelho</h3><p>Salvos, pulados e prioridades ficam neste navegador. Não há login, anúncios ou rastreamento dessas escolhas.</p></section><section class="explain-item"><h3>Fonte e atualização</h3><p>A data de consulta aparece em cada perfil. O lote atual inclui Presidência e São Paulo com dados oficiais do TSE. <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2026" target="_blank" rel="noopener noreferrer">Ver base de candidaturas do TSE</a>.</p></section><section class="explain-item"><h3>Cobertura em etapas</h3><p>O site baixa só os dados do cargo e estado escolhidos. Fontes e temas entram após revisão humana.</p></section></div><div class="button-row"><button class="button button--secondary" id="clear-data" type="button">Apagar dados deste dispositivo</button><button class="button button--quiet button--danger" id="restart" type="button">Reiniciar</button></div></section>
       </main>
       <nav class="bottom-nav" id="bottom-nav" aria-label="Navegação principal" hidden><div class="bottom-nav-inner"><button class="nav-button" type="button" data-nav="explore"><span aria-hidden="true">⌕</span><span>Explorar</span></button><button class="nav-button" type="button" data-nav="saved"><span aria-hidden="true">▱</span><span>Salvos</span></button><button class="nav-button" type="button" data-nav="about"><span aria-hidden="true">ⓘ</span><span>Entenda</span></button></div></nav>
     </div>
@@ -219,66 +220,216 @@
 
         const storageKey = 'voto2026-static-v1';
         const maxPriorities = 5;
+        const officeDefinitions = {
+          presidencia: { label:'Presidência', role:'Candidatura à Presidência', scope:'BR' },
+          governador: { label:'Governo do estado', role:'Candidatura ao Governo do estado' },
+          senador: { label:'Senado', role:'Candidatura ao Senado' },
+          'deputado-federal': { label:'Câmara dos Deputados', role:'Candidatura à Câmara dos Deputados' },
+          'deputado-estadual': { label:'Assembleia Legislativa', role:'Candidatura à Assembleia Legislativa' },
+          'deputado-distrital': { label:'Câmara Legislativa do DF', role:'Candidatura à Câmara Legislativa do DF' }
+        };
         const fallbackRecords = [
           ['280002552484','Clariana Barao','CB','DC','27','Concorrendo','https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380'],
           ['280002551975','Edmilson Costa','EC','PCB','21','Concorrendo',''], ['280002551547','Escritor Augusto Cury','EC','AVANTE','70','Concorrendo',''], ['280002551544','Flavio Bolsonaro','FB','PL','22','Concorrendo',''], ['280002541457','Hertz Dias','HD','PSTU','16','Concorrendo',''], ['280002554479','Leonardo Avalanche','LA','PRTB','28','Concorrendo',''], ['280002542548','Lula','LU','PT','13','Concorrendo',''], ['280002553884','Pablo Marçal','PM','PRTB','28','Inapto',''], ['280002540694','Renan Santos','RS','MISSÃO','14','Concorrendo',''], ['280002551932','Ronaldo Caiado','RC','PSD','55','Concorrendo',''], ['280002552487','Rui Costa Pimenta','RP','PCO','29','Concorrendo',''], ['280002538811','Samara','SA','UP','80','Concorrendo',''], ['280002548139','Veterinário Wilson Grassi','VG','DEMOCRATA','35','Concorrendo',''], ['280002539826','Zema','ZE','NOVO','30','Concorrendo','']
         ];
         const checkedAt = '16 de setembro de 2026, 14h30 (BRT)';
-        const fallbackCards = fallbackRecords.map(([id,name,initials]) => ({ id, name, initials, profile:`data/releases/2026-09-16T1430-0300/perfis/${id}.json`, summary:'Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.', tags:['Fontes em revisão'] }));
+        const fallbackCards = fallbackRecords.map(([id,name,initials]) => ({ id, name, initials, office:'presidencia', uf:'BR', profile:`data/releases/2026-09-16T1430-0300/perfis/${id}.json`, summary:'Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.', tags:['Fontes em revisão'] }));
         const fallbackProfiles = Object.fromEntries(fallbackRecords.map(([id,name,initials,party,number,status,document]) => [id, {
           id, name, office:'presidencia', sourceCheckedAt:'2026-09-16T14:30:00-03:00', electionData:{party,number,status}, photo:{state:'pending-local-copy'},
           proposals:[document ? {state:'document-found',title:'Proposta de governo',text:'Uma proposta apresentada à Justiça Eleitoral foi localizada. A leitura e a classificação por temas ainda estão em revisão editorial.',sourceLabel:'Proposta apresentada à Justiça Eleitoral',sourceUrl:document} : {state:'not-indexed',title:'Proposta de governo',text:'Ainda não há proposta indexada nesta ficha. Isso não permite concluir a posição da candidatura sobre qualquer tema.',sourceLabel:'Ficha pública da candidatura no TSE'}],
           networks:{state:'importing',items:[]}, sources:{candidateRecord:`https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/${id}/2026/BR`}
         }]));
-        const defaultState = { uf:'', priorities:[], office:'', cards:[], index:0, saved:[], skipped:[], activeId:'', lastView:'welcome' };
+        const defaultState = { uf:'', priorities:[], office:'', cards:[], index:0, saved:[], savedCards:{}, skipped:[], activeId:'', lastView:'welcome' };
         let appState = loadState();
         let manifest = null;
         let profiles = new Map();
+        const catalogCache = new Map();
         let usingFallback = false;
         const views = [...document.querySelectorAll('.view')];
         const nav = document.getElementById('bottom-nav');
         const stateSelect = document.getElementById('state-select');
         const stateNext = document.getElementById('state-next');
         const priorityButtons = [...document.querySelectorAll('.topic')];
+        const officeButtons = [...document.querySelectorAll('.office')];
         const sourceModal = document.getElementById('source-modal');
 
-        function loadState() { try { const stored = JSON.parse(localStorage.getItem(storageKey)); return stored && typeof stored === 'object' ? {...defaultState,...stored,cards:[]} : {...defaultState}; } catch { return {...defaultState}; } }
+        function loadState() { try { const stored = JSON.parse(localStorage.getItem(storageKey)); if (!stored || typeof stored !== 'object') return {...defaultState}; return {...defaultState,...stored,cards:[],saved:Array.isArray(stored.saved) ? stored.saved : [],savedCards:stored.savedCards && typeof stored.savedCards === 'object' ? stored.savedCards : {},skipped:Array.isArray(stored.skipped) ? stored.skipped : []}; } catch { return {...defaultState}; } }
         function persist() { try { const {cards,...smallState} = appState; localStorage.setItem(storageKey, JSON.stringify(smallState)); } catch {} }
         function clearStoredData() { try { localStorage.removeItem(storageKey); } catch {} appState = {...defaultState}; }
         function formatCheckedAt(iso) { if (!iso) return checkedAt; const date = new Date(iso); return Number.isNaN(date.getTime()) ? checkedAt : new Intl.DateTimeFormat('pt-BR',{dateStyle:'long',timeStyle:'short',timeZone:'America/Sao_Paulo'}).format(date).replace(',', ' às'); }
         function shuffle(items) { const copy = [...items]; for (let i = copy.length - 1; i > 0; i -= 1) { const j = Math.floor(Math.random() * (i + 1)); [copy[i],copy[j]] = [copy[j],copy[i]]; } return copy; }
-        function cardById(id) { return appState.cards.find((card) => card.id === id) || fallbackCards.find((card) => card.id === id) || null; }
+        function cardById(id) { return appState.cards.find((card) => card.id === id) || appState.savedCards[id] || fallbackCards.find((card) => card.id === id) || null; }
         function currentCard() { return appState.cards[appState.index] || null; }
-        function roleLabel() { return appState.office === 'presidencia' ? 'Candidatura à Presidência' : 'Candidatura'; }
+        function officeDefinition(office=appState.office) { return officeDefinitions[office] || {label:'Cargo',role:'Candidatura'}; }
+        function roleLabel(office=appState.office) { return officeDefinition(office).role; }
+        function stateLabel() { return stateSelect.options[stateSelect.selectedIndex]?.text || 'Brasil'; }
+        function scopeForOffice(office) { return officeDefinition(office).scope || appState.uf; }
+        function collectionFor(office) { return manifest?.coverage?.[scopeForOffice(office)]?.[office] || null; }
+        function collectionAvailable(collection) { return Boolean(collection?.cards && collection.status !== 'importing' && collection.status !== 'unavailable'); }
+        function safeExternalUrl(value) { try { const url = new URL(value,window.location.href); return ['http:','https:'].includes(url.protocol) && !url.username && !url.password ? url.href : ''; } catch { return ''; } }
         function candidateSourceLine() { return manifest?.generatedAt ? `Registro público do TSE consultado em ${formatCheckedAt(manifest.generatedAt)}` : `Registro público do TSE consultado em ${checkedAt}`; }
         function showView(name, {focus=true} = {}) { views.forEach((view) => { view.hidden = view.id !== `view-${name}`; }); appState.lastView = name; nav.hidden = ['welcome','state','priorities','offices'].includes(name) || !appState.office; document.querySelectorAll('.nav-button').forEach((button) => { const active = button.dataset.nav === name || (name === 'profile' && button.dataset.nav === 'explore'); button.toggleAttribute('aria-current', active); if (active) button.setAttribute('aria-current','page'); }); persist(); if (focus) { const heading = document.querySelector(`#view-${name} h1,#view-${name} h2`); if (heading) { heading.setAttribute('tabindex','-1'); heading.focus({preventScroll:true}); heading.removeAttribute('tabindex'); } } window.scrollTo({top:0,behavior:'auto'}); }
+        function renderOfficeAvailability() {
+          const selectedState = stateLabel();
+          const readyStateOffices = officeButtons.filter((button) => button.dataset.office !== 'presidencia' && collectionAvailable(collectionFor(button.dataset.office))).length;
+          document.getElementById('office-copy').textContent = readyStateOffices ? `${selectedState} tem ${readyStateOffices} cargos estaduais com base oficial disponível neste lote.` : `Você selecionou ${selectedState}. A Presidência é nacional; os cargos do estado entram após a importação oficial.`;
+          officeButtons.forEach((button) => {
+            const office = button.dataset.office;
+            const districtOnly = office === 'deputado-distrital';
+            const stateOnly = office === 'deputado-estadual';
+            button.hidden = (districtOnly && appState.uf !== 'DF') || (stateOnly && appState.uf === 'DF');
+            if (button.hidden) return;
+            const definition = officeDefinition(office);
+            const collection = collectionFor(office);
+            const available = collectionAvailable(collection);
+            button.disabled = !available;
+            button.querySelector('strong').textContent = definition.label;
+            const count = Number(collection?.count || 0);
+            button.querySelector('small').textContent = available ? `${count} ${count === 1 ? 'registro oficial' : 'registros oficiais'}` : 'Base oficial em importação';
+          });
+        }
         function renderPriorities() { priorityButtons.forEach((button) => button.setAttribute('aria-pressed',String(appState.priorities.includes(button.dataset.topic)))); const count = appState.priorities.length; document.getElementById('priority-status').textContent = count ? `${count} de ${maxPriorities} temas selecionados` : 'Nenhum tema selecionado'; }
         function renderAvatar(card) { const avatar = document.getElementById('candidate-avatar'); const image = document.getElementById('candidate-photo'); document.getElementById('candidate-initials').textContent = card.initials; avatar.classList.remove('has-photo'); image.removeAttribute('src'); const photo = card.photo?.src; if (photo) { image.onload = () => avatar.classList.add('has-photo'); image.onerror = () => avatar.classList.remove('has-photo'); image.src = photo; } }
-        function renderExplore() { const card = currentCard(); const total = appState.cards.length; const finished = !card; const seen = Math.min(appState.index + 1,total); document.getElementById('selected-state-label').textContent = stateSelect.options[stateSelect.selectedIndex]?.text || 'Brasil'; document.getElementById('explore-office-label').textContent = 'Presidência'; document.getElementById('explore-title').textContent = 'Candidaturas à Presidência'; document.getElementById('progress-text').textContent = total ? (finished ? `${total} de ${total} vistos` : `${seen} de ${total} vistos`) : 'Nenhuma candidatura carregada'; document.getElementById('progress-value').style.width = `${total ? Math.round((Math.min(appState.index + 1,total) / total) * 100) : 0}%`; document.querySelector('.progress-track').setAttribute('aria-valuemax',String(total)); document.querySelector('.progress-track').setAttribute('aria-valuenow',String(seen)); document.getElementById('profile-card').hidden = finished; document.getElementById('explore-actions').hidden = finished; document.getElementById('explore-finished').hidden = !finished; if (!card) return; renderAvatar(card); document.getElementById('candidate-name').textContent = card.name; document.getElementById('candidate-role').textContent = roleLabel(); document.getElementById('candidate-summary').textContent = card.summary; document.getElementById('candidate-source-line').textContent = candidateSourceLine(); const tags = document.getElementById('candidate-tags'); tags.replaceChildren(...(card.tags?.length ? card.tags : ['Fontes em revisão']).map((tag) => { const node = document.createElement('span'); node.className='tag'; node.textContent=tag; return node; })); }
+        function renderExplore() { const card = currentCard(); const total = appState.cards.length; const finished = !card; const seen = Math.min(appState.index + 1,total); const definition = officeDefinition(); document.getElementById('selected-state-label').textContent = appState.office === 'presidencia' ? 'Brasil' : stateLabel(); document.getElementById('explore-office-label').textContent = definition.label; document.getElementById('explore-title').textContent = `Candidaturas — ${definition.label}`; document.getElementById('progress-text').textContent = total ? (finished ? `${total} de ${total} vistos` : `${seen} de ${total} vistos`) : 'Nenhuma candidatura carregada'; document.getElementById('progress-value').style.width = `${total ? Math.round((Math.min(appState.index + 1,total) / total) * 100) : 0}%`; document.querySelector('.progress-track').setAttribute('aria-valuemax',String(total)); document.querySelector('.progress-track').setAttribute('aria-valuenow',String(seen)); document.getElementById('profile-card').hidden = finished; document.getElementById('explore-actions').hidden = finished; document.getElementById('explore-finished').hidden = !finished; if (!card) return; renderAvatar(card); document.getElementById('candidate-name').textContent = card.name; document.getElementById('candidate-role').textContent = roleLabel(card.office || appState.office); document.getElementById('candidate-summary').textContent = card.summary; document.getElementById('candidate-source-line').textContent = candidateSourceLine(); const tags = document.getElementById('candidate-tags'); tags.replaceChildren(...(card.tags?.length ? card.tags : ['Fontes em revisão']).map((tag) => { const node = document.createElement('span'); node.className='tag'; node.textContent=tag; return node; })); }
         function setMessage(message, undo) { const target = document.getElementById('explore-message'); target.replaceChildren(document.createTextNode(message)); if (undo) { const button = document.createElement('button'); button.type='button'; button.className='inline-button'; button.textContent='Desfazer'; button.addEventListener('click',undo); target.append(' ',button); } }
         async function fetchJson(path, cache='force-cache') { const response = await fetch(new URL(path,window.location.href),{cache}); if (!response.ok) throw new Error(`Não foi possível carregar ${path}`); return response.json(); }
-        async function loadCatalog() { try { const current = await fetchJson('data/current.json','no-store'); if (!current.manifest) throw new Error('Release não encontrada'); manifest = await fetchJson(current.manifest); const collection = manifest.coverage?.BR?.presidencia; if (!collection?.cards) throw new Error('Catálogo não encontrado'); const cardData = await fetchJson(collection.cards); appState.cards = shuffle(cardData.cards || []); usingFallback = false; document.getElementById('release-badge').textContent = 'Dados oficiais'; document.getElementById('data-notice').innerHTML = '<strong>Primeiro lote com dados oficiais.</strong> A Presidência usa registros públicos do TSE; os outros cargos entram após importação e revisão das fontes.'; document.getElementById('presidencia-count').textContent = `${appState.cards.length} registros oficiais • lote inicial`; } catch (error) { manifest = {generatedAt:'2026-09-16T14:30:00-03:00'}; appState.cards = shuffle(fallbackCards); usingFallback = true; document.getElementById('release-badge').textContent = 'Cópia local'; document.getElementById('data-notice').innerHTML = '<strong>Cópia local do lote oficial.</strong> Para receber atualizações, publique a pasta inteira do site em uma hospedagem estática.'; document.getElementById('presidencia-count').textContent = '14 registros oficiais • cópia local'; } document.getElementById('start-button').disabled = appState.cards.length === 0; stateSelect.value = appState.uf; stateNext.disabled = !appState.uf; renderPriorities(); }
+        async function loadCatalog() {
+          try {
+            const current = await fetchJson('data/current.json','no-store');
+            if (!current.manifest) throw new Error('Release não encontrada');
+            manifest = await fetchJson(current.manifest);
+            if (!collectionAvailable(manifest.coverage?.BR?.presidencia)) throw new Error('Catálogo nacional não encontrado');
+            usingFallback = false;
+            document.getElementById('release-badge').textContent = 'Dados oficiais';
+            const hasSaoPaulo = Object.values(manifest.coverage?.SP || {}).some(collectionAvailable);
+            document.getElementById('data-notice').innerHTML = hasSaoPaulo ? '<strong>Presidência e São Paulo com dados oficiais.</strong> O site carrega somente o cargo escolhido; fontes detalhadas entram após revisão.' : '<strong>Primeiro lote com dados oficiais.</strong> A Presidência usa registros públicos do TSE; os outros cargos entram após importação e revisão das fontes.';
+          } catch (error) {
+            manifest = {generatedAt:'2026-09-16T14:30:00-03:00',coverage:{BR:{presidencia:{cards:'__fallback__',count:fallbackCards.length,status:'available'}}}};
+            catalogCache.set('BR:presidencia',fallbackCards);
+            usingFallback = true;
+            document.getElementById('release-badge').textContent = 'Cópia local';
+            document.getElementById('data-notice').innerHTML = '<strong>Cópia local do lote oficial.</strong> Para receber atualizações, publique a pasta inteira do site em uma hospedagem estática.';
+          }
+          document.getElementById('start-button').disabled = !collectionAvailable(manifest.coverage?.BR?.presidencia);
+          stateSelect.value = appState.uf;
+          stateNext.disabled = !appState.uf;
+          renderPriorities();
+          renderOfficeAvailability();
+        }
+        async function cardsForOffice(office) {
+          const scope = scopeForOffice(office);
+          const key = `${scope}:${office}`;
+          if (catalogCache.has(key)) return catalogCache.get(key);
+          const collection = collectionFor(office);
+          if (!collectionAvailable(collection)) throw new Error('Base ainda indisponível para este cargo');
+          const cardData = await fetchJson(collection.cards);
+          const cards = (cardData.cards || []).map((card) => ({...card,office:card.office || office,uf:card.uf || scope}));
+          catalogCache.set(key,cards);
+          return cards;
+        }
         async function profileFor(card) { if (profiles.has(card.id)) return profiles.get(card.id); try { const profile = await fetchJson(card.profile); profiles.set(card.id,profile); return profile; } catch { const profile = fallbackProfiles[card.id]; if (!profile) throw new Error('Perfil indisponível'); profiles.set(card.id,profile); return profile; } }
-        function sourceModalFor(item) { document.getElementById('source-modal-title').textContent = item.sourceLabel || 'Fonte'; document.getElementById('source-modal-copy').textContent = `Fonte original. Ela pode conter outros dados eleitorais da candidatura. Consulta da ficha: ${formatCheckedAt(activeProfile?.sourceCheckedAt)}.`; const link = document.getElementById('source-modal-link'); link.href = item.sourceUrl || activeProfile?.sources?.candidateRecord || '#'; link.hidden = !item.sourceUrl && !activeProfile?.sources?.candidateRecord; sourceModal.hidden = false; document.getElementById('close-modal').focus(); }
+        function sourceModalFor(item) { document.getElementById('source-modal-title').textContent = item.sourceLabel || 'Fonte'; document.getElementById('source-modal-copy').textContent = `Fonte original. Ela pode conter outros dados eleitorais da candidatura. Consulta da ficha: ${formatCheckedAt(activeProfile?.sourceCheckedAt)}.`; const link = document.getElementById('source-modal-link'); const sourceUrl = safeExternalUrl(item.sourceUrl) || safeExternalUrl(activeProfile?.sources?.candidateRecord); link.href = sourceUrl || '#'; link.hidden = !sourceUrl; sourceModal.hidden = false; document.getElementById('close-modal').focus(); }
         let activeProfile = null;
+        function renderProfileV2(profile) {
+          activeProfile = profile;
+          document.getElementById('profile-title').textContent = profile.name;
+          document.getElementById('profile-role').textContent = roleLabel(profile.office || appState.office);
+          const proposals = document.getElementById('proposals');
+          const proposalItems = Array.isArray(profile.proposals) && profile.proposals.length ? profile.proposals : [{title:'Fontes em revisão',text:'Ainda não há uma fonte verificável indexada nesta ficha. Isso não permite concluir a posição da candidatura.',sourceLabel:'Ficha pública da candidatura no TSE'}];
+          proposals.replaceChildren(...proposalItems.map((proposal) => {
+            const section = document.createElement('section');
+            section.className='proposal';
+            const title = document.createElement('h3');
+            title.textContent=proposal.title;
+            const copy = document.createElement('p');
+            copy.textContent=proposal.text;
+            const source = document.createElement('button');
+            source.type='button';
+            source.className='source-button';
+            source.textContent=`Fonte: ${proposal.sourceLabel || 'registro oficial'}`;
+            source.addEventListener('click',() => sourceModalFor(proposal));
+            section.append(title,copy,source);
+            return section;
+          }));
+          const electionData = profile.electionData || {};
+          document.getElementById('candidate-party').textContent = electionData.party || 'Não informado';
+          document.getElementById('candidate-number').textContent = electionData.number || 'Não informado';
+          document.getElementById('candidate-status').textContent = electionData.status || 'Não informado';
+          document.getElementById('candidate-checked-at').textContent = formatCheckedAt(profile.sourceCheckedAt);
+          const links = document.getElementById('candidate-link-list');
+          links.replaceChildren();
+          const candidateRecord = safeExternalUrl(profile.sources?.candidateRecord || manifest?.source?.datasetUrl);
+          if (candidateRecord) {
+            const tse = document.createElement('a');
+            tse.className='candidate-link';
+            tse.href=candidateRecord;
+            tse.target='_blank';
+            tse.rel='noopener noreferrer';
+            tse.textContent='Conferir ficha ou base oficial no TSE';
+            links.append(tse);
+          }
+          const networks = profile.networks || {state:'importing',items:[]};
+          const copy = document.getElementById('candidate-links-copy');
+          const validNetworks = (networks.items || []).map((network) => ({...network,url:safeExternalUrl(network.url)})).filter((network) => network.url);
+          if (validNetworks.length) {
+            copy.textContent='Endereços informados à Justiça Eleitoral. Eles abrem fora deste site, sem prévia ou rastreamento de clique.';
+            validNetworks.forEach((network) => {
+              const link = document.createElement('a');
+              link.className='candidate-link';
+              link.href=network.url;
+              link.target='_blank';
+              link.rel='noopener noreferrer nofollow';
+              link.textContent=`Abrir ${network.label || 'canal informado'} (canal informado no registro)`;
+              links.append(link);
+            });
+          } else if (networks.state === 'available') {
+            copy.textContent='A base oficial foi consultada, mas nenhum endereço HTTP ou HTTPS válido foi encontrado para esta candidatura. Não completamos nem adivinhamos perfis a partir do nome.';
+          } else {
+            copy.textContent='Os canais informados no registro ainda estão sendo importados da base oficial. Não buscamos perfis por nome ou popularidade.';
+          }
+          document.getElementById('election-data').hidden = true;
+          document.getElementById('show-election-data').hidden = false;
+          const saved = appState.saved.includes(profile.id);
+          document.getElementById('save-from-profile').textContent = saved ? 'Remover dos salvos' : 'Salvar para revisar';
+        }
         function renderProfile(profile) { activeProfile = profile; document.getElementById('profile-title').textContent = profile.name; document.getElementById('profile-role').textContent = roleLabel(); const proposals = document.getElementById('proposals'); proposals.replaceChildren(...(profile.proposals || []).map((proposal) => { const section = document.createElement('section'); section.className='proposal'; const title = document.createElement('h3'); title.textContent=proposal.title; const text = document.createElement('p'); text.textContent=proposal.text; const source = document.createElement('button'); source.type='button'; source.className='source-button'; source.textContent=`Fonte: ${proposal.sourceLabel}`; source.addEventListener('click',() => sourceModalFor(proposal)); section.append(title,text,source); return section; })); document.getElementById('candidate-party').textContent = profile.electionData.party; document.getElementById('candidate-number').textContent = profile.electionData.number; document.getElementById('candidate-status').textContent = profile.electionData.status; document.getElementById('candidate-checked-at').textContent = formatCheckedAt(profile.sourceCheckedAt); const links = document.getElementById('candidate-link-list'); links.replaceChildren(); const tse = document.createElement('a'); tse.className='candidate-link'; tse.href=profile.sources.candidateRecord; tse.target='_blank'; tse.rel='noopener noreferrer'; tse.textContent='Conferir ficha oficial no TSE'; links.append(tse); const networks = profile.networks || {state:'importing',items:[]}; const copy = document.getElementById('candidate-links-copy'); if (networks.items?.length) { copy.textContent='Endereços informados à Justiça Eleitoral. Eles abrem fora deste site, sem prévia ou rastreamento de clique.'; networks.items.forEach((network) => { const link = document.createElement('a'); link.className='candidate-link'; link.href=network.url; link.target='_blank'; link.rel='noopener noreferrer'; link.textContent=`Abrir ${network.label} (canal informado no registro)`; links.append(link); }); } else { copy.textContent='Os canais informados no registro ainda estão sendo importados da base oficial. Não buscamos perfis por nome ou popularidade.'; } document.getElementById('election-data').hidden = true; document.getElementById('show-election-data').hidden = false; const saved = appState.saved.includes(profile.id); document.getElementById('save-from-profile').textContent = saved ? 'Remover dos salvos' : 'Salvar para revisar'; }
-        async function openProfile(id) { const card = cardById(id); if (!card) return; appState.activeId=id; document.getElementById('profile-loading').hidden = false; document.getElementById('proposals').replaceChildren(); showView('profile'); try { const profile = await profileFor(card); document.getElementById('profile-loading').hidden = true; renderProfile(profile); } catch { document.getElementById('profile-loading').hidden = true; document.getElementById('proposals').replaceChildren(Object.assign(document.createElement('p'),{textContent:'Não foi possível carregar este perfil agora. Tente novamente.'})); } }
-        function renderSaved() { const list = document.getElementById('saved-list'); const empty = document.getElementById('saved-empty'); list.replaceChildren(); empty.hidden = appState.saved.length > 0; appState.saved.forEach((id) => { const card=cardById(id); if (!card) return; const item=document.createElement('article'); item.className='saved-item'; const top=document.createElement('div'); top.className='saved-item-top'; const avatar=document.createElement('div'); avatar.className='avatar'; avatar.setAttribute('aria-hidden','true'); avatar.textContent=card.initials; const copy=document.createElement('div'); const name=document.createElement('h3'); name.textContent=card.name; const role=document.createElement('p'); role.textContent=roleLabel(); copy.append(name,role); top.append(avatar,copy); const review=document.createElement('button'); review.className='button button--secondary'; review.type='button'; review.textContent='Rever perfil e dados eleitorais'; review.addEventListener('click',() => openProfile(card.id)); item.append(top,review); list.append(item); }); const skipped=document.getElementById('skipped-list'); skipped.replaceChildren(); document.getElementById('skipped-summary').textContent=`Candidaturas puladas (${appState.skipped.length})`; document.getElementById('skipped-details').hidden=appState.skipped.length===0; appState.skipped.forEach((id) => { const card=cardById(id); if (!card) return; const row=document.createElement('div'); row.className='skipped-row'; const name=document.createElement('span'); name.textContent=card.name; const restore=document.createElement('button'); restore.className='text-button'; restore.type='button'; restore.textContent='Recuperar'; restore.addEventListener('click',() => { appState.skipped=appState.skipped.filter((candidateId)=>candidateId!==id); if (!appState.cards.some((candidate)=>candidate.id===id)) appState.cards.push(card); appState.index=Math.max(0,appState.cards.findIndex((candidate)=>candidate.id===id)); persist(); renderSaved(); renderExplore(); showView('explore'); }); row.append(name,restore); skipped.append(row); }); }
-        function initializeOffice(office) { if (office !== 'presidencia') return; appState.office=office; appState.cards=shuffle(appState.cards.length ? appState.cards : fallbackCards); appState.index=0; appState.saved=[]; appState.skipped=[]; appState.activeId=''; persist(); renderExplore(); showView('explore'); }
-        function toggleSave(id) { const saved=appState.saved.includes(id); appState.saved=saved ? appState.saved.filter((candidateId)=>candidateId!==id) : [...appState.saved,id]; persist(); return !saved; }
+        async function openProfile(id) { const card = cardById(id); if (!card) return; appState.activeId=id; activeProfile=null; document.getElementById('profile-title').textContent=card.name; document.getElementById('profile-role').textContent=roleLabel(card.office || appState.office); document.getElementById('profile-loading').hidden = false; document.getElementById('proposals').replaceChildren(); document.getElementById('election-data').hidden=true; document.getElementById('show-election-data').hidden=false; document.getElementById('candidate-party').textContent=''; document.getElementById('candidate-number').textContent=''; document.getElementById('candidate-status').textContent=''; document.getElementById('candidate-checked-at').textContent=''; document.getElementById('candidate-link-list').replaceChildren(); document.getElementById('save-from-profile').textContent=appState.saved.includes(id) ? 'Remover dos salvos' : 'Salvar para revisar'; showView('profile'); try { const profile = await profileFor(card); document.getElementById('profile-loading').hidden = true; renderProfileV2(profile); } catch { document.getElementById('profile-loading').hidden = true; document.getElementById('proposals').replaceChildren(Object.assign(document.createElement('p'),{textContent:'Não foi possível carregar este perfil agora. Tente novamente.'})); } }
+        function renderSaved() { const list = document.getElementById('saved-list'); const empty = document.getElementById('saved-empty'); list.replaceChildren(); empty.hidden = appState.saved.length > 0; appState.saved.forEach((id) => { const card=cardById(id); if (!card) return; const item=document.createElement('article'); item.className='saved-item'; const top=document.createElement('div'); top.className='saved-item-top'; const avatar=document.createElement('div'); avatar.className='avatar'; avatar.setAttribute('aria-hidden','true'); avatar.textContent=card.initials; const copy=document.createElement('div'); const name=document.createElement('h3'); name.textContent=card.name; const role=document.createElement('p'); role.textContent=roleLabel(card.office || appState.office); copy.append(name,role); top.append(avatar,copy); const review=document.createElement('button'); review.className='button button--secondary'; review.type='button'; review.textContent='Rever perfil e dados eleitorais'; review.addEventListener('click',() => openProfile(card.id)); item.append(top,review); list.append(item); }); const skipped=document.getElementById('skipped-list'); skipped.replaceChildren(); document.getElementById('skipped-summary').textContent=`Candidaturas puladas (${appState.skipped.length})`; document.getElementById('skipped-details').hidden=appState.skipped.length===0; appState.skipped.forEach((id) => { const card=cardById(id); if (!card) return; const row=document.createElement('div'); row.className='skipped-row'; const name=document.createElement('span'); name.textContent=card.name; const restore=document.createElement('button'); restore.className='text-button'; restore.type='button'; restore.textContent='Recuperar'; restore.addEventListener('click',() => { appState.skipped=appState.skipped.filter((candidateId)=>candidateId!==id); if (!appState.cards.some((candidate)=>candidate.id===id)) appState.cards.push(card); appState.index=Math.max(0,appState.cards.findIndex((candidate)=>candidate.id===id)); persist(); renderSaved(); renderExplore(); showView('explore'); }); row.append(name,restore); skipped.append(row); }); }
+        async function initializeOffice(office,{reset=true,show=true}={}) {
+          const collection = collectionFor(office);
+          if (!collectionAvailable(collection)) return false;
+          document.getElementById('office-copy').textContent = `Carregando ${officeDefinition(office).label.toLowerCase()}…`;
+          try {
+            const cards = await cardsForOffice(office);
+            appState.office=office;
+            appState.cards=shuffle(cards);
+            if (reset) { appState.index=0; appState.skipped=[]; appState.activeId=''; }
+            else appState.index=Math.min(appState.index,Math.max(0,appState.cards.length));
+            persist();
+            renderExplore();
+            if (show) showView('explore');
+            return true;
+          } catch (error) {
+            document.getElementById('office-copy').textContent = 'Não foi possível carregar este cargo agora. Tente novamente.';
+            showView('offices');
+            return false;
+          }
+        }
+        function rememberCard(card) { if (!card) return; appState.savedCards[card.id] = {...card}; }
+        function toggleSave(id) { const saved=appState.saved.includes(id); if (saved) { appState.saved=appState.saved.filter((candidateId)=>candidateId!==id); delete appState.savedCards[id]; } else { appState.saved=[...appState.saved,id]; rememberCard(cardById(id)); } persist(); return !saved; }
 
         document.getElementById('start-button').addEventListener('click',() => showView('state'));
         document.getElementById('how-it-works-button').addEventListener('click',() => showView('about'));
         document.getElementById('brand-home').addEventListener('click',(event) => { event.preventDefault(); showView('welcome'); });
-        stateSelect.addEventListener('change',() => { appState.uf=stateSelect.value; stateNext.disabled=!appState.uf; persist(); });
-        stateNext.addEventListener('click',() => { document.getElementById('office-copy').textContent=`Você selecionou ${stateSelect.options[stateSelect.selectedIndex].text}. A Presidência é nacional; os cargos do estado entram após a importação oficial.`; showView('priorities'); });
+        stateSelect.addEventListener('change',() => { const nextUf=stateSelect.value; if (appState.uf && appState.uf !== nextUf) { appState.office=''; appState.cards=[]; appState.index=0; appState.skipped=[]; appState.activeId=''; } appState.uf=nextUf; stateNext.disabled=!appState.uf; renderOfficeAvailability(); persist(); });
+        stateNext.addEventListener('click',() => { renderOfficeAvailability(); showView('priorities'); });
         priorityButtons.forEach((button) => button.addEventListener('click',() => { const topic=button.dataset.topic; const selected=appState.priorities.includes(topic); if (!selected && appState.priorities.length >= maxPriorities) { document.getElementById('priority-status').textContent=`Você pode escolher no máximo ${maxPriorities} temas.`; return; } appState.priorities=selected ? appState.priorities.filter((item)=>item!==topic) : [...appState.priorities,topic]; persist(); renderPriorities(); }));
-        document.getElementById('priorities-next').addEventListener('click',() => showView('offices'));
-        document.querySelectorAll('.office').forEach((button)=>button.addEventListener('click',() => initializeOffice(button.dataset.office)));
-        document.getElementById('change-office').addEventListener('click',() => showView('offices'));
+        document.getElementById('priorities-next').addEventListener('click',() => { renderOfficeAvailability(); showView('offices'); });
+        officeButtons.forEach((button)=>button.addEventListener('click',() => initializeOffice(button.dataset.office)));
+        document.getElementById('change-office').addEventListener('click',() => { renderOfficeAvailability(); showView('offices'); });
         document.getElementById('open-profile').addEventListener('click',() => { const card=currentCard(); if (card) openProfile(card.id); });
         document.getElementById('skip-candidate').addEventListener('click',() => { const card=currentCard(); if (!card) return; const oldIndex=appState.index; const oldSkipped=[...appState.skipped]; appState.skipped=[...appState.skipped,card.id]; appState.index+=1; persist(); renderExplore(); setMessage('Candidatura pulada por enquanto.',() => { appState.index=oldIndex; appState.skipped=oldSkipped; persist(); renderExplore(); setMessage('Ação desfeita.'); }); });
-        document.getElementById('save-candidate').addEventListener('click',() => { const card=currentCard(); if (!card) return; const oldIndex=appState.index; const oldSaved=[...appState.saved]; if (!appState.saved.includes(card.id)) appState.saved=[...appState.saved,card.id]; appState.index+=1; persist(); renderExplore(); setMessage('Candidatura salva para revisar.',() => { appState.index=oldIndex; appState.saved=oldSaved; persist(); renderExplore(); setMessage('Ação desfeita.'); }); renderSaved(); });
+        document.getElementById('save-candidate').addEventListener('click',() => { const card=currentCard(); if (!card) return; const oldIndex=appState.index; const oldSaved=[...appState.saved]; const oldSavedCards={...appState.savedCards}; if (!appState.saved.includes(card.id)) { appState.saved=[...appState.saved,card.id]; rememberCard(card); } appState.index+=1; persist(); renderExplore(); setMessage('Candidatura salva para revisar.',() => { appState.index=oldIndex; appState.saved=oldSaved; appState.savedCards=oldSavedCards; persist(); renderExplore(); setMessage('Ação desfeita.'); }); renderSaved(); });
         document.getElementById('save-from-profile').addEventListener('click',() => { const saved=toggleSave(appState.activeId); document.getElementById('save-from-profile').textContent=saved ? 'Remover dos salvos' : 'Salvar para revisar'; renderSaved(); });
         document.getElementById('show-election-data').addEventListener('click',() => { document.getElementById('election-data').hidden=false; document.getElementById('show-election-data').hidden=true; document.getElementById('election-data').scrollIntoView({behavior:'smooth',block:'nearest'}); });
         document.getElementById('back-to-explore').addEventListener('click',() => { renderExplore(); showView('explore'); });
@@ -292,7 +443,18 @@
         sourceModal.addEventListener('click',(event) => { if (event.target === sourceModal) sourceModal.hidden=true; });
         document.addEventListener('keydown',(event) => { if (event.key==='Escape' && !sourceModal.hidden) sourceModal.hidden=true; });
 
-        loadCatalog().then(() => { const safeView=['welcome','state','priorities','offices','explore','profile','saved','about'].includes(appState.lastView) ? appState.lastView : 'welcome'; if (safeView==='explore' && !appState.office) showView('welcome',{focus:false}); else if (safeView==='profile' && appState.activeId) openProfile(appState.activeId); else if (safeView==='saved') { renderSaved(); showView('saved',{focus:false}); } else showView(safeView,{focus:false}); });
+        loadCatalog().then(async () => {
+          const safeView=['welcome','state','priorities','offices','explore','profile','saved','about'].includes(appState.lastView) ? appState.lastView : 'welcome';
+          if (['explore','profile'].includes(safeView) && appState.office) {
+            const ready = await initializeOffice(appState.office,{reset:false,show:false});
+            if (!ready) { appState.office=''; showView('welcome',{focus:false}); }
+            else if (safeView==='profile' && appState.activeId) openProfile(appState.activeId);
+            else showView('explore',{focus:false});
+          } else if (safeView==='saved') { renderSaved(); showView('saved',{focus:false}); }
+          else if (safeView==='offices' && appState.uf) { renderOfficeAvailability(); showView('offices',{focus:false}); }
+          else if (safeView==='offices') showView('state',{focus:false});
+          else showView(safeView,{focus:false});
+        });
       })();
     </script>
   </body>

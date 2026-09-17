@@ -1,0 +1,42 @@
+{
+  "id": "250002550043",
+  "name": "Prof. Paulo Faria",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45999",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002550043.jpg",
+    "alt": "Foto oficial de Prof. Paulo Faria"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550043/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61563875995447&MIBEXTID=WWXIFR&MIBEXTID="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PROF.PAULOFARIA/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550043/2026/SP"
+  }
+}

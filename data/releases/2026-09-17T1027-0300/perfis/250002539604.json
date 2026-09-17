@@ -1,0 +1,66 @@
+{
+  "id": "250002539604",
+  "name": "Sâmia Bomfim",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "5000",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539604.jpg",
+    "alt": "Foto oficial de Sâmia Bomfim"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539604/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SAMIABOMFIM/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/timesamia5000"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/samiabomfim"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@samiabomfim"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@samiabomfim"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/samiabomfim"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/samia.bomfim.psol"
+      },
+      {
+        "label": "Site em samia5000.com.br",
+        "url": "https://samia5000.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539604/2026/SP"
+  }
+}

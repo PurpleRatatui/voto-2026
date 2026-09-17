@@ -1,0 +1,66 @@
+{
+  "id": "250002545009",
+  "name": "Caio Santana",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14222",
+    "status": "INDEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545009.jpg",
+    "alt": "Foto oficial de Caio Santana"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545009/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cop_santana?igsi=MXBmNmFydXh4YzZzMg%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@cop_santana?_r=1&_t=ZS-994LzON3don"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1914t4DPRr/?mibextid=wwXIfr"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@copsantana?si=sM7a9jjhmCMLsNlP"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/cop_santana?s=11"
+      },
+      {
+        "label": "Site em caiosantana.org",
+        "url": "https://caiosantana.org/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai.com/@cop_santana"
+      },
+      {
+        "label": "Threads",
+        "url": "https://threads.net/@cop_santana"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545009/2026/SP"
+  }
+}

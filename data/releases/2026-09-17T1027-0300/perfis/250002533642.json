@@ -1,0 +1,54 @@
+{
+  "id": "250002533642",
+  "name": "Professor Marco Antonio Villa",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1566",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533642.jpg",
+    "alt": "Foto oficial de Professor Marco Antonio Villa"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533642/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCOANTONIOVILLAOFICIAL?IGSH=MXQWAHPTMHU2EHC3EG%3D%3D"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/VILLAMARCOVILLA?S=11&T=4_CNK9NDJFOLVEBDJIBOLQ"
+      },
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@MARCOANTONIOVILLAOFICIAL"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@CANALMARCOANTONIOVILLA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/14DGG3EIAJT/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533642/2026/SP"
+  }
+}

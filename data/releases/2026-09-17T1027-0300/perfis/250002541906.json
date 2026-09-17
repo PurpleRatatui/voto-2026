@@ -1,0 +1,58 @@
+{
+  "id": "250002541906",
+  "name": "Higor Diego",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10200",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541906.jpg",
+    "alt": "Foto oficial de Higor Diego"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541906/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/HIGORDIEGOSP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@HIGORCAMPINAS?_R=1&_T=ZS-98PRXQPU7UR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/HIGORDIEGOSP?IGSH=MWT5DGNXOTV5NJJKYW%3D%3D&UTM_SOURCE="
+      },
+      {
+        "label": "Site em vereadorhigordiego.com.br",
+        "url": "http://www.vereadorhigordiego.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/17YSKN2I7H/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Site em higordiegosp.com.br",
+        "url": "http://www.higordiegosp.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541906/2026/SP"
+  }
+}

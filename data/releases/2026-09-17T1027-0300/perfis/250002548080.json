@@ -1,0 +1,33 @@
+{
+  "id": "250002548080",
+  "name": "Policial Edjane",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AGIR",
+    "number": "36",
+    "status": "INDEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548080.jpg",
+    "alt": "Foto oficial de Policial Edjane"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "Ainda não há proposta indexada neste perfil. Isso não permite concluir que a candidatura não tenha apresentado propostas.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548080/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": []
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548080/2026/SP"
+  }
+}

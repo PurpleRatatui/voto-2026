@@ -1,0 +1,46 @@
+{
+  "id": "250002539944",
+  "name": "Carlos Jácomo, O Maquinista",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50505",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539944.jpg",
+    "alt": "Foto oficial de Carlos Jácomo, O Maquinista"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539944/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CARLOSJACOMO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61566710306825&RDID=QYPCVMHUDLWCUVK0&SHA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CARLOSJACOMO.SILVA?RDID=SPAFT5I2DBLAYWMU&SHARE_URL=HTTP"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539944/2026/SP"
+  }
+}

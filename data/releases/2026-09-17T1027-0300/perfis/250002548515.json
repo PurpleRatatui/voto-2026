@@ -1,0 +1,54 @@
+{
+  "id": "250002548515",
+  "name": "Daniel Galani",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1215",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548515.jpg",
+    "alt": "Foto oficial de Daniel Galani"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548515/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DRDANIELGALANI/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DANIELGALANI"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DANIELGALANI/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DANIELGALANI353"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DANIEL.GALLANI/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548515/2026/SP"
+  }
+}

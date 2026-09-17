@@ -1,0 +1,58 @@
+{
+  "id": "250002532794",
+  "name": "Salles",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "300",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532794.jpg",
+    "alt": "Foto oficial de Salles"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532794/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/@RICARDOSALLESMMA"
+      },
+      {
+        "label": "X",
+        "url": "https://www.twitter.com/@RSALLESMMA"
+      },
+      {
+        "label": "Site em ricardosalles.com.br",
+        "url": "https://www.ricardosalles.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RICARDOSALLESMMA"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ricardo.sallesmma"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@conservatalk"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532794/2026/SP"
+  }
+}

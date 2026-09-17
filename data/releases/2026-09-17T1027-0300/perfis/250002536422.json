@@ -1,0 +1,110 @@
+{
+  "id": "250002536422",
+  "name": "Nando Pinheiro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22321",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536422.jpg",
+    "alt": "Foto oficial de Nando Pinheiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536422/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/NANDOPINHEIROOFICIAL"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/NANDOPINHEIRO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@NANDOPINHEIROMOTIVACAO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/NANDOPINHEIROOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@nandopinheirooficial"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@deputadoestadualsp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/deputadoestadual"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/deputadoestadual/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@nandopinheirooficial"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@candidatodeputadoestadualsp"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/nandopinheiro22"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/deputadoestadual.bsky.social"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/show/1bgfyvoyJr5QbuzC0bkHt7"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/intl-pt/artist/54imZ9JIAzikf4Mk99Yeer"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@nandopinheirooficial"
+      },
+      {
+        "label": "Site em snapchat.com",
+        "url": "https://www.snapchat.com/@deputadosp"
+      },
+      {
+        "label": "Site em br.pinterest.com",
+        "url": "https://br.pinterest.com/deputadoestadualsp/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/bolsonaristasp/"
+      },
+      {
+        "label": "Site em deputadoestadual.com",
+        "url": "https://www.deputadoestadual.com/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536422/2026/SP"
+  }
+}

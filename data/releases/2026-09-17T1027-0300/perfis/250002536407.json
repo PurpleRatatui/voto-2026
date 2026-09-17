@@ -1,0 +1,54 @@
+{
+  "id": "250002536407",
+  "name": "Conte Lopes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22138",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536407.jpg",
+    "alt": "Foto oficial de Conte Lopes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536407/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CAPITAOCONTELOPES?IGSH=A2PTMMPTB2MYCMVH"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1J31J4FAVH/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@CAPITAOCONTELOPESS?_R=1&_T=ZS-96Q9P9W0XCE"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@CAPITAOCONTELOPES-W9R?SI=IBDCI-NCDM_SRFUE"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DQKMW9NCF/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536407/2026/SP"
+  }
+}

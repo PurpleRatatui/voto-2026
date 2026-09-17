@@ -1,0 +1,72 @@
+{
+  "id": "280002551547",
+  "name": "Escritor Augusto Cury",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002551547/2026BR280002551547_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em augustocurypresidente.com.br",
+        "url": "https://augustocurypresidente.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/AUGUSTOCURY.AUTOR/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai.com/@AUGUSTOCURYOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@AUGUSTOCURYOFICIAL"
+      },
+      {
+        "label": "Site em queroapoiar.com.br",
+        "url": "https://queroapoiar.com.br/AUGUSTOCURY"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@AUGUSTOCURY"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/AUGUSTOCURY?LANG=PT"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/AUGUSTOCURY"
+      },
+      {
+        "label": "Instagram",
+        "url": "http://instagram.com/AUGUSTOCURY"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/CHANNEL/UC3F2E1LOB9X8AWYULLURYJG"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551547/2026/BR"
+  }
+}

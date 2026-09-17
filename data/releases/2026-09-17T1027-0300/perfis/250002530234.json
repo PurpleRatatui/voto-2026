@@ -1,0 +1,58 @@
+{
+  "id": "250002530234",
+  "name": "Ricardo Meirelles",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30500",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530234.jpg",
+    "alt": "Foto oficial de Ricardo Meirelles"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530234/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RICARDOMEIRELLESBR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RICARDOMEIRELLESBR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ricardomeirellesbr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ricardomeirellesbr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ricardomeirellesbr"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ricardomeirellesbr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530234/2026/SP"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "250002541154",
+  "name": "William Callegaro",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5540",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541154.jpg",
+    "alt": "Foto oficial de William Callegaro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541154/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WILLIAMCALLEGARO/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@WILLIAMCALLEGARO"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/CHANNEL/UCRSCJ9DH8BVXCHDV-TMGXCQ/VIDEOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/wilIiamcallegaro/"
+      },
+      {
+        "label": "Site em williamcallegaro.com.br",
+        "url": "http://www.williamcallegaro.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541154/2026/SP"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "250002551226",
+  "name": "Macedo Coletivo Papapenal",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70029",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551226.jpg",
+    "alt": "Foto oficial de Macedo Coletivo Papapenal"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551226/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAPAPENAL?IGSH=MXU4DDA4CJG0CHIZYW%3D%3D"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PAPODEPENAL?SI=GZAC9YBJCHDODEAI"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@PDCPAPODEPENAL?_R=1&_T=ZS-98HEHYO5JPN"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551226/2026/SP"
+  }
+}

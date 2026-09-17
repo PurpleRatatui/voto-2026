@@ -1,0 +1,98 @@
+{
+  "id": "250002530218",
+  "name": "Filipão",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30015",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530218.jpg",
+    "alt": "Foto oficial de Filipão"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530218/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FILIPAOLEME?_R=1&_T=ZS-97GHJMUEPMA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/19VBZ1EIKY/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@FILIPAOLEME?SI=VWXPS77UPXLUCFLT"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://br.linkedin.com/IN/LUIZ-FILIPE-LEME-DE-SOUZA-09096A151"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@FILIPAOLEME?IGSHID=NTC4MTIWNJQ2YQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FILIPAOLEME?IGSH=ZXJMAML6ZML6DZR4&UTM_SOURCE=QR"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/U/@FILIPAOLEME/OMUXHCJV"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/filipaoleme"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/19VBz1eikY/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@filipaoleme"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@filipaoleme"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@filipaoleme"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://br.linkedin.com/in/luiz-filipe-leme-de-souza-09096a151"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@filipaoleme/OMUxHCjV"
+      },
+      {
+        "label": "Site em novo.org.br",
+        "url": "https://novo.org.br/pre-candidato-2026/81/filipao/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/FiLiPaOleme"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530218/2026/SP"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "250002554141",
+  "name": "João da Habitação",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "1014",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002554141.jpg",
+    "alt": "Foto oficial de João da Habitação"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554141/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1Dt1zxUZ79/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/joaofariassp?igsi=MTdkZjA4a3ZzenA2NQ=="
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@joaofariassp?igshid=NTc4MTIwNjQ2YQ=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554141/2026/SP"
+  }
+}

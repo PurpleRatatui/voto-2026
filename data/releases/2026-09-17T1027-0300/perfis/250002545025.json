@@ -1,0 +1,50 @@
+{
+  "id": "250002545025",
+  "name": "Anderson Pê",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14055",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545025.jpg",
+    "alt": "Foto oficial de Anderson Pê"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545025/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/andersonpe_oficial"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@andersonpe_oficial"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/profile.php"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@andersonpe_oficial"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545025/2026/SP"
+  }
+}

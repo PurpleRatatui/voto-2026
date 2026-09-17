@@ -1,0 +1,54 @@
+{
+  "id": "250002536365",
+  "name": "Lucas Amaral",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22120",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536365.jpg",
+    "alt": "Foto oficial de Lucas Amaral"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536365/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/LUCASRFAMARAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LUCASRFAMARAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LUCASRFAMARAL"
+      },
+      {
+        "label": "Site em lucasamaralsp.com.br",
+        "url": "https://lucasamaralsp.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUCASRFAMARAL/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536365/2026/SP"
+  }
+}

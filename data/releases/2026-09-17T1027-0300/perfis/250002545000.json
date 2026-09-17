@@ -1,0 +1,58 @@
+{
+  "id": "250002545000",
+  "name": "Karen Gregoris",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "14016",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545000.jpg",
+    "alt": "Foto oficial de Karen Gregoris"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545000/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/karen_gregoris/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@karen_gregoris"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Karen-Gregoris/61556069523719/?rdid=zOddDUqifC-nuK1sZ&share_url=https%3A%2F%2Fwww.facebook.com%2Fshare%2F1MPHgsLr6w%2F"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@karen_gregoris"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/karengregoris"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@karengregoris/3v0IydCW"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545000/2026/SP"
+  }
+}

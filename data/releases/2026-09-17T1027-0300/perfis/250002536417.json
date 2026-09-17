@@ -1,0 +1,50 @@
+{
+  "id": "250002536417",
+  "name": "Delegado Helio Bressan",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22580",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536417.jpg",
+    "alt": "Foto oficial de Delegado Helio Bressan"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536417/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DELEGADOHELIOBRESSAN?IGSH=MXM0C2OWNML2EGXIEA=="
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DELEGADOHELIOBRESSAN?_R=1&_T=ZS-96RC1AK9XS6"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@HELIOBRESSAN/CZPUDBRH"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/DELHELIOBRESSAN?S=21&T=DAKTPHIDELO_32XL2DMCPG"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536417/2026/SP"
+  }
+}

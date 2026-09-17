@@ -1,0 +1,74 @@
+{
+  "id": "250002544335",
+  "name": "Professor Anderson Figueira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2099",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544335.jpg",
+    "alt": "Foto oficial de Professor Anderson Figueira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544335/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/@professorandersonfigueira"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/anderson.figueira3133"
+      },
+      {
+        "label": "Kwai",
+        "url": "http://www.kwai.com/@profandersonfigueira"
+      },
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@profandersonfigueira"
+      },
+      {
+        "label": "X",
+        "url": "http://www.x.com/profandersonfig"
+      },
+      {
+        "label": "YouTube",
+        "url": "http://www.youtube.com/@professorandersonfigueira"
+      },
+      {
+        "label": "Site em professorandersonfigueira.com.br",
+        "url": "http://www.professorandersonfigueira.com.br/"
+      },
+      {
+        "label": "Site em andersonfigueira.com.br",
+        "url": "http://www.andersonfigueira.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ProfessorAndersonFigueira"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profandersonfigueira/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544335/2026/SP"
+  }
+}

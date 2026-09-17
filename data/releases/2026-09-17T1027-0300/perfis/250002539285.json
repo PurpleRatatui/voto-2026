@@ -1,0 +1,58 @@
+{
+  "id": "250002539285",
+  "name": "Marcos Papa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "40016",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539285.jpg",
+    "alt": "Foto oficial de Marcos Papa"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539285/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@MARCOS.PAPA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCOS_PAPA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://www.facebook.com/MARCOSPAPA"
+      },
+      {
+        "label": "Site em marcospapa.com.br",
+        "url": "https://www.marcospapa.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MARCOSPAPAOFICIAL"
+      },
+      {
+        "label": "Site em adesivopapa.com",
+        "url": "https://adesivopapa.com/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539285/2026/SP"
+  }
+}

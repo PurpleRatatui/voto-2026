@@ -1,0 +1,46 @@
+{
+  "id": "250002551096",
+  "name": "André do Viva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7022",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551096.jpg",
+    "alt": "Foto oficial de André do Viva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551096/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANDREDOVIVA?IGSH=EGVZA3N0EMPNC2JX"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANDREDOVIVA?_R=1&_T=ZS-98PAXTCPMDQ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DJP4ASPBU/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551096/2026/SP"
+  }
+}

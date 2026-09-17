@@ -1,0 +1,62 @@
+{
+  "id": "250002538901",
+  "name": "Thiago Freitas",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "18181",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002538901.jpg",
+    "alt": "Foto oficial de Thiago Freitas"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538901/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/thiagofreitassp?igsi=c3FyYXNqamx3NnNx"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1DWPPb5PMc/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@thiagofreitassp?_r=1&_t=ZS-99A4PydfYIy"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/Thiagofreitaz"
+      },
+      {
+        "label": "Site em professorthiagofreitas.com.br",
+        "url": "https://professorthiagofreitas.com.br/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@thiagofreitassp"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/qr/7VSG7WSDO7H3F1"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538901/2026/SP"
+  }
+}

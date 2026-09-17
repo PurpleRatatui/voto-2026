@@ -1,0 +1,58 @@
+{
+  "id": "250002530266",
+  "name": "Vanessa Santana Mãe Leoa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30038",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530266.jpg",
+    "alt": "Foto oficial de Vanessa Santana Mãe Leoa"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530266/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VANESSASANTANAMAELEOANOVO?IGSH=MTFKNMH4MWNVNND5CQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1CW6NKSMWU/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VANESSASANTANAMAELEOA?SI=SRG7LSMH_4IWS_TQ"
+      },
+      {
+        "label": "Site em share.google",
+        "url": "https://share.google/TX7MQJUQIG9JGFS6S"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VANESSASANTANANOVO?_R=1&_T=ZS-97SD6NWQKQ1"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/vanessasantanamaeleoanovo?igsh=b2N6cWc3dXZ6M2t4"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530266/2026/SP"
+  }
+}

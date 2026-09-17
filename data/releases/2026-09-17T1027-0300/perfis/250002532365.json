@@ -1,0 +1,54 @@
+{
+  "id": "250002532365",
+  "name": "Marcelo Silva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1119",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532365.jpg",
+    "alt": "Foto oficial de Marcelo Silva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532365/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/MARCELOSILVACAMPINAS"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@MARCELOSILVA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@MARCELOSILVACAMPINAS6144"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/MARCELOSILVACAMPINAS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/MARCELOSILVACAMPINAS"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532365/2026/SP"
+  }
+}

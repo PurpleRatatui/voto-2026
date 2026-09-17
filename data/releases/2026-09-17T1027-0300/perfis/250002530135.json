@@ -1,0 +1,90 @@
+{
+  "id": "250002530135",
+  "name": "Eduardo Borgo",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3003",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530135.jpg",
+    "alt": "Foto oficial de Eduardo Borgo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530135/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@EDUARDOBORGO1976"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/EDUARDOBORGOS"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/EDUARDO_BORGO"
+      },
+      {
+        "label": "Site em eduardoborgo.com.br",
+        "url": "https://www.eduardoborgo.com.br/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@@BORGOEDUARDO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/EDUARDO.BORGO.2025"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BORGOEDUARDO/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/borgoeduardo/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/EduardoBorgos"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/eduardo_borgo"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@@borgoeduardo"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@eduardoborgo1976"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/eduardo.borgo.2025"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@eduardoborgo"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530135/2026/SP"
+  }
+}

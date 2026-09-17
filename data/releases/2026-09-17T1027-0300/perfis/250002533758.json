@@ -1,0 +1,62 @@
+{
+  "id": "250002533758",
+  "name": "Rafael Saraiva",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44077",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533758.jpg",
+    "alt": "Foto oficial de Rafael Saraiva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533758/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RAFAELSARAIVASP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAFAELSARAIVASP/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SEARCH/TOP?Q=RAFAEL%20SARAIVA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RAFAELSARAIVASP"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RAFAELSARAIVA.SP"
+      },
+      {
+        "label": "Site em rafaelsaraivasp.com.br",
+        "url": "https://rafaelsaraivasp.com.br/"
+      },
+      {
+        "label": "Site em rafaelsaraivasp.com.br",
+        "url": "https://rafaelsaraivasp.com.br/ninapassadore"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533758/2026/SP"
+  }
+}

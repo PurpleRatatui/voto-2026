@@ -1,0 +1,84 @@
+{
+  "id": "280002551932",
+  "name": "Ronaldo Caiado",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002551932/2026BR280002551932_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em ronaldocaiado.com.br",
+        "url": "https://ronaldocaiado.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RONALDOCAIADO/"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/PROFILE/RONALDOCAIADO.BSKY.SOCIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RONALDOCAIADO"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RONALDOCAIADO"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RONALDOCAIADO55"
+      },
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/RONALDOCAIADO"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/PEOPLE/RONALDOCAIADO/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@RONALDOCAIADO"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@RONALDOCAIADO"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://br.linkedin.com/IN/RONALDOCAIADO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RONALDOCAIADO"
+      },
+      {
+        "label": "Site em sticker.ly",
+        "url": "https://sticker.ly/USER/RONALDOCAIADO"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551932/2026/BR"
+  }
+}

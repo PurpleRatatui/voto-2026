@@ -1,0 +1,76 @@
+{
+  "id": "280002551975",
+  "name": "Edmilson Costa",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PCB",
+    "number": "21",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002551975/2026BR280002551975_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/EDPCB21/"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/CHANNEL/0029VA6JKC7KLAHG386YJF3F"
+      },
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/JORNALOPODERPOPULAR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PARTIDOCOMUNISTABRASILEIROPCB/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/PCBPARTIDAO"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/CANALPCBNOTICIAS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDPCB/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JORNALOPODERPOPULAR"
+      },
+      {
+        "label": "Site em pcb.org.br",
+        "url": "https://pcb.org.br/PORTAL2/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PCBPARTIDAO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JORNALOPODERPOPULAR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002551975/2026/BR"
+  }
+}

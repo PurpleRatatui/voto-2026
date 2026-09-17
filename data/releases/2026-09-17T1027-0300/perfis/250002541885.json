@@ -1,0 +1,58 @@
+{
+  "id": "250002541885",
+  "name": "Edna Macedo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10456",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541885.jpg",
+    "alt": "Foto oficial de Edna Macedo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541885/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EDNAMACEDO.OFICIAL/"
+      },
+      {
+        "label": "Site em ednamacedo.meugabinetevirtual.com.br",
+        "url": "https://ednamacedo.meugabinetevirtual.com.br/AUTH?UTM_SOURCE=IG&UTM_MEDIUM=SOCI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Deputada-Edna-Macedo/61584918977623/#"
+      },
+      {
+        "label": "Site em ednafeecoragem.com.br",
+        "url": "https://ednafeecoragem.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@dep.ednamacedoofi"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ednamacedo-v6q?si=51ihD57RTTd-nin10"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541885/2026/SP"
+  }
+}

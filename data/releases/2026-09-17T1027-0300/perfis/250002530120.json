@@ -1,0 +1,82 @@
+{
+  "id": "250002530120",
+  "name": "Milton Dantunes",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3066",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530120.jpg",
+    "alt": "Foto oficial de Milton Dantunes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530120/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@MILTONDANTUNESOFC/OACB1MTQ"
+      },
+      {
+        "label": "Site em miltondantunes.com.br",
+        "url": "https://miltondantunes.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/HTTPS://WWW.INSTAGRAM.COM/MILTONDANTUNES/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MILTON.DANTUNES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MILTONDANTUNESOFICIAL/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@MILTONDANTUNES?_R=1&_T=ZS-97OV3BKE8HF"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/https://www.instagram.com/miltondantunes/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/milton.dantunes"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/miltondantunesoficial/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@miltondantunesOfc/oaCB1mTQ"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@miltondantunes"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MiltonDantunes"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530120/2026/SP"
+  }
+}

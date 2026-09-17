@@ -1,0 +1,70 @@
+{
+  "id": "250002541140",
+  "name": "Patricia Aiello",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5518",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541140.jpg",
+    "alt": "Foto oficial de Patricia Aiello"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541140/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/PATRICIAIELLO?UTM_SOURCE=SHARE_VIA&UTM_CONTENT=PROFI"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@PATAIELLO?IGSHID=NTC4MTIWNJQ2YQ=="
+      },
+      {
+        "label": "Site em patriciaaiello.com.br",
+        "url": "https://www.patriciaaiello.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@PATRICIAAIELLO?SI=AHNU0FPWZLZ5MZXJ"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/PATAIELLOO?S=11&T=WMIEO4ABPAZ5IU4DPA9FZW"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PATAIELLO/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@PATRICIAAIELLO8"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/patriciaaiello18/"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/Pati_aiello"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541140/2026/SP"
+  }
+}

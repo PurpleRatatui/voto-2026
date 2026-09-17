@@ -1,0 +1,46 @@
+{
+  "id": "250002541851",
+  "name": "Paulo Correa Jr",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10699",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541851.jpg",
+    "alt": "Foto oficial de Paulo Correa Jr"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541851/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1JTJUV5BUR/?%20%20MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DEP_PAULOCORREAJR?%20%20UTM_SOURCE=QR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEP_PAULOCORREAJR?_R=1&_T=ZS-%20980KJXBJHME"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541851/2026/SP"
+  }
+}

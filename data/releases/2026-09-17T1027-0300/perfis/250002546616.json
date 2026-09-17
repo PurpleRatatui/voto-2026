@@ -1,0 +1,86 @@
+{
+  "id": "250002546616",
+  "name": "Isabel de Souza",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1416",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546616.jpg",
+    "alt": "Foto oficial de Isabel de Souza"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546616/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/isabeldesouzaoliveira/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/isabeldesouzasp/"
+      },
+      {
+        "label": "Site em app.valete.org.br",
+        "url": "https://app.valete.org.br/u/isabeldesouzasp"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@isabeldesouzasp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/beldesouza1/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@isabeldesouzasp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@isabeldesouzaoliveira"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@isabeldesouzaoliveirasp"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/isabeldesouzasp"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/isabeldesouzao1"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/isabeldesouza01"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/isabel-de-souza-oliveira/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@isabeldesouzasp"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546616/2026/SP"
+  }
+}

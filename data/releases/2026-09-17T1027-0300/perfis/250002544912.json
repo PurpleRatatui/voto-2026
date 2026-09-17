@@ -1,0 +1,47 @@
+{
+  "id": "250002544912",
+  "name": "Vivian Mendes",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UP",
+    "number": "80",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544912.jpg",
+    "alt": "Foto oficial de Vivian Mendes"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Documento oficial 1 de 3",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/250002544912/2026SP250002544912_01.pdf"
+    },
+    {
+      "state": "document-found",
+      "title": "Documento oficial 2 de 3",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/250002544912/2026SP250002544912_02.pdf"
+    },
+    {
+      "state": "document-found",
+      "title": "Documento oficial 3 de 3",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/250002544912/2026SP250002544912_03.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": []
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544912/2026/SP"
+  }
+}

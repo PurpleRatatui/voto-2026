@@ -1,0 +1,62 @@
+{
+  "id": "250002534171",
+  "name": "Doutor Fran",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "77800",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534171.jpg",
+    "alt": "Foto oficial de Doutor Fran"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534171/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://www.x.com/DOUTORFRAN"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/ODOUTORFRAN"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DOUTORFRAN"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DOUTORFRAN"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/DOUTORFRAN"
+      },
+      {
+        "label": "Site em doutorfran.com.br",
+        "url": "https://www.doutorfran.com.br/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@doutorfran"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534171/2026/SP"
+  }
+}

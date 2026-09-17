@@ -1,0 +1,58 @@
+{
+  "id": "250002532374",
+  "name": "Chinão Ruiz",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1155",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532374.jpg",
+    "alt": "Foto oficial de Chinão Ruiz"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532374/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://linkedin.com/IN/CHINAORUIZ"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@CHINAORUIZ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/CHINAORUIZ"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/CHINAORUIZ"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@CHINAORUIZ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/CHINAORUIZ"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532374/2026/SP"
+  }
+}

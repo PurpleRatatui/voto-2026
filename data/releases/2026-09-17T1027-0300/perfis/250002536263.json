@@ -1,0 +1,54 @@
+{
+  "id": "250002536263",
+  "name": "Marcolino",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13310",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536263.jpg",
+    "alt": "Foto oficial de Marcolino"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536263/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LCMARCOLINO13/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DEPUTADOLUIZCLAUDIOMARCOLINO/NULL"
+      },
+      {
+        "label": "Site em luizclaudiomarcolino.com.br",
+        "url": "https://luizclaudiomarcolino.com.br/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@LCMARCOLINO13"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LCMARCOLINO13"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536263/2026/SP"
+  }
+}

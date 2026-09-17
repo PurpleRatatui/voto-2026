@@ -1,0 +1,46 @@
+{
+  "id": "250002534130",
+  "name": "Matheus Marolla",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "77037",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534130.jpg",
+    "alt": "Foto oficial de Matheus Marolla"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534130/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MATHEUSMAROLLA.SBC"
+      },
+      {
+        "label": "Site em matheusmarolla.com",
+        "url": "http://www.matheusmarolla.com/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/MATHEUSMAROLLA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534130/2026/SP"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "250002548003",
+  "name": "Ivanilson Gomes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12456",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548003.jpg",
+    "alt": "Foto oficial de Ivanilson Gomes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548003/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/IVANILSON%20GOMES"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/IVANILSON%20GOMES%20MOURA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@IRM%C3%83O%20EM%20A%C3%87%C3%83O"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@NI.LSON4910"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@IIVANILSONGOMES"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/IIVANILSONGOMES"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548003/2026/SP"
+  }
+}

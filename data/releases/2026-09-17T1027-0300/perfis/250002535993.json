@@ -1,0 +1,46 @@
+{
+  "id": "250002535993",
+  "name": "Preto de Direita",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2217",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535993.jpg",
+    "alt": "Foto oficial de Preto de Direita"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535993/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PRETO_DE_DIREITA?IGSH=BW5XZTH0NZDJOTBK"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/191YAEYNIU/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PRETO_DE_DIREITA?UTM_SOURCE=QR&IGSH=BW5XZTH0NZDJOTBK"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535993/2026/SP"
+  }
+}

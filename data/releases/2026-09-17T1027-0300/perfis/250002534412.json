@@ -1,0 +1,58 @@
+{
+  "id": "250002534412",
+  "name": "Érica Gorga",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "2555",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534412.jpg",
+    "alt": "Foto oficial de Érica Gorga"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534412/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ERICAGORGA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ERICAGORGA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ERICAGORGA"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/ERICAGORGA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFERICAGORGA"
+      },
+      {
+        "label": "Site em ericagorga.com.br",
+        "url": "https://www.ericagorga.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534412/2026/SP"
+  }
+}

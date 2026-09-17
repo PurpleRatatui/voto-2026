@@ -1,0 +1,50 @@
+{
+  "id": "250002554106",
+  "name": "Dr.ricardo Amantini",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4417",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002554106.jpg",
+    "alt": "Foto oficial de Dr.ricardo Amantini"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554106/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100077265914214"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/drricardoamantinifilho?igsi=MWk4NWFrYWkzaXNmOA=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100077316122012"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ricardoamantinifilho?igsh=MXN6MjFidm1hN3F6aw%3D%3D&utm"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002554106/2026/SP"
+  }
+}

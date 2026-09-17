@@ -1,0 +1,62 @@
+{
+  "id": "250002544358",
+  "name": "Moacir Cova Investigador",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2066",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544358.jpg",
+    "alt": "Foto oficial de Moacir Cova Investigador"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544358/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MOACIR.COVA"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MOACIRCOVA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MOACIR.COVA.9"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MOACIRCOVAITU"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VEREADOR.MOACIRCOVA"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@MOACIRCOVA?KPN=KWAI&SHARE_DEVICE_ID=F91C49D0-4BB8-41C4-AA0"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MOACIRCOVA?IGSH=ZJZOETB3BXZKBHC1&UTM_SOURCE=QR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544358/2026/SP"
+  }
+}

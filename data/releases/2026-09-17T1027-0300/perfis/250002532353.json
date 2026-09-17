@@ -1,0 +1,66 @@
+{
+  "id": "250002532353",
+  "name": "Coronel Telhada",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1100",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532353.jpg",
+    "alt": "Foto oficial de Coronel Telhada"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532353/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em coroneltelhada.com.br",
+        "url": "https://www.coroneltelhada.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/coroneltelhada"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/coroneltelhada"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@coroneltelhada"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@coroneltelhada"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@coroneltelhada"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/photos/telhada/"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/coroneltelhada.com.br"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532353/2026/SP"
+  }
+}

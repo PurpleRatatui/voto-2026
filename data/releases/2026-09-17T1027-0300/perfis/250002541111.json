@@ -1,0 +1,58 @@
+{
+  "id": "250002541111",
+  "name": "Bruno Wellington - Bw",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5506",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541111.jpg",
+    "alt": "Foto oficial de Bruno Wellington - Bw"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541111/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOWELLINGTON.COM.BR/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BRUNOWELLINGTON.COM.BR"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/BWINCENTIVA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@BRUNOWELLINGTON-BW"
+      },
+      {
+        "label": "Site em brunowellington.com.br",
+        "url": "https://brunowellington.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/brunowellington.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541111/2026/SP"
+  }
+}

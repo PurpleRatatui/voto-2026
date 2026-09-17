@@ -1,0 +1,58 @@
+{
+  "id": "250002534946",
+  "name": "Cabo Barbara",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "2566",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534946.jpg",
+    "alt": "Foto oficial de Cabo Barbara"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534946/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CABOBARBARA_/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1CZmkHjGD5/?mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "http://www.tiktok.com/@cabobarbara__"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@CaboB%C3%A1rbara"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/message/V2W2HEXRPZLOC1"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://kwai-video.com/u/@cabobarbara_/rzyNCF3M"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534946/2026/SP"
+  }
+}

@@ -1,0 +1,42 @@
+{
+  "id": "250002553950",
+  "name": "Nelson Oliveira",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30155",
+    "status": "INDEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002553950.jpg",
+    "alt": "Foto oficial de Nelson Oliveira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002553950/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/NELSONOLIVEIRASP/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61589265332654"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002553950/2026/SP"
+  }
+}

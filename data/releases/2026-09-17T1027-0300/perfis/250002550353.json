@@ -1,0 +1,46 @@
+{
+  "id": "250002550353",
+  "name": "Bispo Raí de Oliveira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "4570",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002550353.jpg",
+    "alt": "Foto oficial de Bispo Raí de Oliveira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550353/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BISPO_RAI_DE_OLIVEIRA/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@BISPO_RAI_DE_OLIVEIRA?XMT=AQG0TSJBCUI69ZU8V0BUAX4TSBCWM"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RAIDEOLIVEIRA.OLIVEIRA.94/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550353/2026/SP"
+  }
+}

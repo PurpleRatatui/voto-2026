@@ -1,0 +1,50 @@
+{
+  "id": "250002535978",
+  "name": "Diogo Forjaz",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2204",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535978.jpg",
+    "alt": "Foto oficial de Diogo Forjaz"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535978/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FORJAZDIOGO/"
+      },
+      {
+        "label": "Site em diogoforjaz.com.br",
+        "url": "http://www.diogoforjaz.com.br/"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/DiogoForjaz"
+      },
+      {
+        "label": "Site em gettr.com",
+        "url": "https://gettr.com/user/diogoforjaz"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535978/2026/SP"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "250002541365",
+  "name": "Weller Gonçalves",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSTU",
+    "number": "160",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541365.jpg",
+    "alt": "Foto oficial de Weller Gonçalves"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541365/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/WELLERSIND"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@WELLER_GONCALVES"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@WELLERGONCALVES"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/WELLERMETALURGICO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WELLER_GONCALVES"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@CANALDOWELLER"
+      },
+      {
+        "label": "Site em wellergoncalves.com.br",
+        "url": "https://wellergoncalves.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541365/2026/SP"
+  }
+}

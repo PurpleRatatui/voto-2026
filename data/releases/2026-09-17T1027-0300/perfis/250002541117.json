@@ -1,0 +1,54 @@
+{
+  "id": "250002541117",
+  "name": "Gregório Jafet",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5514",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541117.jpg",
+    "alt": "Foto oficial de Gregório Jafet"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541117/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@GREGORIOJ2928"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GREGORIOJAFET/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@GREGORIO.JAFET"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/GREG%C3%B3RIO-JAFET-AAB60B32/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/gregorio.jafet"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541117/2026/SP"
+  }
+}

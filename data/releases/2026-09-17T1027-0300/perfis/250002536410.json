@@ -1,0 +1,74 @@
+{
+  "id": "250002536410",
+  "name": "Lucas Bove",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22500",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536410.jpg",
+    "alt": "Foto oficial de Lucas Bove"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536410/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/LUCASBOVE/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LUCASBOVESP"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/5511932527521"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@LUCASBOVESP?HL=PT-BR"
+      },
+      {
+        "label": "Site em deputadolucasbovesp.com",
+        "url": "https://deputadolucasbovesp.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUCASBOVESP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LUCASBOVESP"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LUCASBOVESP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61565380115659#"
+      },
+      {
+        "label": "Site em open.spotify.com",
+        "url": "https://open.spotify.com/intl-pt/track/39yvP85W1duwCwObaJ01kE?si=08303bb594a94fcc"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536410/2026/SP"
+  }
+}

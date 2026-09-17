@@ -1,0 +1,54 @@
+{
+  "id": "250002553062",
+  "name": "Izadora Dias",
+  "office": "governador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PCO",
+    "number": "29",
+    "status": "INDEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002553062.jpg",
+    "alt": "Foto oficial de Izadora Dias"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/250002553062/2026SP250002553062_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em candidatos.pco.org.br",
+        "url": "https://candidatos.pco.org.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/izadoradias29"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/izadoradias.pco/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/izzadoradias?_rdc=1&_rdr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@izadoradias29"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002553062/2026/SP"
+  }
+}

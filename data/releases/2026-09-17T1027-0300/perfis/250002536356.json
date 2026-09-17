@@ -1,0 +1,78 @@
+{
+  "id": "250002536356",
+  "name": "João Paulo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22345",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536356.jpg",
+    "alt": "Foto oficial de João Paulo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536356/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em joaopaulosouza.com.br",
+        "url": "https://joaopaulosouza.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/JO%C3%A3O-PAULO-DE-SOUZA/PFBID027VCIRG8BAQCW3Y5H"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOAOPAULODESOUZA.OFICIAL/"
+      },
+      {
+        "label": "Site em depestadualvarzeapaulista.com.br",
+        "url": "https://depestadualvarzeapaulista.com.br/"
+      },
+      {
+        "label": "Site em depestadualcampolimpopta.com.br",
+        "url": "https://depestadualcampolimpopta.com.br/"
+      },
+      {
+        "label": "Site em depestadualjarinu.com.br",
+        "url": "https://depestadualjarinu.com.br/"
+      },
+      {
+        "label": "Site em depestadualjundiai.com.br",
+        "url": "https://depestadualjundiai.com.br/"
+      },
+      {
+        "label": "Site em depestadualcabreuva.com.br",
+        "url": "https://depestadualcabreuva.com.br/"
+      },
+      {
+        "label": "Site em depestaduallouveira.com.br",
+        "url": "https://depestaduallouveira.com.br/"
+      },
+      {
+        "label": "Site em depestadualitupeva.com.br",
+        "url": "https://depestadualitupeva.com.br/"
+      },
+      {
+        "label": "Site em depestadualitatiba.com.br",
+        "url": "https://depestadualitatiba.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536356/2026/SP"
+  }
+}

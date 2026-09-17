@@ -1,0 +1,46 @@
+{
+  "id": "250002550359",
+  "name": "Alex Ribeiro",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "4527",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002550359.jpg",
+    "alt": "Foto oficial de Alex Ribeiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550359/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ALEX_RIBEIRO.45/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@ALEX_RIBEIRO.45?XMT=AQG0STDYFGUTKSI5FSYMC9__H6RGFWNHKEH"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ALEXRIBEIROOFICIAL7"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550359/2026/SP"
+  }
+}

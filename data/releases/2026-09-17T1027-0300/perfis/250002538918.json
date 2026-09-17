@@ -1,0 +1,74 @@
+{
+  "id": "250002538918",
+  "name": "Monica das Pretas",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50900",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002538918.jpg",
+    "alt": "Foto oficial de Monica das Pretas"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538918/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@SPPRETAS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MONICASEIXAS/?HL=PT"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/sppretas/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/monicaseixas?s=11"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@monicaseixaspsol?_r=1&_t=ZS-99LyytEX9aj"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@monicaseixas?igshid=NTc4MTIwNjQ2YQ=="
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@monicaseixas5624?si=aEB9LnQET3V8FNAd"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/monicadaspretas/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/sppretas"
+      },
+      {
+        "label": "Site em pretas50900.com.br",
+        "url": "https://pretas50900.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538918/2026/SP"
+  }
+}

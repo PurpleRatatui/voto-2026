@@ -1,0 +1,58 @@
+{
+  "id": "250002540931",
+  "name": "Dilador",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55235",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540931.jpg",
+    "alt": "Foto oficial de Dilador"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540931/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DILADORBORGES"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DILADORARACATUBA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DILADOR-BORGES"
+      },
+      {
+        "label": "Site em dilador.com.br",
+        "url": "https://www.dilador.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/diladorborges/"
+      },
+      {
+        "label": "Site em segueodila.com.br",
+        "url": "https://segueodila.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540931/2026/SP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "250002544341",
+  "name": "Delegado Bruno Lima",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2011",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544341.jpg",
+    "alt": "Foto oficial de Delegado Bruno Lima"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544341/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEL.BRUNOLIMA?_R=1&_T=ZS-972YKDKCKYG"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DELEGADOBRUNOLIMA?SI=VU9CBDTY1UJ639AD"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DEL.BRUNOLIMA?IGSH=AJFXCJC2YXPPN2ZT"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/17DRPQORJR/?MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544341/2026/SP"
+  }
+}

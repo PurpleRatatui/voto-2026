@@ -1,0 +1,50 @@
+{
+  "id": "250002546613",
+  "name": "Marina Calixto",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1405",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546613.jpg",
+    "alt": "Foto oficial de Marina Calixto"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546613/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/marinanamissao?igsi=cmd2Zm93bXVsMXFl&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/cacto_azzul?igsi=MW9kdXNpcGpsOGJheQ%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@marinanamissao"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@marinanamissao?si=nbAaXQzCx19cyA2S"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546613/2026/SP"
+  }
+}

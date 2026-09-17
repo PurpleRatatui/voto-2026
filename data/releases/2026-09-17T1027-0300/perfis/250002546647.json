@@ -1,0 +1,58 @@
+{
+  "id": "250002546647",
+  "name": "Gabriel Piauhy Lima da Silva",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1422",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546647.jpg",
+    "alt": "Foto oficial de Gabriel Piauhy Lima da Silva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546647/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/gabrielpiauhyreserva"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/gabrielpiauhysp"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@cortes.do.piauhy"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@cortesdopiauhy"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/1dpo3tpj2q"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/gabrielpiauhysp"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546647/2026/SP"
+  }
+}

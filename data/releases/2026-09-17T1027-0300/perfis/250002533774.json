@@ -1,0 +1,58 @@
+{
+  "id": "250002533774",
+  "name": "Cantor Alisson Santos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11222",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533774.jpg",
+    "alt": "Foto oficial de Cantor Alisson Santos"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533774/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em alissonoficial.com.br",
+        "url": "https://alissonoficial.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/P/ALISSON-SANTOS-61571603704054/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=100006043787754"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ALISSONNOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ALISSONSANTOSOFI"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ALISSONSANTOSOFC"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533774/2026/SP"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "id": "250002541874",
+  "name": "Rafael de Angeli",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10377",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541874.jpg",
+    "alt": "Foto oficial de Rafael de Angeli"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541874/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/RAFAELDEANGELI/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAFAEL.ANGELI"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/RAFANGELI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rafangeli"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rafaeldeangeli"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rafaeldeangeli2"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/rafangeli"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@rafael.angeli"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rafael.angeli"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rafangeli"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@RafaeldeAngeli"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@rafael.angeli"
+      },
+      {
+        "label": "Site em truthsocial.com",
+        "url": "https://truthsocial.com/@rafaeldeangeli"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@rafael.angeli"
+      },
+      {
+        "label": "Site em rafaeldeangeli.com.br",
+        "url": "https://www.rafaeldeangeli.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541874/2026/SP"
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "id": "250002533811",
+  "name": "Luciana Lippi",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44300",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533811.jpg",
+    "alt": "Foto oficial de Luciana Lippi"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533811/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LULIPPIBR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SIGALULIPPI/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LUCIANA.LIPPI.5"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LUCIANALIPPI30"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LUCIANALIPPI-F7H"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533811/2026/SP"
+  }
+}

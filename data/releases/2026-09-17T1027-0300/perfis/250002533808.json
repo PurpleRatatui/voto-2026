@@ -1,0 +1,54 @@
+{
+  "id": "250002533808",
+  "name": "Marlon Luz",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44567",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533808.jpg",
+    "alt": "Foto oficial de Marlon Luz"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533808/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@MARLON.LUZ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARLONLUZ/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/MARLONLUZ"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MARLONLUZ_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARLON.LUZ.852139"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533808/2026/SP"
+  }
+}

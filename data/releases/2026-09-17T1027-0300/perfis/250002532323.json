@@ -1,0 +1,58 @@
+{
+  "id": "250002532323",
+  "name": "Ellen Martinelli",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4433",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532323.jpg",
+    "alt": "Foto oficial de Ellen Martinelli"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532323/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em ellenmartinelli.com.br",
+        "url": "https://ellenmartinelli.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ELLENCAMILASMARTINELLI"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ELLENCAMILAMARTINELLI?SI=YDXIO8_KL7X5WHXB"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@ELLENCAMILAMARTINELLI?IGSHID=NTC4MTIWNJQ2YQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ELLENCAMILAMARTINELLI?IGSH=MTN4C2KWCHP4ZJUYCG=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ELLENCAMILAMARTINELLI"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532323/2026/SP"
+  }
+}

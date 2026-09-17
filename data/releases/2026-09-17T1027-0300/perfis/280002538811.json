@@ -1,0 +1,44 @@
+{
+  "id": "280002538811",
+  "name": "Samara",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UP",
+    "number": "80",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002538811/2026BR280002538811_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/samaramartinsup?igsi=MXFuaHczMWV5bDJwMA=="
+      },
+      {
+        "label": "Site em unidadepopular.org.br",
+        "url": "https://unidadepopular.org.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@samara.martinsup?_r=1&_t=ZS-99M6wtQb0Wy"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002538811/2026/BR"
+  }
+}

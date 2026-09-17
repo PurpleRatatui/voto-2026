@@ -1,0 +1,46 @@
+{
+  "id": "250002538911",
+  "name": "Adriana Rebouças",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REDE",
+    "number": "18180",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002538911.jpg",
+    "alt": "Foto oficial de Adriana Rebouças"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538911/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ADRIANAREBOUCASSP?IGSH=MTB5ATUXNGK2AHU3ZA%3D%3D&UTM_SO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CHEFDRIREBOUCAS_REDESJC?IGSH=BNI2EWXYBHIXZHZX&UTM_SOU"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ADRIANAREBOUCASSP?MIBEXTID=WWXIFR&MIBEXTID=WWXIFR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002538911/2026/SP"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "250002533747",
+  "name": "Alessandro Martins",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44500",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533747.jpg",
+    "alt": "Foto oficial de Alessandro Martins"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533747/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ALESSANDROMARTINSPROTETOR1215"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ALESSANDRO.MARTINS.756"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ALESSANDROMARTPROTETOR"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/PROTETORALE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ALESSANDRO_MARTINS_PROTETOR/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1M2TWxEnJa/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1BmsQ3GbK6/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533747/2026/SP"
+  }
+}

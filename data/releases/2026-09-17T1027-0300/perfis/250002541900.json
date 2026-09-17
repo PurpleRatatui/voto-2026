@@ -1,0 +1,54 @@
+{
+  "id": "250002541900",
+  "name": "Marcello Barbosa",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10522",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541900.jpg",
+    "alt": "Foto oficial de Marcello Barbosa"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541900/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DFYRWVSJ3/"
+      },
+      {
+        "label": "Site em tocommarcello.com.br",
+        "url": "https://tocommarcello.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@omarcellobarbosa?lang=pt-BR&is_from_webapp=1&sender_device=mobile&sender_web_id=7669513579825841681"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1Da5wmb8Yb/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/omarcellobarbosa?igsi=MXVlYXFmYXYwMHJ1ag=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541900/2026/SP"
+  }
+}

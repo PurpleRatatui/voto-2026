@@ -1,0 +1,54 @@
+{
+  "id": "250002532329",
+  "name": "Thaís Margarido",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4448",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532329.jpg",
+    "alt": "Foto oficial de Thaís Margarido"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532329/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@THAISMARGARIDOOFICIAL?SI=3JWHHSCH2MGV6CFW"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1EJSAAJFPK/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/THAIS_MARGARIDO?S=11"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/THAISMARGARIDOOFICIAL?IGSH=MZHWMNJROTFXZ2Y="
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@THAIS.MARGARIDO?_R=1&_T=ZS-9894G1RGUNR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532329/2026/SP"
+  }
+}

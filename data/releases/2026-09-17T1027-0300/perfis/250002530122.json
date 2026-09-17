@@ -1,0 +1,66 @@
+{
+  "id": "250002530122",
+  "name": "Lord Marinho",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3068",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530122.jpg",
+    "alt": "Foto oficial de Lord Marinho"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530122/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LORDMARINHO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRASIL_DIREITASP"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@LORDEMARINHO?SI=DET8P_7DH85HYR2Q"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/deputado_federal_sp"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fraternidadenovavida"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@Lordemarinho"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ellias_marinho"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/lordmarinho"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530122/2026/SP"
+  }
+}

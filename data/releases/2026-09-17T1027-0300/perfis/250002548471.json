@@ -1,0 +1,54 @@
+{
+  "id": "250002548471",
+  "name": "Natalino da Pousada",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1220",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548471.jpg",
+    "alt": "Foto oficial de Natalino da Pousada"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548471/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/NATALINOPOUSADA?LOCALE=PT_BR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VEREADOR_NATALINODAPOUSADA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@NATALINODASILVA75?_R=1&_T=ZS-98H1WEVG1OZ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/NATALINODAPOUSADA?LOCALE=PT_BR"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@VEREADOR_NATALINODAPOUSADA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548471/2026/SP"
+  }
+}

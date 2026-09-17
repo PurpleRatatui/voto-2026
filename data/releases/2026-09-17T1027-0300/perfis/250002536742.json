@@ -1,0 +1,70 @@
+{
+  "id": "250002536742",
+  "name": "Nancy Thame",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PV",
+    "number": "4343",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536742.jpg",
+    "alt": "Foto oficial de Nancy Thame"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536742/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/nancy.thame"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/nancythamee/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/nancy.ferruzzi.thame"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/profile.php?id=100007936724839"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@nancythame43?_r=1&_t=ZS-98FCCEY9EiS"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@nancy_thame?si=pLidURBO0lKtVmky"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/nancythame"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://wa.me/message/H7GNCPUOK42FF1"
+      },
+      {
+        "label": "Site em nancythame.com.br",
+        "url": "http://www.nancythame.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536742/2026/SP"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "250002541102",
+  "name": "Marcos Neves",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5570",
+    "status": "DEFERIDO EM PRAZO RECURSAL OU COM RECURSO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541102.jpg",
+    "alt": "Foto oficial de Marcos Neves"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541102/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCOSNEVESOFICIAL/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MARCOSNEVESOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@MARCOSNEVESOFICIAL.SP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/marcosnevesoficial"
+      },
+      {
+        "label": "Site em marcosnevesoficial.com.br",
+        "url": "https://marcosnevesoficial.com.br/"
+      },
+      {
+        "label": "Site em flickr.com",
+        "url": "https://www.flickr.com/photos/marcosnevesoficial"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541102/2026/SP"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "250002551067",
+  "name": "Juliano Ferreira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7042",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551067.jpg",
+    "alt": "Foto oficial de Juliano Ferreira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551067/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/OJULIANOSP/"
+      },
+      {
+        "label": "Site em jgdna.com",
+        "url": "https://www.jgdna.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ojulianoferreirabr?igsi=aGlubDFha2tpNDlk"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/droneindelicado?igsi=MXhldG1qcTNuYmViOA%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/julianoepatuska_?igsi=dHc1NGpxY3I0MWt1&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/julianoeluizfelipe?igsi=MWMwd2poYXVhcGhocw%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/julianoepadrinho?igsi=MWdxOHlvZmlzamI5MA%3D%3D&utm_source=qri"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/dronedocury?igsi=dHJqdTIyODFhZWFk&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_julianoedinei?igsi=MXNhNHp1NGR4dmxuOQ%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_julianoemarcia?igsi=dzl1eTd5aGQ4ZDZi&utm_source=qr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551067/2026/SP"
+  }
+}

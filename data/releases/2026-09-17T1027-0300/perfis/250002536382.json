@@ -1,0 +1,62 @@
+{
+  "id": "250002536382",
+  "name": "Delegado Sandro Montanari",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22230",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536382.jpg",
+    "alt": "Foto oficial de Delegado Sandro Montanari"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536382/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/delegadosandromontanari?igsh=MTE4dHE5dmpsczE0Mw"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1K7gPtuXkE/?mibextid=wwXIfr"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@delegadosandromontanari?_r=1&_t=ZS-98yVCZmj0p0"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@delegadosandromontanari?si=V5jonpVEjzopiyLW"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@delegadosandromontanari"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/delsmontanari?s=11"
+      },
+      {
+        "label": "Site em delegadosandromontanari.com.br",
+        "url": "https://www.delegadosandromontanari.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536382/2026/SP"
+  }
+}

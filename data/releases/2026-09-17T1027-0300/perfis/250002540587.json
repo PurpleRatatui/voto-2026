@@ -1,0 +1,54 @@
+{
+  "id": "250002540587",
+  "name": "Nelson Hossri",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55022",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540587.jpg",
+    "alt": "Foto oficial de Nelson Hossri"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540587/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/NELSONHOSSRI"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/RESULTS?SEARCH_QUERY=CANAL+DO+NELSON+HOSSRI"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@NELSONHOSSRI"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/NELSONHOSSRI/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/hossrinelson/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540587/2026/SP"
+  }
+}

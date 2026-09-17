@@ -1,0 +1,54 @@
+{
+  "id": "250002534170",
+  "name": "Vanessa Fortes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "77191",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534170.jpg",
+    "alt": "Foto oficial de Vanessa Fortes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534170/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/VANESSAFORTESOFICIAL"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VANESSAFORTESOFICIAL"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@VANESSAFORTES"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/VANESSACFORTES"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VANESSAFORTESOFICIAL"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534170/2026/SP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "250002535966",
+  "name": "Sophia Barclay",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2275",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535966.jpg",
+    "alt": "Foto oficial de Sophia Barclay"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535966/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/BARCLLAY"
+      },
+      {
+        "label": "Site em instagran.com",
+        "url": "https://instagran.com/BARCLLAY"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@EUBARCLLAY"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/BARCLLAY"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535966/2026/SP"
+  }
+}

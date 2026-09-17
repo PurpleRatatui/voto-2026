@@ -1,0 +1,46 @@
+{
+  "id": "250002540690",
+  "name": "Dr. Donizeti",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1137",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540690.jpg",
+    "alt": "Foto oficial de Dr. Donizeti"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540690/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/DONIZETI-LIMA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/DONIZETILIMAORTOPEDISTA"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@DONIZETILIMAORTOPEDISTA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540690/2026/SP"
+  }
+}

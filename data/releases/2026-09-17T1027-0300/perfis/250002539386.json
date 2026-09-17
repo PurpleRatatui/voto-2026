@@ -1,0 +1,54 @@
+{
+  "id": "250002539386",
+  "name": "Gilson Souza",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSB",
+    "number": "4050",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539386.jpg",
+    "alt": "Foto oficial de Gilson Souza"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539386/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GILSONDESOUZADEP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@gilsondesouzadepfederal"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@gilsondesouzadeputadofederal"
+      },
+      {
+        "label": "Site em saudepratodosfranca.com.br",
+        "url": "https://saudepratodosfranca.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/gilsondesouzadep/?_rdc=1&_rdr#"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539386/2026/SP"
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "id": "250002532344",
+  "name": "Esnar Ribeiro",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "1117",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532344.jpg",
+    "alt": "Foto oficial de Esnar Ribeiro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532344/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/ESNARRIBEIRO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/ESNARRIBEIRO"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ESNARRIBEIRO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@ESNARRIBEIRO"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532344/2026/SP"
+  }
+}

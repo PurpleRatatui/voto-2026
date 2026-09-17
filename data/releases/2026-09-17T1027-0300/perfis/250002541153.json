@@ -1,0 +1,62 @@
+{
+  "id": "250002541153",
+  "name": "Michele Vanzella",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5521",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541153.jpg",
+    "alt": "Foto oficial de Michele Vanzella"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541153/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MICHELEVANZELLADF/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/MICHELE-VANZELLA-AA805636/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/michele.vanzella.9?locale=pt_BR"
+      },
+      {
+        "label": "Site em michelevanzella.com.br",
+        "url": "http://www.michelevanzella.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/mvanzella?igsh=MXYwemNkcXFmM2N1ZA%3D%3D&igsi=MXYwemNkcXFmM2N1ZA%3D%3D&utm_"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/michelevanzelladf?igsh=MWI5OXk1eXA2dHN1Mg%3D%3D&utm_source=qr"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1DJX1W3wfd/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541153/2026/SP"
+  }
+}

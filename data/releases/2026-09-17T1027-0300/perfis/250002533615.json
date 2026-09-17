@@ -1,0 +1,46 @@
+{
+  "id": "250002533615",
+  "name": "Silas Feitosa",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "1518",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533615.jpg",
+    "alt": "Foto oficial de Silas Feitosa"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533615/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BLXXOHHD4/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@SILASFEITOSAOFICIAL?_R=1&_T=ZS-97B9UCOYA2O"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SILASFEITOSAOFICIAL?IGSH=NHZICNP1AZK1BDI4&UTM_SOURCE=Q"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533615/2026/SP"
+  }
+}

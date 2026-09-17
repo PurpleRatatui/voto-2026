@@ -1,0 +1,54 @@
+{
+  "id": "250002532326",
+  "name": "Dr Elton",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4412",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532326.jpg",
+    "alt": "Foto oficial de Dr Elton"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532326/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DRELTONJR?SI=CLQ50F-_IFG6RX_G"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/DRELTONJR?S=21"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DRELTON?_R=1&_T=ZS-95VMNTQZLU9"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1B71Z2WYLA/?MIB"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DRELTONJR?IGSH=DTZKYNG5ZHK2C3G2"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532326/2026/SP"
+  }
+}

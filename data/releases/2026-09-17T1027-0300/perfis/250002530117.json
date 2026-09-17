@@ -1,0 +1,78 @@
+{
+  "id": "250002530117",
+  "name": "Pedro Pôncio - Ex Mst",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3022",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530117.jpg",
+    "alt": "Foto oficial de Pedro Pôncio - Ex Mst"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530117/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@PEDROPONCIOEXMST"
+      },
+      {
+        "label": "Site em pedroponcio.com.br",
+        "url": "https://www.pedroponcio.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEDROPONCIOSP/"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/PEDROPONCIOBE/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PEDROPONCIOSP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pedroponciosp2?igsh=MTlvYjkxczR5c3lteQ==&igsi=MTlvYjkxczR5c3lteQ=="
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/pedroponciosp/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/pedroponciosp/"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/pedroponciobe/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@pedroponcioexmst"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@pedroponciosp/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530117/2026/SP"
+  }
+}

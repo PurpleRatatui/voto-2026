@@ -1,0 +1,50 @@
+{
+  "id": "250002530240",
+  "name": "Jadiel Moraes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30703",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530240.jpg",
+    "alt": "Foto oficial de Jadiel Moraes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530240/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/JADIELMORAES20?S=11&T=CSBQ01GLVBIWGXCVL2AWHA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JADIEL.MORAES.2025?"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JADIELMORAES25?_R=1&_T=ZS-97GXKH6GC8S"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JADIELOFICIALSP?IGSH=MWV6ZGZOCDR2BMX6ZA%3D%3D&UTM_SOUR"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530240/2026/SP"
+  }
+}

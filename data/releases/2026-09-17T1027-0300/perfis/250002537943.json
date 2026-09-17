@@ -1,0 +1,62 @@
+{
+  "id": "250002537943",
+  "name": "Maria Rosas",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "1022",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002537943.jpg",
+    "alt": "Foto oficial de Maria Rosas"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537943/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARIAROSAS.OFICIAL?IGSH=NWTQATY0MTBREDDT"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MARIAROSAS.OFICIAL"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/MARIAROSASSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARIAROSAS.OFICIAL"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/MARIAROSASOFICIAL"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029VaBkiTMFCCoQpQkAcH19"
+      },
+      {
+        "label": "Site em mariarosas1022.com.br",
+        "url": "https://mariarosas1022.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537943/2026/SP"
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "250002540885",
+  "name": "Pernoca",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55999",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540885.jpg",
+    "alt": "Foto oficial de Pernoca"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540885/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/DIOGO-REIS-DA-COSTA-0B272537"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DIOGOPERNOCA8893?SI=DCJ9WCXKZJ9HXRMJ"
+      },
+      {
+        "label": "Site em pernoca.com.br",
+        "url": "https://www.pernoca.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DIOGOPERNOCAPOA/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DIOGO.PERNOCA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/diogopernocapoa/"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@diogopernocapoa"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540885/2026/SP"
+  }
+}

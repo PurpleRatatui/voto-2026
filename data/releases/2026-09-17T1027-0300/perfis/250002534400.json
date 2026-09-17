@@ -1,0 +1,154 @@
+{
+  "id": "250002534400",
+  "name": "Robertinho da Padaria",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "2533",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534400.jpg",
+    "alt": "Foto oficial de Robertinho da Padaria"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534400/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ROBERTINHO.DA.PAD"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EUSOUROBERTINHODAPADARIA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@ROBERTINHODAPADARIA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/VER.ROBERTINHODAPADARIA"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitario./"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitario31demarco/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioa/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioalessia/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioandrea/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariocamila/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioclaudia/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioe/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariofernanda/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariojanete/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariojardimimperial/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariom/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioma/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariomurilo/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarionet/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarionina/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioorlandomarson/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariopandora/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioparado/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitarioparquedomuseu/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariorenata/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariosp/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariothomas/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariourso/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariovilaaparecida/"
+      },
+      {
+        "label": "Site em todosporumacausa.com.br",
+        "url": "https://todosporumacausa.com.br/petcomunitariowendel/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534400/2026/SP"
+  }
+}

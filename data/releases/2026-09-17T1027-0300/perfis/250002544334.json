@@ -1,0 +1,42 @@
+{
+  "id": "250002544334",
+  "name": "Evandro Izidoro",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2006",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544334.jpg",
+    "alt": "Foto oficial de Evandro Izidoro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544334/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EGREGORAESTETICA?IGSH=B2R4Y3VYB3K5MTVN&UTM_SOURCE=QR."
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/EVANDRO_IZIDORO_?IGSH=MXDWANE2ATLUYM40NW%3D%3D&UTM_SOU"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544334/2026/SP"
+  }
+}

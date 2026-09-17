@@ -1,0 +1,70 @@
+{
+  "id": "250002530167",
+  "name": "Adriana Ventura",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3030",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530167.jpg",
+    "alt": "Foto oficial de Adriana Ventura"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530167/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ADRIVENTURASP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ADRIVENTURASP"
+      },
+      {
+        "label": "Site em adrianaventura.com",
+        "url": "https://adrianaventura.com/"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/adriventurasp"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@adrianaventura"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@adriventurasp"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/in/adriventurasp"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/adriventurasp"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/adriventurasp"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530167/2026/SP"
+  }
+}

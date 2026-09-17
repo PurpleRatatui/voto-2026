@@ -1,0 +1,78 @@
+{
+  "id": "250002534928",
+  "name": "Natthalia Paccola",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "SOLIDARIEDADE",
+    "number": "7711",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534928.jpg",
+    "alt": "Foto oficial de Natthalia Paccola"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534928/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/FADAPSICANALISE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FASDAPSINALISE"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/FASDAPSICANALISE"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/natthaliapaccola/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/natthaliacpaccola/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/natthaliapaccolafas/"
+      },
+      {
+        "label": "Site em natthalia-dnk9ogpp.manus.space",
+        "url": "https://natthalia-dnk9ogpp.manus.space/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@natthpaccola"
+      },
+      {
+        "label": "Site em natthaliapaccola.com.br",
+        "url": "https://natthaliapaccola.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/natthpaccola"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@natthaliapaccola"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534928/2026/SP"
+  }
+}

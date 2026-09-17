@@ -1,0 +1,50 @@
+{
+  "id": "250002546649",
+  "name": "Professor Jonathan Oliveira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MISSÃO",
+    "number": "1467",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002546649.jpg",
+    "alt": "Foto oficial de Professor Jonathan Oliveira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546649/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/joliveirambl"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@joliveirambl"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/joliveirambl"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://tiktok.com/@jonathan.oliveira.1467"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002546649/2026/SP"
+  }
+}

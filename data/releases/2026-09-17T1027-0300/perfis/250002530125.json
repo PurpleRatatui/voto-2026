@@ -1,0 +1,74 @@
+{
+  "id": "250002530125",
+  "name": "Trovão",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3017",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530125.jpg",
+    "alt": "Foto oficial de Trovão"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530125/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MARCOROGERIOTROVAO"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MARCOROGERIOTROVAO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@MARCO.ROGERIO.TROVAO"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/@MARCORO43166598"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/marcorogeriotrovao"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/marcorogeriotrovao"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@marco.rogerio.trovao"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/@MarcoRo43166598"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@marcorogeriotrovao"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@marcorogeriotrovao"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530125/2026/SP"
+  }
+}

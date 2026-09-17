@@ -1,0 +1,58 @@
+{
+  "id": "250002548465",
+  "name": "Prof Wilson Cabral",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "1210",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002548465.jpg",
+    "alt": "Foto oficial de Prof Wilson Cabral"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548465/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em wilsoncabral.info",
+        "url": "https://www.wilsoncabral.info/"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/WILSON-CABRAL-28298282/"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/WILSONSOUSAJR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@WILSONCABRAL_PROF"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@WILSONCABRAL_PROF"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WILSONCABRAL_PROF"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002548465/2026/SP"
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "250002545172",
+  "name": "Kaka do Autismo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20777",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545172.jpg",
+    "alt": "Foto oficial de Kaka do Autismo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545172/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KAKA_AUTISMO?IGSH=MXD2BWV1MXN6DHDNMG=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/kaka.do.autismo?mibextid=wwXIfr&rdid=YE556nqdwGfKJ9uS&share_url=https%3A%2F"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kaka_ferrazoficial/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/kaka_autismo/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/kaka.do.autismo"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/alvarokakaferraz"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@kakapeloautismo"
+      },
+      {
+        "label": "Site em kakadoautismo20777.com.br",
+        "url": "https://kakadoautismo20777.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@falandodeautismocomkaka"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1GKy1HDdF2/?mibextid=wwXIfr"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545172/2026/SP"
+  }
+}

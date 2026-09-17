@@ -1,0 +1,62 @@
+{
+  "id": "250002541308",
+  "name": "André do Prado",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "222",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541308.jpg",
+    "alt": "Foto oficial de André do Prado"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541308/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/_ANDREDOPRADO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/DEP.ANDREDOPRADO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANDREDOPRADO_"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANDREDOPRADOSP/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@andredopradosp"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/andredopradosp"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/u/@andredopradosp/CQMyLvGu"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541308/2026/SP"
+  }
+}

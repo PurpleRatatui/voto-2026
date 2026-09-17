@@ -1,0 +1,58 @@
+{
+  "id": "250002535961",
+  "name": "Vinicius Carvalho",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "2285",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002535961.jpg",
+    "alt": "Foto oficial de Vinicius Carvalho"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535961/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VINICIUSCARVALHOOFICIAL?UTM_SOURCE=QR"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BQES1AXNP/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "YouTube",
+        "url": "http://www.youtube.com/@DEPUTADOVINICIUSCARVALHO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@viniciuscarvalhooficial"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/falecomvinicius"
+      },
+      {
+        "label": "Site em viniciuscarvalho.com.br",
+        "url": "https://viniciuscarvalho.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002535961/2026/SP"
+  }
+}

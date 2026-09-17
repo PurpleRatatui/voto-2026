@@ -1,0 +1,54 @@
+{
+  "id": "250002532356",
+  "name": "Joyce Paulino",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "4414",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002532356.jpg",
+    "alt": "Foto oficial de Joyce Paulino"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532356/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/JOYCEEDUCA?S=21"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOYCEEDUCA?IGSH=MW1RNXLKEMPXDWZ2ZW=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18YEVNWZE5/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@JOYCEPAULINO955?SI=PLHRT29PRYYTYL7G"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JOYCEEDUCA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002532356/2026/SP"
+  }
+}

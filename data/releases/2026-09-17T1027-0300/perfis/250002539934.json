@@ -1,0 +1,82 @@
+{
+  "id": "250002539934",
+  "name": "Luiza Erundina",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "50555",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539934.jpg",
+    "alt": "Foto oficial de Luiza Erundina"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539934/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LUIZAERUNDINA?FREF=TS"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUIZAERUNDINA/"
+      },
+      {
+        "label": "Site em luizaerundina.com.br",
+        "url": "https://luizaerundina.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LUIZAERUNDINA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/luizaerundina"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/luizaerundina"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/luizaerundina"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@luizaerundina"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LuizaErundinaSousa"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/luizaerundinapsol.bsky.social"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@luizaerundina"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029VbDfRox3wtb4z1ejj42z"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539934/2026/SP"
+  }
+}

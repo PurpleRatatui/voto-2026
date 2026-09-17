@@ -1,0 +1,50 @@
+{
+  "id": "250002536840",
+  "name": "João Paulo Rillo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13622",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536840.jpg",
+    "alt": "Foto oficial de João Paulo Rillo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536840/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/SOUJOAOPAULORILLO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/JOAOPAULORILLO/?LOCALE=PT_BR"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/JOAOPAULORILLO"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://api.whatsapp.com/SEND?PHONE=5517996600113"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536840/2026/SP"
+  }
+}

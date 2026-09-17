@@ -1,0 +1,218 @@
+{
+  "releaseId": "2026-09-17T1027-0300",
+  "office": "senador",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "cards": [
+    {
+      "id": "250002541308",
+      "name": "André do Prado",
+      "initials": "AP",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002541308.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002541308.jpg",
+        "alt": "Foto oficial de André do Prado"
+      }
+    },
+    {
+      "id": "250002541362",
+      "name": "Dra Eliana Ferreira",
+      "initials": "DF",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002541362.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002541362.jpg",
+        "alt": "Foto oficial de Dra Eliana Ferreira"
+      }
+    },
+    {
+      "id": "250002552955",
+      "name": "Ednelson Cesaretti",
+      "initials": "EC",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002552955.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002552955.jpg",
+        "alt": "Foto oficial de Ednelson Cesaretti"
+      }
+    },
+    {
+      "id": "250002544673",
+      "name": "Geraldo Rufino",
+      "initials": "GR",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002544673.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002544673.jpg",
+        "alt": "Foto oficial de Geraldo Rufino"
+      }
+    },
+    {
+      "id": "250002541312",
+      "name": "Guilherme Derrite",
+      "initials": "GD",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002541312.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002541312.jpg",
+        "alt": "Foto oficial de Guilherme Derrite"
+      }
+    },
+    {
+      "id": "250002554075",
+      "name": "Guto Schiavetto",
+      "initials": "GS",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002554075.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002554075.jpg",
+        "alt": "Foto oficial de Guto Schiavetto"
+      }
+    },
+    {
+      "id": "250002544516",
+      "name": "Maíra de Souza",
+      "initials": "MS",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002544516.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002544516.jpg",
+        "alt": "Foto oficial de Maíra de Souza"
+      }
+    },
+    {
+      "id": "250002544514",
+      "name": "Marcio Alves",
+      "initials": "MA",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002544514.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002544514.jpg",
+        "alt": "Foto oficial de Marcio Alves"
+      }
+    },
+    {
+      "id": "250002551501",
+      "name": "Marina Silva",
+      "initials": "MS",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002551501.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002551501.jpg",
+        "alt": "Foto oficial de Marina Silva"
+      }
+    },
+    {
+      "id": "250002552153",
+      "name": "Petter Maahs",
+      "initials": "PM",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002552153.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002552153.jpg",
+        "alt": "Foto oficial de Petter Maahs"
+      }
+    },
+    {
+      "id": "250002532794",
+      "name": "Salles",
+      "initials": "SA",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002532794.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002532794.jpg",
+        "alt": "Foto oficial de Salles"
+      }
+    },
+    {
+      "id": "250002551502",
+      "name": "Simone Tebet",
+      "initials": "ST",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002551502.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002551502.jpg",
+        "alt": "Foto oficial de Simone Tebet"
+      }
+    },
+    {
+      "id": "250002552369",
+      "name": "Soninha Francine",
+      "initials": "SF",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002552369.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002552369.jpg",
+        "alt": "Foto oficial de Soninha Francine"
+      }
+    },
+    {
+      "id": "250002541365",
+      "name": "Weller Gonçalves",
+      "initials": "WG",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002541365.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002541365.jpg",
+        "alt": "Foto oficial de Weller Gonçalves"
+      }
+    },
+    {
+      "id": "250002553252",
+      "name": "William Teixeira",
+      "initials": "WT",
+      "profile": "data/releases/2026-09-17T1027-0300/perfis/250002553252.json",
+      "summary": "Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.",
+      "tags": [
+        "Fontes em revisão"
+      ],
+      "photo": {
+        "src": "data/releases/2026-09-17T1027-0300/fotos/250002553252.jpg",
+        "alt": "Foto oficial de William Teixeira"
+      }
+    }
+  ]
+}

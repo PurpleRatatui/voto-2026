@@ -1,0 +1,54 @@
+{
+  "id": "250002540584",
+  "name": "Analice Fernandes",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55455",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540584.jpg",
+    "alt": "Foto oficial de Analice Fernandes"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540584/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em analicefernandes.net.br",
+        "url": "https://www.analicefernandes.net.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DEPUTADA.ANALICE."
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DEPUTADA.ANALICE/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@DEPUTADAANALICEFERNANDES?SI=B_X9QCVF8H9GV0XK"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/deputadaanalice/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540584/2026/SP"
+  }
+}

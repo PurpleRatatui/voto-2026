@@ -1,0 +1,58 @@
+{
+  "id": "250002545146",
+  "name": "Fernando Fh",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20190",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545146.jpg",
+    "alt": "Foto oficial de Fernando Fh"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545146/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FERNANDOFHFRIOS?IGSH=NMFMCZZWZ2E0OTV0&UTM_SOURCE=QR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/fernandofhfrios"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/fernandofhfrios"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@fernandofhfrios"
+      },
+      {
+        "label": "Site em fernandofh.com.br",
+        "url": "https://www.fernandofh.com.br/"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://chat.whatsapp.com/GiyPBhOxxQo3UYd99O2eD6?s=cl&p=i&mlu=4&ilr=4"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545146/2026/SP"
+  }
+}

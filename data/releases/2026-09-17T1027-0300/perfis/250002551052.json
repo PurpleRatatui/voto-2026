@@ -1,0 +1,78 @@
+{
+  "id": "250002551052",
+  "name": "Luiz Moura",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7012",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551052.jpg",
+    "alt": "Foto oficial de Luiz Moura"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551052/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1CIVKXFJEW/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AMIGOLUIZMOURA?IGSH=ATFLNXBIANHXC210"
+      },
+      {
+        "label": "Site em zonaleste.rubix.social",
+        "url": "https://zonaleste.rubix.social/"
+      },
+      {
+        "label": "Site em luiz.rubix.social",
+        "url": "https://luiz.rubix.social/"
+      },
+      {
+        "label": "Site em luizmoura.rubix.social",
+        "url": "https://luizmoura.rubix.social/"
+      },
+      {
+        "label": "Site em rubix.social",
+        "url": "https://rubix.social/luiz"
+      },
+      {
+        "label": "Site em rubix.social",
+        "url": "https://rubix.social/luizmoura"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/amigoluizmoura"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/amigoluizmoura"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/amigoluizmoura"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/amigoluizmoura.bsky.socia"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551052/2026/SP"
+  }
+}

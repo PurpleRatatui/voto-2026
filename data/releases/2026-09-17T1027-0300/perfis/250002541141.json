@@ -1,0 +1,66 @@
+{
+  "id": "250002541141",
+  "name": "Rodrigo Spada",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "5510",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541141.jpg",
+    "alt": "Foto oficial de Rodrigo Spada"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541141/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/@RODRIGOSPADASP"
+      },
+      {
+        "label": "Site em rodrigospada.com.br",
+        "url": "https://rodrigospada.com.br/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/RODRIGOSPADA26"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RODROGOSPADA_"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RODRIGOSPADA_/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/rodrigospada_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rodrigospada26/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@rodrigospada_"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541141/2026/SP"
+  }
+}

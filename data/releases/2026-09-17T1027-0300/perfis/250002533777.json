@@ -1,0 +1,50 @@
+{
+  "id": "250002533777",
+  "name": "Diogo Faixa Azul",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "UNIÃO",
+    "number": "44056",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533777.jpg",
+    "alt": "Foto oficial de Diogo Faixa Azul"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533777/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DIOGOMOURA1880"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1DE7Q3D8M4/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DIOGOFAIXAAZUL?_R=1&_T=ZS-98HFY90VGIU"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DIOGOFAIXAAZUL?IGSH=MWLYMWNUNMC1CMUYDW=="
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533777/2026/SP"
+  }
+}

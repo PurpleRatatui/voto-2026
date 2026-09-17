@@ -1,0 +1,58 @@
+{
+  "id": "250002530136",
+  "name": "Luiz Camargo",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3040",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530136.jpg",
+    "alt": "Foto oficial de Luiz Camargo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530136/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUIZCAMARGOVLOG"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LUIZCAMARGOVLOG"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/luizcamargovlog"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/luizcamargovlog"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@luizcamargovlog"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/luizcamargovlog"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530136/2026/SP"
+  }
+}

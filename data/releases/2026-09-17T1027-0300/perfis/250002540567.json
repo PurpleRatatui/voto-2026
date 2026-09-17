@@ -1,0 +1,50 @@
+{
+  "id": "250002540567",
+  "name": "Zé do Peixe",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55007",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540567.jpg",
+    "alt": "Foto oficial de Zé do Peixe"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540567/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/jose.carvalho.292571"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/zedopeixe.sp/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/zedopeixe.saopaulo"
+      },
+      {
+        "label": "Site em zedopeixesp.com.br",
+        "url": "https://www.zedopeixesp.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540567/2026/SP"
+  }
+}

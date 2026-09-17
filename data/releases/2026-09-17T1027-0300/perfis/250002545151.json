@@ -1,0 +1,66 @@
+{
+  "id": "250002545151",
+  "name": "Delegado Cristiano",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "20001",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002545151.jpg",
+    "alt": "Foto oficial de Delegado Cristiano"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545151/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@DELEGADOCRISTIANOENGEL?_R=1&_T=ZS-97QIPPYRU7G"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DELEGADOCRISTIANOENGEL?IGSH=AXFTENHJN3VOBNP4&UTM_SOURC"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://k.kwai.com/U/@DELEGADO.CRISTIANO/JCET6ZKQ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1EYWXI4DDA/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/CRISTIANO-ENGEL-53B390329?%20UTM_SOURCE=SHARE_VIA&UTM_"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/CRISTIAN0ENGEL?S=11&T=JKLYCHAJZBSTKCZJQOZUWA"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/channel/0029VaFR0TG5K3zV6P1qlX3N"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/delegadocristiano"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002545151/2026/SP"
+  }
+}

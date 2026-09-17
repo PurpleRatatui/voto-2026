@@ -1,0 +1,66 @@
+{
+  "id": "250002544355",
+  "name": "Rodrigo Gambale",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2077",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544355.jpg",
+    "alt": "Foto oficial de Rodrigo Gambale"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544355/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RODRIGOGAMBALE?IGSH=MW92YJQWDDCXEJD0NQ=="
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1EBEHYMKHU/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/rodrigogambale/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rodrigogambaleoficial"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rodrigogambale/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@rodrigogambale"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@RodrigoGambale/featured"
+      },
+      {
+        "label": "Site em rodrigogambale2077.com.br",
+        "url": "https://rodrigogambale2077.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544355/2026/SP"
+  }
+}

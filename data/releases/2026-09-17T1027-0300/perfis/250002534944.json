@@ -1,0 +1,62 @@
+{
+  "id": "250002534944",
+  "name": "Coronel Tadeu",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "2522",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534944.jpg",
+    "alt": "Foto oficial de Coronel Tadeu"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534944/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CORONELTADEU/"
+      },
+      {
+        "label": "Instagram",
+        "url": "http://www.instagram.com/coroneltadeu"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://facebook.com/CoronelTadeu/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/channel/UCs0AEQGRECWGJKePXf933pQ"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/coroneltadeu"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@coroneltadeu"
+      },
+      {
+        "label": "Site em coroneutadeu.com.br",
+        "url": "https://coroneutadeu.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534944/2026/SP"
+  }
+}

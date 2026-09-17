@@ -1,0 +1,58 @@
+{
+  "id": "250002551104",
+  "name": "Marcia Taschetti",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "7005",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551104.jpg",
+    "alt": "Foto oficial de Marcia Taschetti"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551104/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@MARCIATASCHETTI?_R=1&_T=ZS-98UDB3DYJ7F"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@DRAMARCIATASCHETTI?SI=KKLBNHE8VI3QUBFQ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/DRAMARCIATASCHETTI"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1B2Z6YZVGB/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Site em marciataschetti.com.br",
+        "url": "https://www.marciataschetti.com.br/"
+      },
+      {
+        "label": "X",
+        "url": "https://www.x.com/MARCIATASCHETTI?S=21"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551104/2026/SP"
+  }
+}

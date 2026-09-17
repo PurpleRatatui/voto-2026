@@ -1,0 +1,74 @@
+{
+  "id": "250002539621",
+  "name": "Santo Legaliza",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSOL",
+    "number": "5042",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002539621.jpg",
+    "alt": "Foto oficial de Santo Legaliza"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539621/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/santoskywalker/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/santolegaliza/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/santolegaliza"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/StoSkywalker"
+      },
+      {
+        "label": "Bluesky",
+        "url": "https://bsky.app/profile/santolegaliza.bsky.social"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@santoskywalker"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@SantoSkywalker"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@VaporBarato"
+      },
+      {
+        "label": "Site em maconhalivreja.com.br",
+        "url": "https://maconhalivreja.com.br/"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://www.whatsapp.com/channel/0029Vac4Ll9J93wURzMU2c0k"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002539621/2026/SP"
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "250002530134",
+  "name": "Raquel Rafaella",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3034",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530134.jpg",
+    "alt": "Foto oficial de Raquel Rafaella"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530134/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@AMOREFEPONTODASLETRAS?_R=1&_T=ZS-97SO7VKZD7V"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://m.facebook.com/PROFILE.PHP?ID=100004992162011"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAQUEL_RAFAELLAOFICIAL?IGSH=MTK0BNM1NDD5DW1IDG%3D%3D&U"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530134/2026/SP"
+  }
+}

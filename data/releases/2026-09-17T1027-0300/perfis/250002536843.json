@@ -1,0 +1,70 @@
+{
+  "id": "250002536843",
+  "name": "Leandro Soares",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "13290",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536843.jpg",
+    "alt": "Foto oficial de Leandro Soares"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536843/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LEANDROSOARES.SP/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LEANDROSOARES.SP"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LEANDROSOARES.SP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LEANDRO.SOARES.9237"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/LEANDROSOARESSP"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@LEANDROSOARES.SP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LEANDRO_CSOARES26"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@LEANDROSOARES_SP"
+      },
+      {
+        "label": "Site em leandro13290.com.br",
+        "url": "https://www.leandro13290.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536843/2026/SP"
+  }
+}

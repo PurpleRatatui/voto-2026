@@ -1,0 +1,46 @@
+{
+  "id": "250002540875",
+  "name": "Mauro Bragato",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55125",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540875.jpg",
+    "alt": "Foto oficial de Mauro Bragato"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540875/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em maurobragato.com.br",
+        "url": "https://maurobragato.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/MAURO.BRAGATO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/MauroBragato"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540875/2026/SP"
+  }
+}

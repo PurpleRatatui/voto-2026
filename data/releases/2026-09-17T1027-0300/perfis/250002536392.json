@@ -1,0 +1,58 @@
+{
+  "id": "250002536392",
+  "name": "Valeria Bolsonaro",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22922",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536392.jpg",
+    "alt": "Foto oficial de Valeria Bolsonaro"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536392/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@VALERIABOLSONARO8317?SI=HQ1DRV5WVCHIEXQB"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VALBOLSONARO?LANG=PT-BR&IS_FROM_WEBAPP=1&SENDER_DEVICE=M"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://whatsapp.com/CHANNEL/0029VB80NSL545UZHQHAZX1N"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BMJ4HSTLR/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BOLSONAROVALERIA?IGSH=MWY1ATMZZGFPZXR5NA=="
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@bolsonarovaleria"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536392/2026/SP"
+  }
+}

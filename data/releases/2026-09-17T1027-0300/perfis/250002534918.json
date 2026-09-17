@@ -1,0 +1,70 @@
+{
+  "id": "250002534918",
+  "name": "Bernardi Conservador",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PRD",
+    "number": "2510",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534918.jpg",
+    "alt": "Foto oficial de Bernardi Conservador"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534918/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BERNARDITV/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BERNARDICONSERVADOR/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/bernardiconservador/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/bernarditv/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/bernarditv1/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/Bernarditv"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@bernarditv"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/Bernarditv"
+      },
+      {
+        "label": "Site em bernardiconservador2510.com.br",
+        "url": "http://www.bernardiconservador2510.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534918/2026/SP"
+  }
+}

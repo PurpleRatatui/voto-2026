@@ -1,0 +1,66 @@
+{
+  "id": "250002536745",
+  "name": "Paulo Teixeira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1398",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536745.jpg",
+    "alt": "Foto oficial de Paulo Teixeira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536745/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/PAULOTEIXEIRA13/"
+      },
+      {
+        "label": "Site em zapdopauloteixeira.com.br",
+        "url": "https://zapdopauloteixeira.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@PAULOTEIXEIRA13_"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PAULOTEIXEIRA13/"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@pauloteixeira13"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/pauloteixeira13"
+      },
+      {
+        "label": "WhatsApp",
+        "url": "https://chat.whatsapp.com/BBnZWpPvE97GvFikPQurue"
+      },
+      {
+        "label": "Site em pauloteixeira13.com.br",
+        "url": "https://pauloteixeira13.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536745/2026/SP"
+  }
+}

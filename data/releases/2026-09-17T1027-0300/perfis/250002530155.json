@@ -1,0 +1,82 @@
+{
+  "id": "250002530155",
+  "name": "Barbara Kogos",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3099",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530155.jpg",
+    "alt": "Foto oficial de Barbara Kogos"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530155/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em barbarakogos.com.br",
+        "url": "https://www.barbarakogos.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BARBARAKOGOS"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BARBARAKOGOSOFICIAL"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BARBARAKOGOSOFICIAL"
+      },
+      {
+        "label": "Site em barbarakogos.com.br",
+        "url": "https://barbarakogos.com.br/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/barbarakogos,"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@barbarakogosoficial,"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/barbarakogosoficial,"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@barbarakogos"
+      },
+      {
+        "label": "Threads",
+        "url": "https://www.threads.net/@barbarakogos,"
+      },
+      {
+        "label": "X",
+        "url": "https://twitter.com/barbarakogos,"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@barbarakogos"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530155/2026/SP"
+  }
+}

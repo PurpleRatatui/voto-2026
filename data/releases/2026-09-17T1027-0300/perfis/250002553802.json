@@ -1,0 +1,50 @@
+{
+  "id": "250002553802",
+  "name": "Gabriel Lima",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "DC",
+    "number": "27778",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002553802.jpg",
+    "alt": "Foto oficial de Gabriel Lima"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002553802/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@limagabrieloficial?_r=1&_t=ZS-98zHmKGSiLk"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/limagabrieloficial?igsh=MTA2dGU5cm5sdzdoZg%3D%3D&"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/share/1E3J8LFWWW/?mibextid=wwXIfr"
+      },
+      {
+        "label": "Site em limagabriel.com.br",
+        "url": "http://www.limagabriel.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002553802/2026/SP"
+  }
+}

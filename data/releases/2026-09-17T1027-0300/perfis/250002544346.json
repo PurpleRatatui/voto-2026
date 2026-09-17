@@ -1,0 +1,106 @@
+{
+  "id": "250002544346",
+  "name": "Bruno Ganem",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PODE",
+    "number": "2010",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002544346.jpg",
+    "alt": "Foto oficial de Bruno Ganem"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544346/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEMSP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.ONCOLOGIA/"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@BRUNOGANEMSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BRUNOGANEM.FIBROMIALGIA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BRUNOGANEMSP"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BRUNOGANEM.SEGURANCA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BRUNOGANEM.AUTISMO"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BRUNOGANEMSP"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.AUTISMO/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/INDAIATUBA.BRUNOGANEM/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/BRUNOGANEM.ONCOLOGIA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEMNAAVIACAO/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.ATUALIDADES/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.INDAIA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.SEGURANCA/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/BRUNOGANEM.FIBROMIALGIA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/brunoganem.com.br"
+      },
+      {
+        "label": "Site em materialganem.com.br",
+        "url": "http://materialganem.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002544346/2026/SP"
+  }
+}

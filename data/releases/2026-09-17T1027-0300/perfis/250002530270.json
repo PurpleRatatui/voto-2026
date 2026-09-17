@@ -1,0 +1,62 @@
+{
+  "id": "250002530270",
+  "name": "Beto Vaz",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "30100",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530270.jpg",
+    "alt": "Foto oficial de Beto Vaz"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530270/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "X",
+        "url": "https://x.com/BETO_VAZ_"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/BETOVAZESTADUAL"
+      },
+      {
+        "label": "Site em betovaz.com.br",
+        "url": "https://betovaz.com.br/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@BETOVAZ_?_R=1&_T=ZS-981XCFVZYUS"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@SUPERACAOBETOVAZ?SI=VT8I1OZHQO00FVH7"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/_BETOVAZ"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/ALBERTO.VAZ.9406"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530270/2026/SP"
+  }
+}

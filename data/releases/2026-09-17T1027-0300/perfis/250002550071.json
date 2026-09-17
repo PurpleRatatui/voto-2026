@@ -1,0 +1,46 @@
+{
+  "id": "250002550071",
+  "name": "Carla",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSDB",
+    "number": "45680",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002550071.jpg",
+    "alt": "Foto oficial de Carla"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550071/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PEOPLE/CARLA-FOGA%C3%A7A/100055303458085/?MIBEXTID=WWXI"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CARLAFOGACA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/people/CarlaFoga%25C3%25A7a/100055303458085/?mibextid=wwXIfr&rdid=7TT0PnI52"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002550071/2026/SP"
+  }
+}

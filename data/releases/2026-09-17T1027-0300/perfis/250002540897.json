@@ -1,0 +1,54 @@
+{
+  "id": "250002540897",
+  "name": "Rafael Silva Jr",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PSD",
+    "number": "55055",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002540897.jpg",
+    "alt": "Foto oficial de Rafael Silva Jr"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540897/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/RAFAELSILVAJROFICIAL/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@RAFAELSILVAJR.OFICIAL"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rafaelsilvajroficial"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/rafaelsilvajunior.rp/"
+      },
+      {
+        "label": "Site em rafaelsilvajr.com.br",
+        "url": "https://www.rafaelsilvajr.com.br/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002540897/2026/SP"
+  }
+}

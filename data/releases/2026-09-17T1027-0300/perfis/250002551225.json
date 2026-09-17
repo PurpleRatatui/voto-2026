@@ -1,0 +1,50 @@
+{
+  "id": "250002551225",
+  "name": "Fabio Mafaldo - Força do Povo",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "AVANTE",
+    "number": "70770",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002551225.jpg",
+    "alt": "Foto oficial de Fabio Mafaldo - Força do Povo"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551225/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@FABIO_MAFALDO?_R=1&_T=ZS-98PPGUWHPLA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/FABIOMAFALDOOFICIAL"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/FABIOMAFALDO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/PROFILE.PHP?ID=61572568106112"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002551225/2026/SP"
+  }
+}

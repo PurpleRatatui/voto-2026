@@ -1,0 +1,62 @@
+{
+  "id": "250002534214",
+  "name": "Adalberto Freitas",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "MDB",
+    "number": "15707",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002534214.jpg",
+    "alt": "Foto oficial de Adalberto Freitas"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534214/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1BIQEKSI8I/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@ADALBERTOFREITAS-OG1HF?SI=YG9AQMSPCYLNHX4X"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ADALBERTOFREITASOFICIAL?IGSH=MTKXAXVZNJDTEJJLZA%3D%3D&"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/189TKMAPNS/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Telegram",
+        "url": "https://t.me/ADALBERTO_FREITAS"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/adalberto_mdb?s=11&t=6Vaj8eHxZ19bpvjnBL8jNw"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@adalbertofreitas15707?_r=1&_t=ZS-98zYEkzGVtg"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002534214/2026/SP"
+  }
+}

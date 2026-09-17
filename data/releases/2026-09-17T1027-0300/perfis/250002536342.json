@@ -1,0 +1,50 @@
+{
+  "id": "250002536342",
+  "name": "Antonia de Jesus",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PL",
+    "number": "22456",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536342.jpg",
+    "alt": "Foto oficial de Antonia de Jesus"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536342/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ANTONIADEJESUSSP?IGSH=MTU4OTF4EXNZDDB4NQ%3D%3D&UTM_SOU"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/1JNNWMZWYK/?MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@ANTONIADEJESUSSP?_R=1&_T=ZS-96NT4QKTK96"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/ANTONIADEJESSP?S=21"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536342/2026/SP"
+  }
+}

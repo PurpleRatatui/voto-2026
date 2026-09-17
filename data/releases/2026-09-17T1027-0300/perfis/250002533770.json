@@ -1,0 +1,66 @@
+{
+  "id": "250002533770",
+  "name": "Chiquinha do Grajau",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11411",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533770.jpg",
+    "alt": "Foto oficial de Chiquinha do Grajau"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533770/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/AESTUDANTEDEPODOLOGIA?IGSH=YJNHNXPMZG9VCZBY"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CHIQUINHADOGRAJAU"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/1991SANTOS#"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LETICIACHIQUINHA?_R=1&_T=ZS-97OFJOSPWU9"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@CHIQUINHAALEGRE8593"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://instagram.com/AESTUDANTEDEPODOLOGIA"
+      },
+      {
+        "label": "LinkedIn",
+        "url": "https://www.linkedin.com/IN/LET%C3%8DCIA-SANTOS-B6080A326?UTM_SOURCE=SHARE_VIA&UTM_CO"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/CHIQUINHA.ALEGRE#"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533770/2026/SP"
+  }
+}

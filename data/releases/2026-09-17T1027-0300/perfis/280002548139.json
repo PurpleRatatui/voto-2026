@@ -1,0 +1,68 @@
+{
+  "id": "280002548139",
+  "name": "Veterinário Wilson Grassi",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "DEMOCRATA",
+    "number": "35",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "not-imported"
+  },
+  "proposals": [
+    {
+      "state": "document-found",
+      "title": "Proposta apresentada à Justiça Eleitoral",
+      "text": "Este documento foi apresentado à Justiça Eleitoral. A leitura e a classificação por temas ainda estão em revisão editorial.",
+      "sourceLabel": "Documento apresentado à Justiça Eleitoral (PDF)",
+      "sourceUrl": "data/releases/2026-09-17T1027-0300/propostas/280002548139/2026BR280002548139_01.pdf"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VETERINARIOWILSONGRASSIOFICIAL/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WWGRASSI/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/WILSONGRASSIGUARULHOS/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GATEIROSDESAOPAULO/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/CACHORREIROSDESAOPAULO/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/GATEIROSDABAHIA/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/WILSONGRASSIOFICIAL"
+      },
+      {
+        "label": "Site em veterinariowilsongrassi.com.br",
+        "url": "https://veterinariowilsongrassi.com.br/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/people/Juntos-Pelos-Animais-Brasil/61593832842222/"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002548139/2026/BR"
+  }
+}

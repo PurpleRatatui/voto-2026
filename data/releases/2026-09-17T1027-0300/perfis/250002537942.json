@@ -1,0 +1,58 @@
+{
+  "id": "250002537942",
+  "name": "Marcos Pereira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "1010",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002537942.jpg",
+    "alt": "Foto oficial de Marcos Pereira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537942/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em marcospereira.com",
+        "url": "https://marcospereira.com/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://web.facebook.com/marcospereira1010?locale=pt_BR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/marcospereira1010/"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/marcospereira04"
+      },
+      {
+        "label": "YouTube",
+        "url": "https://www.youtube.com/@MarcosPereira1010"
+      },
+      {
+        "label": "Site em issuu.com",
+        "url": "https://issuu.com/marcospereira.br"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002537942/2026/SP"
+  }
+}

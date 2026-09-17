@@ -1,0 +1,50 @@
+{
+  "id": "250002541884",
+  "name": "Johny Santos",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "REPUBLICANOS",
+    "number": "10500",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002541884.jpg",
+    "alt": "Foto oficial de Johny Santos"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541884/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/17MQPXHBNQ/?%20%20MIBEXTID=WWXIFR"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/JOHNYSANTOS.SP?%20%20IGSH=Z3F4ADEYADBUBJNS"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/JOHNYSANTOS_SP?%20S=11"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@JOHNYSANTOS_SP?_R=1&_T=ZS-981NPPB9BTI,"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002541884/2026/SP"
+  }
+}

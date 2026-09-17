@@ -1,0 +1,50 @@
+{
+  "id": "250002530169",
+  "name": "Teresinha Neves",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "NOVO",
+    "number": "3088",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002530169.jpg",
+    "alt": "Foto oficial de Teresinha Neves"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530169/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@TERESINHANEVESS?_R=1&_T=ZS-97XEMDSCQG2"
+      },
+      {
+        "label": "Site em teresinhaneves.com.br",
+        "url": "https://www.teresinhaneves.com.br/?M=1"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/SHARE/18CWP6AAQP/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TERESINHANEVES?IGSH=Z2TWDXU1ZMW4ZWH3"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002530169/2026/SP"
+  }
+}

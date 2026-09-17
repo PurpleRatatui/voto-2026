@@ -1,0 +1,58 @@
+{
+  "id": "250002533795",
+  "name": "Luciano Silva",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PP",
+    "number": "11234",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002533795.jpg",
+    "alt": "Foto oficial de Luciano Silva"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533795/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "YouTube",
+        "url": "https://youtube.com/@LUCIANOSILVA.VOTORANTIM"
+      },
+      {
+        "label": "Site em tr.ee",
+        "url": "https://tr.ee/OFWLH9LXT_"
+      },
+      {
+        "label": "Site em lucianosilvavotorantim.com.br",
+        "url": "https://www.lucianosilvavotorantim.com.br/"
+      },
+      {
+        "label": "Site em linktr.ee",
+        "url": "https://linktr.ee/LUCIANOSILVA.VOTORANTIM"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUCIANOSILVAVOTORANTIM"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@lucianosilvavotorantim"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002533795/2026/SP"
+  }
+}

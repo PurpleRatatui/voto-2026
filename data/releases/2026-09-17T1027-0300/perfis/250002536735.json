@@ -1,0 +1,54 @@
+{
+  "id": "250002536735",
+  "name": "Kerllyn Oliveira",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1315",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536735.jpg",
+    "alt": "Foto oficial de Kerllyn Oliveira"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536735/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Threads",
+        "url": "https://www.threads.com/@KERLLYNOLIVEIRA.OFICIAL?XMT=AQG0TL8WOATKS1R_0ULVPGAQKPQ"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/KERLLYNOLIVEIRA.OFICIAL/"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/NOVOSTALENTOS2022/?REF=NONE_XAV_IG_PROFILE_PAGE_WEB#"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@kerllynoliveirabrasil"
+      },
+      {
+        "label": "Kwai",
+        "url": "https://www.kwai.com/@kerllyn.oliveira"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536735/2026/SP"
+  }
+}

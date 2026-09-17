@@ -1,0 +1,54 @@
+{
+  "id": "250002536758",
+  "name": "Vicentinho",
+  "office": "deputado-federal",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PT",
+    "number": "1390",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002536758.jpg",
+    "alt": "Foto oficial de Vicentinho"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536758/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Site em vicentinho.com",
+        "url": "https://www.vicentinho.com/"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/VICENTINHO_PT/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@VICENTINHO_PT"
+      },
+      {
+        "label": "Facebook",
+        "url": "http://facebook.com/DEPUTADOFEDERALVICENTINHO"
+      },
+      {
+        "label": "X",
+        "url": "https://x.com/VICENTINHOPT"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002536758/2026/SP"
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "250002547993",
+  "name": "Luh de Oya",
+  "office": "deputado-estadual",
+  "uf": "SP",
+  "sourceCheckedAt": "2026-09-17T10:27:00-03:00",
+  "electionData": {
+    "party": "PDT",
+    "number": "12002",
+    "status": "DEFERIDO"
+  },
+  "photo": {
+    "state": "available",
+    "src": "data/releases/2026-09-17T1027-0300/fotos/250002547993.jpg",
+    "alt": "Foto oficial de Luh de Oya"
+  },
+  "proposals": [
+    {
+      "state": "not-indexed",
+      "title": "Propostas em revisão",
+      "text": "As propostas desta candidatura ainda não foram indexadas. Consulte a ficha oficial para verificar as informações disponíveis.",
+      "sourceLabel": "Ficha oficial da candidatura",
+      "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547993/2026/SP"
+    }
+  ],
+  "networks": {
+    "state": "available",
+    "items": [
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/LUHDEOYAPDT/"
+      },
+      {
+        "label": "TikTok",
+        "url": "https://www.tiktok.com/@LUHDEOYA7"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/ACASADESABA"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/LUUALVES7"
+      },
+      {
+        "label": "Facebook",
+        "url": "https://www.facebook.com/TERRADEOYA"
+      },
+      {
+        "label": "Instagram",
+        "url": "https://www.instagram.com/TERRADEOYA"
+      }
+    ]
+  },
+  "sources": {
+    "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/SP/SP/20322002026/250002547993/2026/SP"
+  }
+}
