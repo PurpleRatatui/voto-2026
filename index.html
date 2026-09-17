@@ -4,17 +4,18 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
     <meta name="theme-color" content="#173149">
-    <meta name="description" content="Explore registros e fontes eleitorais sem ranking ou recomendação de voto.">
+    <meta name="description" content="Entenda as seis escolhas das Eleições 2026 e explore candidaturas e fontes sem ranking ou recomendação de voto.">
     <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%231d6c65' d='M8 8h48v48H8z' rx='16'/%3E%3Cpath fill='white' d='m20 32 8 8 16-18' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
     <title>Voto 2026</title>
     <style>
       :root { --ink:#173149; --soft:#526b7d; --paper:#f4f7f8; --surface:#fff; --line:#d9e2e8; --quiet:#eaf1f4; --accent:#1d6c65; --accent-ink:#fff; --accent-quiet:#dff2ee; --warning:#9a500b; --warning-quiet:#fff0df; --focus:#b94900; --shadow:0 12px 36px rgba(23,49,73,.11); color-scheme:light; }
       @media (prefers-color-scheme: dark) { :root { --ink:#eaf1f5; --soft:#b8c7d1; --paper:#0f1b25; --surface:#162733; --line:#334956; --quiet:#203642; --accent:#60c1b5; --accent-ink:#092620; --accent-quiet:#173d38; --warning:#ffc282; --warning-quiet:#493218; --focus:#ffc078; --shadow:0 12px 36px rgba(0,0,0,.28); color-scheme:dark; } }
       * { box-sizing:border-box; }
-      html, body { min-width:320px; min-height:100%; margin:0; background:var(--paper); color:var(--ink); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; font-size:16px; line-height:1.5; }
+      html, body { min-width:0; min-height:100%; margin:0; background:var(--paper); color:var(--ink); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; font-size:16px; line-height:1.5; }
       button, select { font:inherit; }
       button, a, select { -webkit-tap-highlight-color:transparent; }
       button:focus-visible, a:focus-visible, select:focus-visible, summary:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }
+      .sr-only { position:absolute; width:1px; height:1px; padding:0; margin:-1px; overflow:hidden; clip:rect(0,0,0,0); white-space:nowrap; border:0; }
       .app { width:min(100%,480px); min-height:100dvh; margin:0 auto; background:var(--paper); }
       .topbar { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:max(16px,env(safe-area-inset-top)) 20px 14px; background:var(--surface); border-bottom:1px solid var(--line); }
       .brand { display:inline-flex; align-items:center; gap:9px; color:var(--ink); font-weight:760; letter-spacing:-.02em; text-decoration:none; }
@@ -42,18 +43,29 @@
       .field-label { display:block; margin:24px 0 8px; font-weight:730; }
       select { width:100%; min-height:52px; padding:0 14px; border:1px solid var(--line); border-radius:14px; background:var(--surface); color:var(--ink); }
       .field-help, .fine-print { margin:8px 0 0; color:var(--soft); font-size:14px; }
+      .ballot-summary { margin:22px 0 18px; padding:16px; border-radius:18px; background:var(--accent-quiet); }
+      .ballot-summary strong { display:block; margin-bottom:3px; color:var(--ink); font-size:17px; }
+      .ballot-summary p { margin:0; color:var(--soft); font-size:14px; }
+      .ballot-order { display:grid; gap:10px; margin:0; padding:0; list-style:none; }
+      .ballot-choice { display:grid; grid-template-columns:42px minmax(0,1fr); gap:12px; padding:14px; border:1px solid var(--line); border-radius:16px; background:var(--surface); }
+      .ballot-number { display:grid; width:38px; height:38px; place-items:center; border-radius:12px; background:var(--accent); color:var(--accent-ink); font-size:15px; font-weight:820; }
+      .ballot-choice h2 { margin:0 0 3px; font-size:17px; line-height:1.3; letter-spacing:0; }
+      .ballot-choice p { margin:0; color:var(--soft); font-size:14px; }
+      .ballot-date { margin:16px 0 0; color:var(--soft); font-size:14px; }
+      .ballot-source { color:var(--accent); font-weight:730; }
       .selection-status { min-height:24px; margin:12px 0 14px; color:var(--soft); font-size:14px; }
       .topic-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }
       .topic { min-height:56px; padding:10px 12px; border:1px solid var(--line); border-radius:14px; background:var(--surface); color:var(--ink); cursor:pointer; font-size:14px; font-weight:650; text-align:left; }
       .topic[aria-pressed="true"] { border-color:var(--accent); background:var(--accent-quiet); }
       .topic[aria-pressed="true"]::after { float:right; color:var(--accent); content:"✓"; font-weight:800; }
       .office-list { display:grid; gap:11px; margin-top:20px; }
-      .office { display:grid; grid-template-columns:1fr auto; gap:8px; width:100%; min-height:74px; padding:15px; border:1px solid var(--line); border-radius:16px; background:var(--surface); color:var(--ink); cursor:pointer; text-align:left; }
+      .office { display:grid; grid-template-columns:auto minmax(0,1fr) auto; gap:10px; width:100%; min-height:74px; padding:15px; border:1px solid var(--line); border-radius:16px; background:var(--surface); color:var(--ink); cursor:pointer; text-align:left; }
       .office:hover { border-color:var(--accent); }
       .office[disabled] { cursor:not-allowed; opacity:.68; }
       .office[disabled]:hover { border-color:var(--line); }
       .office strong { display:block; font-size:17px; }
       .office small { display:block; margin-top:2px; color:var(--soft); font-size:13px; }
+      .office-step { display:grid; width:auto; min-width:38px; min-height:38px; padding-inline:5px; place-items:center; align-self:center; border-radius:12px; background:var(--accent-quiet); color:var(--accent); font-size:13px; font-weight:820; white-space:nowrap; }
       .office-arrow { align-self:center; color:var(--accent); font-size:22px; }
       .context-bar { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:20px; }
       .context-button { min-height:44px; padding:7px 0; border:0; background:transparent; color:var(--accent); cursor:pointer; font-weight:730; text-align:left; }
@@ -135,8 +147,8 @@
       <main>
         <section class="view" id="view-welcome" aria-labelledby="welcome-title">
           <p class="eyebrow">Conheça antes de decidir</p>
-          <h1 id="welcome-title">Propostas antes dos dados eleitorais.</h1>
-          <p class="lead">Explore candidaturas no seu ritmo, sem ranking, match ou recomendação de voto.</p>
+          <h1 id="welcome-title">Entenda suas escolhas. Conheça as candidaturas.</h1>
+          <p class="lead">Em 2026, a urna terá seis escolhas. Explore candidaturas no seu ritmo, sem ranking, match ou recomendação de voto.</p>
           <div class="notice"><span class="notice-icon" aria-hidden="true">i</span><div id="data-notice"><strong>Carregando a base.</strong> Seus temas e salvos ficam somente neste aparelho.</div></div>
           <div class="button-row"><button class="button button--primary" id="start-button" type="button" disabled>Começar</button><button class="button button--secondary" id="how-it-works-button" type="button">Como funciona</button></div>
         </section>
@@ -151,10 +163,31 @@
             <option value="AC">Acre</option><option value="AL">Alagoas</option><option value="AP">Amapá</option><option value="AM">Amazonas</option><option value="BA">Bahia</option><option value="CE">Ceará</option><option value="DF">Distrito Federal</option><option value="ES">Espírito Santo</option><option value="GO">Goiás</option><option value="MA">Maranhão</option><option value="MT">Mato Grosso</option><option value="MS">Mato Grosso do Sul</option><option value="MG">Minas Gerais</option><option value="PA">Pará</option><option value="PB">Paraíba</option><option value="PR">Paraná</option><option value="PE">Pernambuco</option><option value="PI">Piauí</option><option value="RJ">Rio de Janeiro</option><option value="RN">Rio Grande do Norte</option><option value="RS">Rio Grande do Sul</option><option value="RO">Rondônia</option><option value="RR">Roraima</option><option value="SC">Santa Catarina</option><option value="SP">São Paulo</option><option value="SE">Sergipe</option><option value="TO">Tocantins</option>
           </select>
           <p class="field-help" id="state-help">A escolha fica neste navegador e não é ligada à sua identidade.</p>
-          <div class="button-row"><button class="button button--primary" id="state-next" type="button" disabled>Continuar</button></div>
+          <div class="button-row"><button class="button button--primary" id="state-next" type="button" disabled>Ver minhas seis escolhas</button></div>
+        </section>
+
+        <section class="view" id="view-ballot" hidden aria-labelledby="ballot-title">
+          <button class="context-button" id="ballot-back" type="button">← Alterar estado</button>
+          <p class="eyebrow">Seu voto em 2026</p>
+          <h1 id="ballot-title">Você fará seis escolhas.</h1>
+          <p class="lead">Você vota em: <strong id="ballot-state-name">seu estado</strong>. Esta é a ordem do 1º turno na urna.</p>
+          <div class="ballot-summary"><strong>Cinco tipos de cargo, seis escolhas</strong><p>Em 2026, você faz duas escolhas para o Senado.</p></div>
+          <ol class="ballot-order" role="list" aria-label="Ordem das escolhas na urna eletrônica">
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">1</span><div><span class="sr-only">Escolha 1 na urna: </span><h2>Deputado federal</h2><p>Representa a população, cria leis nacionais e fiscaliza o Governo Federal.</p></div></li>
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">2</span><div><span class="sr-only">Escolha 2 na urna: </span><h2 id="ballot-local-deputy-title">Deputado estadual</h2><p id="ballot-local-deputy-copy">Cria leis estaduais e fiscaliza o governo do seu estado.</p></div></li>
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">3</span><div><span class="sr-only">Escolha 3 na urna: </span><h2>Senador — primeira vaga</h2><p id="ballot-senate-first-copy">Primeiro voto para representar seu estado no Senado.</p></div></li>
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">4</span><div><span class="sr-only">Escolha 4 na urna: </span><h2>Senador — segunda vaga</h2><p id="ballot-senate-second-copy">Segundo voto para preencher a outra vaga do seu estado.</p></div></li>
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">5</span><div><span class="sr-only">Escolha 5 na urna: </span><h2>Governador e vice</h2><p id="ballot-governor-copy">Uma escolha para a chapa que conduzirá o governo estadual.</p></div></li>
+            <li class="ballot-choice"><span class="ballot-number" aria-hidden="true">6</span><div><span class="sr-only">Escolha 6 na urna: </span><h2>Presidente e vice</h2><p>Uma escolha para a chapa que conduzirá o Governo Federal.</p></div></li>
+          </ol>
+          <details><summary>Como esses cargos são eleitos?</summary><p class="fine-print">Deputados são escolhidos pelo sistema proporcional. Senadores, governadores e presidente são escolhidos pelo sistema majoritário. Para o Senado, os dois candidatos mais votados em cada estado e no Distrito Federal são eleitos.</p></details>
+          <p class="ballot-date"><strong>1º turno:</strong> 4 de outubro de 2026. Se necessário, haverá 2º turno apenas para governador e presidente em 25 de outubro.</p>
+          <p class="fine-print">Fonte: <a class="ballot-source" href="https://www.tse.jus.br/comunicacao/noticias/2026/Janeiro/confira-quais-cargos-estarao-em-disputa-nas-eleicoes-2026" target="_blank" rel="noopener noreferrer">confira os cargos em disputa no site do TSE</a>.</p>
+          <div class="button-row"><button class="button button--primary" id="ballot-next" type="button">Entendi, escolher meus temas</button></div>
         </section>
 
         <section class="view" id="view-priorities" hidden aria-labelledby="priorities-title">
+          <button class="context-button" id="priorities-back" type="button">← Rever as seis escolhas</button>
           <p class="eyebrow">Suas prioridades</p>
           <h1 id="priorities-title">O que você quer entender melhor?</h1>
           <p class="lead">Escolha até cinco temas para destacar conteúdo nos perfis. A ordem das candidaturas não muda.</p>
@@ -167,15 +200,15 @@
 
         <section class="view" id="view-offices" hidden aria-labelledby="offices-title">
           <p class="eyebrow">Escolha um cargo</p>
-          <h1 id="offices-title">Por onde você quer começar?</h1>
+          <h1 id="offices-title">Qual escolha você quer conhecer primeiro?</h1>
           <p class="lead" id="office-copy">Comece pela Presidência. As bases do seu estado entram assim que a importação oficial terminar.</p>
           <div class="office-list">
-            <button class="office" type="button" data-office="presidencia"><span><strong>Presidência</strong><small>Lote nacional disponível</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
-            <button class="office" type="button" data-office="governador" disabled><span><strong>Governo do estado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
-            <button class="office" type="button" data-office="senador" disabled><span><strong>Senado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
-            <button class="office" type="button" data-office="deputado-federal" disabled><span><strong>Câmara dos Deputados</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
-            <button class="office" type="button" data-office="deputado-estadual" disabled><span><strong>Assembleia Legislativa</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
-            <button class="office" type="button" data-office="deputado-distrital" hidden disabled><span><strong>Câmara Legislativa do DF</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-federal" disabled><span class="office-step" aria-hidden="true">1</span><span><span class="sr-only">Escolha 1 na urna: </span><strong>Deputado federal</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-estadual" disabled><span class="office-step" aria-hidden="true">2</span><span><span class="sr-only">Escolha 2 na urna: </span><strong>Deputado estadual</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-distrital" hidden disabled><span class="office-step" aria-hidden="true">2</span><span><span class="sr-only">Escolha 2 na urna: </span><strong>Deputado distrital</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="senador" disabled><span class="office-step" aria-hidden="true">3–4</span><span><span class="sr-only">Escolhas 3 e 4 na urna: </span><strong>Senador</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="governador" disabled><span class="office-step" aria-hidden="true">5</span><span><span class="sr-only">Escolha 5 na urna: </span><strong>Governador</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="presidencia"><span class="office-step" aria-hidden="true">6</span><span><span class="sr-only">Escolha 6 na urna: </span><strong>Presidente</strong><small>Lote nacional disponível</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
           </div>
         </section>
 
@@ -208,7 +241,7 @@
 
         <section class="view" id="view-saved" hidden aria-labelledby="saved-title"><p class="eyebrow">Sua lista</p><h1 id="saved-title">Salvos para revisar</h1><p class="lead">Revise fontes e, quando quiser, confira partido e número de urna.</p><div class="saved-list" id="saved-list"></div><div class="empty-state" id="saved-empty" hidden><h3>Nenhuma candidatura salva ainda</h3><p>Explore um cargo e guarde os perfis que quiser analisar depois.</p><button class="button button--primary" id="empty-explore" type="button">Explorar candidaturas</button></div><details id="skipped-details"><summary id="skipped-summary">Candidaturas puladas (0)</summary><div class="skipped-list" id="skipped-list"></div></details></section>
 
-        <section class="view" id="view-about" hidden aria-labelledby="about-title"><p class="eyebrow">Sobre este projeto</p><h1 id="about-title">Como os dados entram?</h1><div class="explain-list"><section class="explain-item"><h3>Sem ranking</h3><p>Os temas destacam conteúdo quando houver fonte revisada. Eles não calculam afinidade nem recomendam voto.</p></section><section class="explain-item"><h3>Dados no seu aparelho</h3><p>Salvos, pulados e prioridades ficam neste navegador. Não há login, anúncios ou rastreamento dessas escolhas.</p></section><section class="explain-item"><h3>Fonte e atualização</h3><p>A data de consulta aparece em cada perfil. O lote atual inclui Presidência e São Paulo com dados oficiais do TSE. <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2026" target="_blank" rel="noopener noreferrer">Ver base de candidaturas do TSE</a>.</p></section><section class="explain-item"><h3>Cobertura em etapas</h3><p>O site baixa só os dados do cargo e estado escolhidos. Fontes e temas entram após revisão humana.</p></section></div><div class="button-row"><button class="button button--secondary" id="clear-data" type="button">Apagar dados deste dispositivo</button><button class="button button--quiet button--danger" id="restart" type="button">Reiniciar</button></div></section>
+        <section class="view" id="view-about" hidden aria-labelledby="about-title"><p class="eyebrow">Sobre este projeto</p><h1 id="about-title">Como este site funciona?</h1><div class="explain-list"><section class="explain-item"><h3>Seis escolhas na urna</h3><p>No 1º turno, em 4 de outubro, a ordem será: deputado federal; deputado estadual ou distrital; dois senadores; governador e vice; presidente e vice. <a href="https://www.tse.jus.br/comunicacao/noticias/2026/Janeiro/confira-quais-cargos-estarao-em-disputa-nas-eleicoes-2026" target="_blank" rel="noopener noreferrer">Confira a explicação do TSE</a>.</p></section><section class="explain-item"><h3>Sem ranking</h3><p>Os temas destacam conteúdo quando houver fonte revisada. Eles não calculam afinidade nem recomendam voto.</p></section><section class="explain-item"><h3>Dados no seu aparelho</h3><p>Salvos, pulados e prioridades ficam neste navegador. Não há login, anúncios ou rastreamento dessas escolhas.</p></section><section class="explain-item"><h3>Fonte e atualização</h3><p>A data de consulta aparece em cada perfil. O lote atual inclui Presidência e São Paulo com dados oficiais do TSE. <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2026" target="_blank" rel="noopener noreferrer">Ver base de candidaturas do TSE</a>.</p></section><section class="explain-item"><h3>Cobertura em etapas</h3><p>O site baixa só os dados do cargo e estado escolhidos. Fontes e temas entram após revisão humana.</p></section></div><div class="button-row"><button class="button button--secondary" id="clear-data" type="button">Apagar dados deste dispositivo</button><button class="button button--quiet button--danger" id="restart" type="button">Reiniciar</button></div></section>
       </main>
       <nav class="bottom-nav" id="bottom-nav" aria-label="Navegação principal" hidden><div class="bottom-nav-inner"><button class="nav-button" type="button" data-nav="explore"><span aria-hidden="true">⌕</span><span>Explorar</span></button><button class="nav-button" type="button" data-nav="saved"><span aria-hidden="true">▱</span><span>Salvos</span></button><button class="nav-button" type="button" data-nav="about"><span aria-hidden="true">ⓘ</span><span>Entenda</span></button></div></nav>
     </div>
@@ -220,13 +253,14 @@
 
         const storageKey = 'voto2026-static-v1';
         const maxPriorities = 5;
+        const currentBallotGuideVersion = 1;
         const officeDefinitions = {
-          presidencia: { label:'Presidência', role:'Candidatura à Presidência', scope:'BR' },
-          governador: { label:'Governo do estado', role:'Candidatura ao Governo do estado' },
-          senador: { label:'Senado', role:'Candidatura ao Senado' },
-          'deputado-federal': { label:'Câmara dos Deputados', role:'Candidatura à Câmara dos Deputados' },
-          'deputado-estadual': { label:'Assembleia Legislativa', role:'Candidatura à Assembleia Legislativa' },
-          'deputado-distrital': { label:'Câmara Legislativa do DF', role:'Candidatura à Câmara Legislativa do DF' }
+          presidencia: { label:'Presidente', role:'Candidatura à Presidência', scope:'BR' },
+          governador: { label:'Governador', role:'Candidatura ao Governo do estado' },
+          senador: { label:'Senador', role:'Candidatura ao Senado' },
+          'deputado-federal': { label:'Deputado federal', role:'Candidatura à Câmara dos Deputados' },
+          'deputado-estadual': { label:'Deputado estadual', role:'Candidatura à Assembleia Legislativa' },
+          'deputado-distrital': { label:'Deputado distrital', role:'Candidatura à Câmara Legislativa do DF' }
         };
         const fallbackRecords = [
           ['280002552484','Clariana Barao','CB','DC','27','Concorrendo','https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380'],
@@ -239,7 +273,7 @@
           proposals:[document ? {state:'document-found',title:'Proposta de governo',text:'Uma proposta apresentada à Justiça Eleitoral foi localizada. A leitura e a classificação por temas ainda estão em revisão editorial.',sourceLabel:'Proposta apresentada à Justiça Eleitoral',sourceUrl:document} : {state:'not-indexed',title:'Proposta de governo',text:'Ainda não há proposta indexada nesta ficha. Isso não permite concluir a posição da candidatura sobre qualquer tema.',sourceLabel:'Ficha pública da candidatura no TSE'}],
           networks:{state:'importing',items:[]}, sources:{candidateRecord:`https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/${id}/2026/BR`}
         }]));
-        const defaultState = { uf:'', priorities:[], office:'', cards:[], index:0, saved:[], savedCards:{}, skipped:[], activeId:'', lastView:'welcome' };
+        const defaultState = { uf:'', priorities:[], office:'', cards:[], index:0, saved:[], savedCards:{}, skipped:[], activeId:'', lastView:'welcome', ballotGuideVersion:0, ballotReturnView:'priorities' };
         let appState = loadState();
         let manifest = null;
         let profiles = new Map();
@@ -260,7 +294,7 @@
         function shuffle(items) { const copy = [...items]; for (let i = copy.length - 1; i > 0; i -= 1) { const j = Math.floor(Math.random() * (i + 1)); [copy[i],copy[j]] = [copy[j],copy[i]]; } return copy; }
         function cardById(id) { return appState.cards.find((card) => card.id === id) || appState.savedCards[id] || fallbackCards.find((card) => card.id === id) || null; }
         function currentCard() { return appState.cards[appState.index] || null; }
-        function officeDefinition(office=appState.office) { return officeDefinitions[office] || {label:'Cargo',role:'Candidatura'}; }
+        function officeDefinition(office=appState.office) { const definition = officeDefinitions[office] || {label:'Cargo',role:'Candidatura'}; return office === 'governador' && appState.uf === 'DF' ? {...definition,role:'Candidatura ao Governo do Distrito Federal'} : definition; }
         function roleLabel(office=appState.office) { return officeDefinition(office).role; }
         function stateLabel() { return stateSelect.options[stateSelect.selectedIndex]?.text || 'Brasil'; }
         function scopeForOffice(office) { return officeDefinition(office).scope || appState.uf; }
@@ -268,11 +302,11 @@
         function collectionAvailable(collection) { return Boolean(collection?.cards && collection.status !== 'importing' && collection.status !== 'unavailable'); }
         function safeExternalUrl(value) { try { const url = new URL(value,window.location.href); return ['http:','https:'].includes(url.protocol) && !url.username && !url.password ? url.href : ''; } catch { return ''; } }
         function candidateSourceLine() { return manifest?.generatedAt ? `Registro público do TSE consultado em ${formatCheckedAt(manifest.generatedAt)}` : `Registro público do TSE consultado em ${checkedAt}`; }
-        function showView(name, {focus=true} = {}) { views.forEach((view) => { view.hidden = view.id !== `view-${name}`; }); appState.lastView = name; nav.hidden = ['welcome','state','priorities','offices'].includes(name) || !appState.office; document.querySelectorAll('.nav-button').forEach((button) => { const active = button.dataset.nav === name || (name === 'profile' && button.dataset.nav === 'explore'); button.toggleAttribute('aria-current', active); if (active) button.setAttribute('aria-current','page'); }); persist(); if (focus) { const heading = document.querySelector(`#view-${name} h1,#view-${name} h2`); if (heading) { heading.setAttribute('tabindex','-1'); heading.focus({preventScroll:true}); heading.removeAttribute('tabindex'); } } window.scrollTo({top:0,behavior:'auto'}); }
+        function showView(name, {focus=true} = {}) { views.forEach((view) => { view.hidden = view.id !== `view-${name}`; }); appState.lastView = name; nav.hidden = ['welcome','state','ballot','priorities','offices'].includes(name) || !appState.office; document.querySelectorAll('.nav-button').forEach((button) => { const active = button.dataset.nav === name || (name === 'profile' && button.dataset.nav === 'explore'); button.toggleAttribute('aria-current', active); if (active) button.setAttribute('aria-current','page'); }); persist(); if (focus) { const heading = document.querySelector(`#view-${name} h1,#view-${name} h2`); if (heading) { heading.setAttribute('tabindex','-1'); heading.focus({preventScroll:true}); heading.removeAttribute('tabindex'); } } window.scrollTo({top:0,behavior:'auto'}); }
         function renderOfficeAvailability() {
           const selectedState = stateLabel();
           const readyStateOffices = officeButtons.filter((button) => button.dataset.office !== 'presidencia' && collectionAvailable(collectionFor(button.dataset.office))).length;
-          document.getElementById('office-copy').textContent = readyStateOffices ? `${selectedState} tem ${readyStateOffices} cargos estaduais com base oficial disponível neste lote.` : `Você selecionou ${selectedState}. A Presidência é nacional; os cargos do estado entram após a importação oficial.`;
+          document.getElementById('office-copy').textContent = readyStateOffices ? `${selectedState}: dados oficiais disponíveis para ${readyStateOffices} cargos, além da Presidência.` : `Você selecionou ${selectedState}. A Presidência é nacional; os demais cargos entram após a importação oficial.`;
           officeButtons.forEach((button) => {
             const office = button.dataset.office;
             const districtOnly = office === 'deputado-distrital';
@@ -285,8 +319,18 @@
             button.disabled = !available;
             button.querySelector('strong').textContent = definition.label;
             const count = Number(collection?.count || 0);
-            button.querySelector('small').textContent = available ? `${count} ${count === 1 ? 'registro oficial' : 'registros oficiais'}` : 'Base oficial em importação';
+            const senateHint = office === 'senador' ? ' · 2 escolhas na urna' : '';
+            button.querySelector('small').textContent = available ? `${count} ${count === 1 ? 'registro oficial' : 'registros oficiais'}${senateHint}` : `Base oficial em importação${senateHint}`;
           });
+        }
+        function renderBallotGuide() {
+          document.getElementById('ballot-state-name').textContent = stateLabel();
+          const district = appState.uf === 'DF';
+          document.getElementById('ballot-local-deputy-title').textContent = district ? 'Deputado distrital' : 'Deputado estadual';
+          document.getElementById('ballot-local-deputy-copy').textContent = district ? 'Cria leis distritais e fiscaliza o Governo do Distrito Federal.' : 'Cria leis estaduais e fiscaliza o governo do seu estado.';
+          document.getElementById('ballot-senate-first-copy').textContent = district ? 'Primeiro voto para representar o Distrito Federal no Senado.' : 'Primeiro voto para representar seu estado no Senado.';
+          document.getElementById('ballot-senate-second-copy').textContent = district ? 'Segundo voto para preencher a outra vaga do Distrito Federal.' : 'Segundo voto para preencher a outra vaga do seu estado.';
+          document.getElementById('ballot-governor-copy').textContent = district ? 'Uma escolha para a chapa que conduzirá o Governo do Distrito Federal.' : 'Uma escolha para a chapa que conduzirá o governo estadual.';
         }
         function renderPriorities() { priorityButtons.forEach((button) => button.setAttribute('aria-pressed',String(appState.priorities.includes(button.dataset.topic)))); const count = appState.priorities.length; document.getElementById('priority-status').textContent = count ? `${count} de ${maxPriorities} temas selecionados` : 'Nenhum tema selecionado'; }
         function renderAvatar(card) { const avatar = document.getElementById('candidate-avatar'); const image = document.getElementById('candidate-photo'); document.getElementById('candidate-initials').textContent = card.initials; avatar.classList.remove('has-photo'); image.removeAttribute('src'); const photo = card.photo?.src; if (photo) { image.onload = () => avatar.classList.add('has-photo'); image.onerror = () => avatar.classList.remove('has-photo'); image.src = photo; } }
@@ -314,6 +358,7 @@
           stateSelect.value = appState.uf;
           stateNext.disabled = !appState.uf;
           renderPriorities();
+          if (appState.uf) renderBallotGuide();
           renderOfficeAvailability();
         }
         async function cardsForOffice(office) {
@@ -417,12 +462,32 @@
         }
         function rememberCard(card) { if (!card) return; appState.savedCards[card.id] = {...card}; }
         function toggleSave(id) { const saved=appState.saved.includes(id); if (saved) { appState.saved=appState.saved.filter((candidateId)=>candidateId!==id); delete appState.savedCards[id]; } else { appState.saved=[...appState.saved,id]; rememberCard(cardById(id)); } persist(); return !saved; }
+        async function continueAfterBallotGuide() {
+          const target = appState.ballotReturnView || 'priorities';
+          appState.ballotGuideVersion=currentBallotGuideVersion;
+          appState.ballotReturnView='priorities';
+          persist();
+          if (['explore','profile'].includes(target) && appState.office) {
+            const ready = await initializeOffice(appState.office,{reset:false,show:false});
+            if (!ready) { appState.office=''; renderOfficeAvailability(); showView('offices'); return; }
+            if (target === 'profile' && appState.activeId) openProfile(appState.activeId);
+            else { renderExplore(); showView('explore'); }
+            return;
+          }
+          if (target === 'saved') { renderSaved(); showView('saved'); return; }
+          if (target === 'offices' && appState.uf) { renderOfficeAvailability(); showView('offices'); return; }
+          if (target === 'about') { showView('about'); return; }
+          showView('priorities');
+        }
 
         document.getElementById('start-button').addEventListener('click',() => showView('state'));
         document.getElementById('how-it-works-button').addEventListener('click',() => showView('about'));
         document.getElementById('brand-home').addEventListener('click',(event) => { event.preventDefault(); showView('welcome'); });
-        stateSelect.addEventListener('change',() => { const nextUf=stateSelect.value; if (appState.uf && appState.uf !== nextUf) { appState.office=''; appState.cards=[]; appState.index=0; appState.skipped=[]; appState.activeId=''; } appState.uf=nextUf; stateNext.disabled=!appState.uf; renderOfficeAvailability(); persist(); });
-        stateNext.addEventListener('click',() => { renderOfficeAvailability(); showView('priorities'); });
+        stateSelect.addEventListener('change',() => { const nextUf=stateSelect.value; if (appState.uf !== nextUf) { appState.ballotGuideVersion=0; appState.ballotReturnView='priorities'; } if (appState.uf && appState.uf !== nextUf) { appState.office=''; appState.cards=[]; appState.index=0; appState.skipped=[]; appState.activeId=''; } appState.uf=nextUf; stateNext.disabled=!appState.uf; if (appState.uf) renderBallotGuide(); renderOfficeAvailability(); persist(); });
+        stateNext.addEventListener('click',() => { appState.ballotReturnView='priorities'; renderBallotGuide(); renderOfficeAvailability(); showView('ballot'); });
+        document.getElementById('ballot-back').addEventListener('click',() => showView('state'));
+        document.getElementById('ballot-next').addEventListener('click',continueAfterBallotGuide);
+        document.getElementById('priorities-back').addEventListener('click',() => { appState.ballotReturnView='priorities'; renderBallotGuide(); showView('ballot'); });
         priorityButtons.forEach((button) => button.addEventListener('click',() => { const topic=button.dataset.topic; const selected=appState.priorities.includes(topic); if (!selected && appState.priorities.length >= maxPriorities) { document.getElementById('priority-status').textContent=`Você pode escolher no máximo ${maxPriorities} temas.`; return; } appState.priorities=selected ? appState.priorities.filter((item)=>item!==topic) : [...appState.priorities,topic]; persist(); renderPriorities(); }));
         document.getElementById('priorities-next').addEventListener('click',() => { renderOfficeAvailability(); showView('offices'); });
         officeButtons.forEach((button)=>button.addEventListener('click',() => initializeOffice(button.dataset.office)));
@@ -444,7 +509,9 @@
         document.addEventListener('keydown',(event) => { if (event.key==='Escape' && !sourceModal.hidden) sourceModal.hidden=true; });
 
         loadCatalog().then(async () => {
-          const safeView=['welcome','state','priorities','offices','explore','profile','saved','about'].includes(appState.lastView) ? appState.lastView : 'welcome';
+          const safeView=['welcome','state','ballot','priorities','offices','explore','profile','saved','about'].includes(appState.lastView) ? appState.lastView : 'welcome';
+          const needsBallotGuide = Boolean(appState.uf) && Number(appState.ballotGuideVersion || 0) < currentBallotGuideVersion && !['welcome','state','ballot'].includes(safeView);
+          if (needsBallotGuide) { appState.ballotReturnView=safeView; renderBallotGuide(); showView('ballot',{focus:false}); return; }
           if (['explore','profile'].includes(safeView) && appState.office) {
             const ready = await initializeOffice(appState.office,{reset:false,show:false});
             if (!ready) { appState.office=''; showView('welcome',{focus:false}); }
@@ -453,6 +520,8 @@
           } else if (safeView==='saved') { renderSaved(); showView('saved',{focus:false}); }
           else if (safeView==='offices' && appState.uf) { renderOfficeAvailability(); showView('offices',{focus:false}); }
           else if (safeView==='offices') showView('state',{focus:false});
+          else if (safeView==='ballot' && appState.uf) { renderBallotGuide(); showView('ballot',{focus:false}); }
+          else if (safeView==='ballot') showView('state',{focus:false});
           else showView(safeView,{focus:false});
         });
       })();

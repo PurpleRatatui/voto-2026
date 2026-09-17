@@ -10,6 +10,7 @@ Esta pasta é publicada inteira pelo GitHub Pages. O arquivo de entrada é `inde
 - Os perfis trazem somente endereços de redes declarados ao TSE que passaram por validação conservadora de URL.
 - Os planos de governo oficiais de Presidência e Governo de São Paulo ficam disponíveis em PDF quando constam no pacote do TSE.
 - Partido, número e situação não aparecem na descoberta; são mostrados apenas quando a pessoa pede para ver os dados eleitorais no perfil.
+- Antes dos temas e das candidaturas, o site explica as seis escolhas do primeiro turno na ordem da urna.
 - Prioridades, salvos e pulados ficam somente no navegador da pessoa.
 
 Propostas e redes sociais só devem ser publicadas quando houver uma fonte oficial verificável. A ausência de conteúdo indexado nunca deve ser tratada como ausência de proposta ou posição política.
@@ -61,5 +62,6 @@ Assim, ninguém recebe cartões de uma versão e perfis de outra. Como os regist
 
 ## Fontes
 
+- [Cargos em disputa nas Eleições 2026 — TSE](https://www.tse.jus.br/comunicacao/noticias/2026/Janeiro/confira-quais-cargos-estarao-em-disputa-nas-eleicoes-2026)
 - [Candidatos 2026 — Dados Abertos do TSE](https://dadosabertos.tse.jus.br/dataset/candidatos-2026)
 - [DivulgaCandContas](https://divulgacandcontas.tse.jus.br/divulga/)
