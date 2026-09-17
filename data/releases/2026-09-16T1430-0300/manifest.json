@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "electionYear": 2026,
+  "releaseId": "2026-09-16T1430-0300",
+  "generatedAt": "2026-09-16T14:30:00-03:00",
+  "source": {
+    "name": "TSE — Dados Abertos e DivulgaCandContas",
+    "datasetUrl": "https://dadosabertos.tse.jus.br/dataset/candidatos-2026",
+    "candidateSource": "CAND, Candex e DivulgaCand"
+  },
+  "coverage": {
+    "BR": {
+      "presidencia": {
+        "label": "Presidência",
+        "cards": "data/releases/2026-09-16T1430-0300/BR/presidencia.cards.json",
+        "count": 14,
+        "status": "available"
+      }
+    }
+  },
+  "plannedCoverage": {
+    "ufs": 27,
+    "offices": ["governador", "senador", "deputado-federal", "deputado-estadual", "deputado-distrital"],
+    "status": "importing"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "id": "280002552484",
+  "name": "Clariana Barao",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-16T14:30:00-03:00",
+  "electionData": { "party": "DC", "number": "27", "status": "Concorrendo" },
+  "photo": { "state": "pending-local-copy", "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002552484/BR" },
+  "proposals": [{ "state": "document-found", "title": "Proposta de governo", "text": "Uma proposta apresentada à Justiça Eleitoral foi localizada. A leitura e a classificação por temas ainda estão em revisão editorial.", "sourceLabel": "Proposta apresentada à Justiça Eleitoral", "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380" }],
+  "networks": { "state": "importing", "items": [] },
+  "sources": { "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002552484/2026/BR" }
+}

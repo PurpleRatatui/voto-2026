@@ -1,0 +1,299 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+    <meta name="theme-color" content="#173149">
+    <meta name="description" content="Explore registros e fontes eleitorais sem ranking ou recomendação de voto.">
+    <link rel="icon" type="image/svg+xml" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Cpath fill='%231d6c65' d='M8 8h48v48H8z' rx='16'/%3E%3Cpath fill='white' d='m20 32 8 8 16-18' stroke='white' stroke-width='6' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E">
+    <title>Voto 2026</title>
+    <style>
+      :root { --ink:#173149; --soft:#526b7d; --paper:#f4f7f8; --surface:#fff; --line:#d9e2e8; --quiet:#eaf1f4; --accent:#1d6c65; --accent-ink:#fff; --accent-quiet:#dff2ee; --warning:#9a500b; --warning-quiet:#fff0df; --focus:#b94900; --shadow:0 12px 36px rgba(23,49,73,.11); color-scheme:light; }
+      @media (prefers-color-scheme: dark) { :root { --ink:#eaf1f5; --soft:#b8c7d1; --paper:#0f1b25; --surface:#162733; --line:#334956; --quiet:#203642; --accent:#60c1b5; --accent-ink:#092620; --accent-quiet:#173d38; --warning:#ffc282; --warning-quiet:#493218; --focus:#ffc078; --shadow:0 12px 36px rgba(0,0,0,.28); color-scheme:dark; } }
+      * { box-sizing:border-box; }
+      html, body { min-width:320px; min-height:100%; margin:0; background:var(--paper); color:var(--ink); font-family:Inter,ui-sans-serif,system-ui,-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif; font-size:16px; line-height:1.5; }
+      button, select { font:inherit; }
+      button, a, select { -webkit-tap-highlight-color:transparent; }
+      button:focus-visible, a:focus-visible, select:focus-visible, summary:focus-visible { outline:3px solid var(--focus); outline-offset:3px; }
+      .app { width:min(100%,480px); min-height:100dvh; margin:0 auto; background:var(--paper); }
+      .topbar { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:max(16px,env(safe-area-inset-top)) 20px 14px; background:var(--surface); border-bottom:1px solid var(--line); }
+      .brand { display:inline-flex; align-items:center; gap:9px; color:var(--ink); font-weight:760; letter-spacing:-.02em; text-decoration:none; }
+      .brand-mark { display:grid; width:30px; height:30px; place-items:center; border-radius:10px; background:var(--accent); color:var(--accent-ink); font-size:15px; }
+      .badge { display:inline-flex; min-height:30px; align-items:center; padding:4px 9px; border-radius:999px; background:var(--warning-quiet); color:var(--warning); font-size:12px; font-weight:750; text-align:center; }
+      main { padding:22px 20px 110px; }
+      .view[hidden], [hidden] { display:none !important; }
+      .eyebrow { margin:0 0 7px; color:var(--accent); font-size:13px; font-weight:760; letter-spacing:.03em; text-transform:uppercase; }
+      h1,h2,h3,h4,p { margin-top:0; }
+      h1 { max-width:16ch; margin-bottom:14px; font-size:clamp(32px,9vw,42px); line-height:1.05; letter-spacing:-.055em; }
+      h2 { margin-bottom:8px; font-size:26px; line-height:1.15; letter-spacing:-.035em; }
+      h3 { margin-bottom:6px; font-size:17px; line-height:1.3; }
+      h4 { margin:0; font-size:15px; }
+      .lead { max-width:35ch; color:var(--soft); font-size:18px; }
+      .notice { display:grid; grid-template-columns:22px 1fr; gap:10px; margin:22px 0; padding:14px; border:1px solid var(--line); border-radius:16px; background:var(--surface); color:var(--soft); font-size:14px; }
+      .notice strong { color:var(--ink); }
+      .notice-icon { display:grid; width:22px; height:22px; place-items:center; border-radius:50%; background:var(--accent-quiet); color:var(--accent); font-size:14px; font-weight:800; }
+      .button-row { display:grid; gap:10px; margin-top:24px; }
+      .button { display:inline-flex; min-height:50px; align-items:center; justify-content:center; gap:8px; padding:12px 16px; border:1px solid transparent; border-radius:14px; background:var(--surface); color:var(--ink); cursor:pointer; font-weight:730; text-align:center; text-decoration:none; }
+      .button--primary { background:var(--accent); color:var(--accent-ink); }
+      .button--secondary { border-color:var(--line); }
+      .button--quiet { background:transparent; color:var(--accent); }
+      .button--danger { color:#a53228; }
+      .button[disabled] { cursor:not-allowed; opacity:.48; }
+      .field-label { display:block; margin:24px 0 8px; font-weight:730; }
+      select { width:100%; min-height:52px; padding:0 14px; border:1px solid var(--line); border-radius:14px; background:var(--surface); color:var(--ink); }
+      .field-help, .fine-print { margin:8px 0 0; color:var(--soft); font-size:14px; }
+      .selection-status { min-height:24px; margin:12px 0 14px; color:var(--soft); font-size:14px; }
+      .topic-grid { display:grid; grid-template-columns:repeat(2,minmax(0,1fr)); gap:10px; }
+      .topic { min-height:56px; padding:10px 12px; border:1px solid var(--line); border-radius:14px; background:var(--surface); color:var(--ink); cursor:pointer; font-size:14px; font-weight:650; text-align:left; }
+      .topic[aria-pressed="true"] { border-color:var(--accent); background:var(--accent-quiet); }
+      .topic[aria-pressed="true"]::after { float:right; color:var(--accent); content:"✓"; font-weight:800; }
+      .office-list { display:grid; gap:11px; margin-top:20px; }
+      .office { display:grid; grid-template-columns:1fr auto; gap:8px; width:100%; min-height:74px; padding:15px; border:1px solid var(--line); border-radius:16px; background:var(--surface); color:var(--ink); cursor:pointer; text-align:left; }
+      .office:hover { border-color:var(--accent); }
+      .office[disabled] { cursor:not-allowed; opacity:.68; }
+      .office[disabled]:hover { border-color:var(--line); }
+      .office strong { display:block; font-size:17px; }
+      .office small { display:block; margin-top:2px; color:var(--soft); font-size:13px; }
+      .office-arrow { align-self:center; color:var(--accent); font-size:22px; }
+      .context-bar { display:flex; align-items:center; justify-content:space-between; gap:12px; margin-bottom:20px; }
+      .context-button { min-height:44px; padding:7px 0; border:0; background:transparent; color:var(--accent); cursor:pointer; font-weight:730; text-align:left; }
+      .context-state { color:var(--soft); font-size:14px; }
+      .progress-line { margin:18px 0 8px; }
+      .progress-copy { display:flex; justify-content:space-between; gap:12px; color:var(--soft); font-size:13px; }
+      .progress-track { height:7px; margin-top:7px; overflow:hidden; border-radius:999px; background:var(--line); }
+      .progress-value { width:0; height:100%; border-radius:inherit; background:var(--accent); transition:width .2s ease; }
+      .profile-card { margin-top:18px; padding:18px; border:1px solid var(--line); border-radius:22px; background:var(--surface); box-shadow:var(--shadow); }
+      .profile-top { display:flex; align-items:center; gap:14px; }
+      .avatar { display:grid; width:66px; height:66px; flex:0 0 66px; place-items:center; overflow:hidden; border-radius:50%; background:var(--accent-quiet); color:var(--accent); font-size:20px; font-weight:800; }
+      .avatar img { display:none; width:100%; height:100%; object-fit:cover; }
+      .avatar.has-photo img { display:block; }
+      .avatar.has-photo span { display:none; }
+      .candidate-name { margin:0; font-size:23px; }
+      .candidate-role { margin:3px 0 0; color:var(--soft); font-size:14px; }
+      .divider { height:1px; margin:18px 0; background:var(--line); }
+      .caption { margin:0 0 9px; color:var(--soft); font-size:13px; }
+      .tag-list { display:flex; flex-wrap:wrap; gap:7px; margin-bottom:16px; }
+      .tag { padding:6px 9px; border-radius:999px; background:var(--quiet); color:var(--ink); font-size:13px; font-weight:650; }
+      .candidate-summary { margin:0; font-size:15px; }
+      .source-line { display:flex; align-items:flex-start; gap:7px; margin:15px 0 0; color:var(--soft); font-size:13px; }
+      .source-dot { flex:0 0 auto; color:var(--accent); font-weight:900; }
+      .action-grid { display:grid; grid-template-columns:minmax(0,.9fr) minmax(0,1.2fr); gap:10px; margin-top:14px; }
+      .action-grid .button { min-height:52px; padding-inline:10px; font-size:14px; }
+      .live-message { min-height:25px; margin:12px 0 0; color:var(--accent); font-size:14px; font-weight:650; }
+      .inline-button { margin-left:8px; padding:0; border:0; border-bottom:1px solid currentColor; background:transparent; color:inherit; cursor:pointer; font:inherit; font-weight:800; }
+      .empty-state { margin-top:30px; padding:22px 16px; border:1px dashed var(--line); border-radius:18px; background:var(--surface); text-align:center; }
+      .empty-state p { color:var(--soft); }
+      .detail-header { margin-bottom:22px; }
+      .proposal { padding:16px 0; border-top:1px solid var(--line); }
+      .proposal p { margin-bottom:10px; color:var(--soft); font-size:15px; }
+      .source-button { padding:0; border:0; border-bottom:1px solid currentColor; background:transparent; color:var(--accent); cursor:pointer; font-size:14px; font-weight:730; }
+      .election-data { margin-top:22px; padding:16px; border-radius:18px; background:var(--accent-quiet); }
+      .election-data h3 { margin-bottom:2px; }
+      .election-data p { margin-bottom:14px; color:var(--soft); font-size:14px; }
+      .data-list { display:grid; gap:10px; margin:0; }
+      .data-list div { display:grid; gap:2px; }
+      .data-list dt { color:var(--soft); font-size:13px; }
+      .data-list dd { margin:0; color:var(--ink); font-size:18px; font-weight:800; }
+      .candidate-links { display:grid; gap:10px; margin-top:18px; padding-top:16px; border-top:1px solid var(--line); }
+      .candidate-links p { margin:0; color:var(--soft); font-size:14px; }
+      .candidate-link-list { display:grid; gap:8px; }
+      .candidate-link { color:var(--accent); font-size:14px; font-weight:730; }
+      .saved-list { display:grid; gap:11px; margin-top:18px; }
+      .saved-item { padding:15px; border:1px solid var(--line); border-radius:16px; background:var(--surface); }
+      .saved-item-top { display:flex; align-items:center; gap:11px; }
+      .saved-item .avatar { width:42px; height:42px; flex-basis:42px; font-size:14px; }
+      .saved-item h3 { margin:0; }
+      .saved-item p { margin:2px 0 0; color:var(--soft); font-size:14px; }
+      .saved-item .button { width:100%; min-height:44px; margin-top:13px; font-size:14px; }
+      details { margin-top:20px; border-top:1px solid var(--line); }
+      summary { min-height:48px; padding:14px 0; cursor:pointer; color:var(--accent); font-weight:730; }
+      .skipped-list { display:grid; gap:8px; padding-bottom:12px; }
+      .skipped-row { display:flex; align-items:center; justify-content:space-between; gap:12px; padding:10px 0; border-top:1px solid var(--line); }
+      .text-button { min-height:40px; padding:7px 0; border:0; background:transparent; color:var(--accent); cursor:pointer; font:inherit; font-weight:730; }
+      .explain-list { display:grid; gap:14px; margin:22px 0 0; }
+      .explain-item { padding:15px; border:1px solid var(--line); border-radius:16px; background:var(--surface); }
+      .explain-item p { margin:0; color:var(--soft); font-size:14px; }
+      .bottom-nav { position:fixed; right:0; bottom:0; left:0; z-index:2; pointer-events:none; }
+      .bottom-nav-inner { display:grid; grid-template-columns:repeat(3,1fr); width:min(100%,480px); margin:0 auto; padding:9px 10px max(9px,env(safe-area-inset-bottom)); border:1px solid var(--line); border-bottom:0; border-radius:18px 18px 0 0; background:var(--surface); box-shadow:0 -8px 30px rgba(23,49,73,.08); pointer-events:auto; }
+      .nav-button { display:grid; min-height:48px; place-items:center; gap:2px; border:0; border-radius:12px; background:transparent; color:var(--soft); cursor:pointer; font-size:12px; font-weight:700; }
+      .nav-button[aria-current="page"] { background:var(--accent-quiet); color:var(--accent); }
+      .modal-backdrop { position:fixed; inset:0; z-index:5; display:grid; place-items:end center; padding:20px; background:rgba(14,32,45,.46); }
+      .modal { width:min(100%,440px); padding:22px; border-radius:22px; background:var(--surface); box-shadow:var(--shadow); }
+      .modal h2 { margin-bottom:10px; }
+      .modal p:not(.eyebrow) { color:var(--soft); }
+      .modal-actions { display:grid; gap:10px; margin-top:20px; }
+      @media (min-width:560px) { .bottom-nav { bottom:16px; } .bottom-nav-inner { border-radius:18px; border-bottom:1px solid var(--line); } }
+      @media (prefers-reduced-motion:reduce) { *,*::before,*::after { scroll-behavior:auto !important; transition-duration:.01ms !important; animation-duration:.01ms !important; } }
+    </style>
+  </head>
+  <body>
+    <div class="app">
+      <header class="topbar">
+        <a class="brand" href="#inicio" id="brand-home" aria-label="Voltar ao início"><span class="brand-mark" aria-hidden="true">✓</span><span>Voto 2026</span></a>
+        <span class="badge" id="release-badge">Carregando dados</span>
+      </header>
+      <main>
+        <section class="view" id="view-welcome" aria-labelledby="welcome-title">
+          <p class="eyebrow">Conheça antes de decidir</p>
+          <h1 id="welcome-title">Propostas antes dos dados eleitorais.</h1>
+          <p class="lead">Explore candidaturas no seu ritmo, sem ranking, match ou recomendação de voto.</p>
+          <div class="notice"><span class="notice-icon" aria-hidden="true">i</span><div id="data-notice"><strong>Carregando a base.</strong> Seus temas e salvos ficam somente neste aparelho.</div></div>
+          <div class="button-row"><button class="button button--primary" id="start-button" type="button" disabled>Começar</button><button class="button button--secondary" id="how-it-works-button" type="button">Como funciona</button></div>
+        </section>
+
+        <section class="view" id="view-state" hidden aria-labelledby="state-title">
+          <p class="eyebrow">Primeiro passo</p>
+          <h1 id="state-title">Em qual estado você vota?</h1>
+          <p class="lead">Basta escolher o estado. Não pedimos endereço, município ou CPF.</p>
+          <label class="field-label" for="state-select">Seu estado</label>
+          <select id="state-select" aria-describedby="state-help">
+            <option value="">Selecione um estado</option>
+            <option value="AC">Acre</option><option value="AL">Alagoas</option><option value="AP">Amapá</option><option value="AM">Amazonas</option><option value="BA">Bahia</option><option value="CE">Ceará</option><option value="DF">Distrito Federal</option><option value="ES">Espírito Santo</option><option value="GO">Goiás</option><option value="MA">Maranhão</option><option value="MT">Mato Grosso</option><option value="MS">Mato Grosso do Sul</option><option value="MG">Minas Gerais</option><option value="PA">Pará</option><option value="PB">Paraíba</option><option value="PR">Paraná</option><option value="PE">Pernambuco</option><option value="PI">Piauí</option><option value="RJ">Rio de Janeiro</option><option value="RN">Rio Grande do Norte</option><option value="RS">Rio Grande do Sul</option><option value="RO">Rondônia</option><option value="RR">Roraima</option><option value="SC">Santa Catarina</option><option value="SP">São Paulo</option><option value="SE">Sergipe</option><option value="TO">Tocantins</option>
+          </select>
+          <p class="field-help" id="state-help">A escolha fica neste navegador e não é ligada à sua identidade.</p>
+          <div class="button-row"><button class="button button--primary" id="state-next" type="button" disabled>Continuar</button></div>
+        </section>
+
+        <section class="view" id="view-priorities" hidden aria-labelledby="priorities-title">
+          <p class="eyebrow">Suas prioridades</p>
+          <h1 id="priorities-title">O que você quer entender melhor?</h1>
+          <p class="lead">Escolha até cinco temas para destacar conteúdo nos perfis. A ordem das candidaturas não muda.</p>
+          <p class="selection-status" id="priority-status" aria-live="polite">Nenhum tema selecionado</p>
+          <div class="topic-grid" aria-label="Temas prioritários">
+            <button class="topic" type="button" aria-pressed="false" data-topic="Saúde">Saúde</button><button class="topic" type="button" aria-pressed="false" data-topic="Educação">Educação</button><button class="topic" type="button" aria-pressed="false" data-topic="Segurança">Segurança</button><button class="topic" type="button" aria-pressed="false" data-topic="Emprego e renda">Emprego e renda</button><button class="topic" type="button" aria-pressed="false" data-topic="Custo de vida">Custo de vida</button><button class="topic" type="button" aria-pressed="false" data-topic="Meio ambiente">Meio ambiente</button><button class="topic" type="button" aria-pressed="false" data-topic="Moradia">Moradia</button><button class="topic" type="button" aria-pressed="false" data-topic="Transporte">Transporte</button><button class="topic" type="button" aria-pressed="false" data-topic="Transparência">Transparência</button><button class="topic" type="button" aria-pressed="false" data-topic="Tecnologia">Tecnologia</button>
+          </div>
+          <div class="button-row"><button class="button button--primary" id="priorities-next" type="button">Continuar</button></div>
+        </section>
+
+        <section class="view" id="view-offices" hidden aria-labelledby="offices-title">
+          <p class="eyebrow">Escolha um cargo</p>
+          <h1 id="offices-title">Por onde você quer começar?</h1>
+          <p class="lead" id="office-copy">Comece pela Presidência. As bases do seu estado entram assim que a importação oficial terminar.</p>
+          <div class="office-list">
+            <button class="office" type="button" data-office="presidencia"><span><strong>Presidência</strong><small id="presidencia-count">Lote nacional disponível</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="governador" disabled><span><strong>Governo do estado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="senador" disabled><span><strong>Senado</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-federal" disabled><span><strong>Câmara dos Deputados</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+            <button class="office" type="button" data-office="deputado-estadual" disabled><span><strong>Assembleia Legislativa</strong><small>Base oficial em importação</small></span><span class="office-arrow" aria-hidden="true">→</span></button>
+          </div>
+        </section>
+
+        <section class="view" id="view-explore" hidden aria-labelledby="explore-title">
+          <div class="context-bar"><button class="context-button" id="change-office" type="button">← Trocar cargo</button><span class="context-state" id="selected-state-label"></span></div>
+          <p class="eyebrow" id="explore-office-label">Presidência</p>
+          <h2 id="explore-title">Candidaturas</h2>
+          <div class="progress-line"><div class="progress-copy"><span id="progress-text">1 de 1 vistos</span><span>ordem aleatória</span></div><div class="progress-track" role="progressbar" aria-label="Candidaturas exploradas" aria-valuemin="0" aria-valuemax="1" aria-valuenow="0"><div class="progress-value" id="progress-value"></div></div></div>
+          <article class="profile-card" id="profile-card" aria-labelledby="candidate-name">
+            <div class="profile-top"><div class="avatar" id="candidate-avatar" aria-hidden="true"><img id="candidate-photo" alt="" referrerpolicy="no-referrer"><span id="candidate-initials">VC</span></div><div><h3 class="candidate-name" id="candidate-name">Candidatura</h3><p class="candidate-role" id="candidate-role">Candidatura</p></div></div>
+            <div class="divider"></div><p class="caption">Cobertura neste perfil</p><div class="tag-list" id="candidate-tags"></div><p class="candidate-summary" id="candidate-summary"></p><p class="source-line"><span class="source-dot" aria-hidden="true">●</span><span id="candidate-source-line">Fonte e data de consulta no perfil</span></p><button class="button button--secondary" id="open-profile" type="button" style="width:100%;margin-top:16px">Ver propostas e fontes</button>
+          </article>
+          <div class="action-grid" id="explore-actions"><button class="button button--secondary" id="skip-candidate" type="button">Pular por enquanto</button><button class="button button--primary" id="save-candidate" type="button">Salvar para revisar</button></div>
+          <div class="live-message" id="explore-message" aria-live="polite" aria-atomic="true"></div>
+          <div class="empty-state" id="explore-finished" hidden><h3>Você chegou ao fim deste lote</h3><p>Revise os salvos, recupere candidaturas puladas ou reinicie este lote.</p><div class="button-row"><button class="button button--primary" id="finished-saved" type="button">Ver salvos</button><button class="button button--secondary" id="restart-explore" type="button">Recomeçar lote</button></div></div>
+        </section>
+
+        <section class="view" id="view-profile" hidden aria-labelledby="profile-title">
+          <button class="context-button" id="back-to-explore" type="button">← Voltar à descoberta</button>
+          <div class="detail-header"><p class="eyebrow">Perfil de candidatura</p><h2 id="profile-title">Candidatura</h2><p class="candidate-role" id="profile-role">Candidatura</p></div>
+          <div id="profile-loading" class="notice" hidden><span class="notice-icon" aria-hidden="true">i</span><div>Carregando fontes da candidatura.</div></div>
+          <div id="proposals"></div>
+          <section class="election-data" id="election-data" hidden aria-labelledby="election-data-title">
+            <h3 id="election-data-title">Dados eleitorais</h3><p>Informações do registro público do TSE. Elas podem mudar; veja a data da consulta.</p>
+            <dl class="data-list"><div><dt>Partido</dt><dd id="candidate-party"></dd></div><div><dt>Número de urna</dt><dd id="candidate-number"></dd></div><div><dt>Situação na consulta</dt><dd id="candidate-status"></dd></div><div><dt>Consulta</dt><dd id="candidate-checked-at"></dd></div></dl>
+            <section class="candidate-links" aria-labelledby="candidate-links-title"><h4 id="candidate-links-title">Canais e ficha da candidatura</h4><p id="candidate-links-copy">Links externos aparecem só nesta etapa e podem conter outros dados eleitorais.</p><div class="candidate-link-list" id="candidate-link-list"></div></section>
+          </section>
+          <div class="button-row"><button class="button button--secondary" id="show-election-data" type="button">Ver partido e número</button><button class="button button--primary" id="save-from-profile" type="button">Salvar para revisar</button></div>
+        </section>
+
+        <section class="view" id="view-saved" hidden aria-labelledby="saved-title"><p class="eyebrow">Sua lista</p><h1 id="saved-title">Salvos para revisar</h1><p class="lead">Revise fontes e, quando quiser, confira partido e número de urna.</p><div class="saved-list" id="saved-list"></div><div class="empty-state" id="saved-empty" hidden><h3>Nenhuma candidatura salva ainda</h3><p>Explore um cargo e guarde os perfis que quiser analisar depois.</p><button class="button button--primary" id="empty-explore" type="button">Explorar candidaturas</button></div><details id="skipped-details"><summary id="skipped-summary">Candidaturas puladas (0)</summary><div class="skipped-list" id="skipped-list"></div></details></section>
+
+        <section class="view" id="view-about" hidden aria-labelledby="about-title"><p class="eyebrow">Sobre este projeto</p><h1 id="about-title">Como os dados entram?</h1><div class="explain-list"><section class="explain-item"><h3>Sem ranking</h3><p>Os temas destacam conteúdo quando houver fonte revisada. Eles não calculam afinidade nem recomendam voto.</p></section><section class="explain-item"><h3>Dados no seu aparelho</h3><p>Salvos, pulados e prioridades ficam neste navegador. Não há login, anúncios ou rastreamento dessas escolhas.</p></section><section class="explain-item"><h3>Fonte e atualização</h3><p>O lote inicial foi consultado no TSE em 16 de setembro de 2026, às 14h30. <a href="https://dadosabertos.tse.jus.br/dataset/candidatos-2026" target="_blank" rel="noopener noreferrer">Ver base de candidaturas do TSE</a>.</p></section><section class="explain-item"><h3>Cobertura em etapas</h3><p>O site baixa só os dados do cargo e estado escolhidos. Fontes e temas entram após revisão humana.</p></section></div><div class="button-row"><button class="button button--secondary" id="clear-data" type="button">Apagar dados deste dispositivo</button><button class="button button--quiet button--danger" id="restart" type="button">Reiniciar</button></div></section>
+      </main>
+      <nav class="bottom-nav" id="bottom-nav" aria-label="Navegação principal" hidden><div class="bottom-nav-inner"><button class="nav-button" type="button" data-nav="explore"><span aria-hidden="true">⌕</span><span>Explorar</span></button><button class="nav-button" type="button" data-nav="saved"><span aria-hidden="true">▱</span><span>Salvos</span></button><button class="nav-button" type="button" data-nav="about"><span aria-hidden="true">ⓘ</span><span>Entenda</span></button></div></nav>
+    </div>
+    <div class="modal-backdrop" id="source-modal" hidden role="dialog" aria-modal="true" aria-labelledby="source-modal-title"><div class="modal"><p class="eyebrow">Fonte oficial</p><h2 id="source-modal-title">Fonte</h2><p id="source-modal-copy">A fonte original abre em outra aba.</p><div class="modal-actions"><a class="button button--secondary" id="source-modal-link" href="#" target="_blank" rel="noopener noreferrer">Abrir fonte original</a><button class="button button--primary" id="close-modal" type="button">Voltar ao perfil</button></div></div></div>
+
+    <script>
+      (() => {
+        'use strict';
+
+        const storageKey = 'voto2026-static-v1';
+        const maxPriorities = 5;
+        const fallbackRecords = [
+          ['280002552484','Clariana Barao','CB','DC','27','Concorrendo','https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/doc/280017113380'],
+          ['280002551975','Edmilson Costa','EC','PCB','21','Concorrendo',''], ['280002551547','Escritor Augusto Cury','EC','AVANTE','70','Concorrendo',''], ['280002551544','Flavio Bolsonaro','FB','PL','22','Concorrendo',''], ['280002541457','Hertz Dias','HD','PSTU','16','Concorrendo',''], ['280002554479','Leonardo Avalanche','LA','PRTB','28','Concorrendo',''], ['280002542548','Lula','LU','PT','13','Concorrendo',''], ['280002553884','Pablo Marçal','PM','PRTB','28','Inapto',''], ['280002540694','Renan Santos','RS','MISSÃO','14','Concorrendo',''], ['280002551932','Ronaldo Caiado','RC','PSD','55','Concorrendo',''], ['280002552487','Rui Costa Pimenta','RP','PCO','29','Concorrendo',''], ['280002538811','Samara','SA','UP','80','Concorrendo',''], ['280002548139','Veterinário Wilson Grassi','VG','DEMOCRATA','35','Concorrendo',''], ['280002539826','Zema','ZE','NOVO','30','Concorrendo','']
+        ];
+        const checkedAt = '16 de setembro de 2026, 14h30 (BRT)';
+        const fallbackCards = fallbackRecords.map(([id,name,initials]) => ({ id, name, initials, profile:`data/releases/2026-09-16T1430-0300/perfis/${id}.json`, summary:'Ficha pública disponível no TSE. A classificação por temas está em revisão editorial.', tags:['Fontes em revisão'] }));
+        const fallbackProfiles = Object.fromEntries(fallbackRecords.map(([id,name,initials,party,number,status,document]) => [id, {
+          id, name, office:'presidencia', sourceCheckedAt:'2026-09-16T14:30:00-03:00', electionData:{party,number,status}, photo:{state:'pending-local-copy'},
+          proposals:[document ? {state:'document-found',title:'Proposta de governo',text:'Uma proposta apresentada à Justiça Eleitoral foi localizada. A leitura e a classificação por temas ainda estão em revisão editorial.',sourceLabel:'Proposta apresentada à Justiça Eleitoral',sourceUrl:document} : {state:'not-indexed',title:'Proposta de governo',text:'Ainda não há proposta indexada nesta ficha. Isso não permite concluir a posição da candidatura sobre qualquer tema.',sourceLabel:'Ficha pública da candidatura no TSE'}],
+          networks:{state:'importing',items:[]}, sources:{candidateRecord:`https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/${id}/2026/BR`}
+        }]));
+        const defaultState = { uf:'', priorities:[], office:'', cards:[], index:0, saved:[], skipped:[], activeId:'', lastView:'welcome' };
+        let appState = loadState();
+        let manifest = null;
+        let profiles = new Map();
+        let usingFallback = false;
+        const views = [...document.querySelectorAll('.view')];
+        const nav = document.getElementById('bottom-nav');
+        const stateSelect = document.getElementById('state-select');
+        const stateNext = document.getElementById('state-next');
+        const priorityButtons = [...document.querySelectorAll('.topic')];
+        const sourceModal = document.getElementById('source-modal');
+
+        function loadState() { try { const stored = JSON.parse(localStorage.getItem(storageKey)); return stored && typeof stored === 'object' ? {...defaultState,...stored,cards:[]} : {...defaultState}; } catch { return {...defaultState}; } }
+        function persist() { try { const {cards,...smallState} = appState; localStorage.setItem(storageKey, JSON.stringify(smallState)); } catch {} }
+        function clearStoredData() { try { localStorage.removeItem(storageKey); } catch {} appState = {...defaultState}; }
+        function formatCheckedAt(iso) { if (!iso) return checkedAt; const date = new Date(iso); return Number.isNaN(date.getTime()) ? checkedAt : new Intl.DateTimeFormat('pt-BR',{dateStyle:'long',timeStyle:'short',timeZone:'America/Sao_Paulo'}).format(date).replace(',', ' às'); }
+        function shuffle(items) { const copy = [...items]; for (let i = copy.length - 1; i > 0; i -= 1) { const j = Math.floor(Math.random() * (i + 1)); [copy[i],copy[j]] = [copy[j],copy[i]]; } return copy; }
+        function cardById(id) { return appState.cards.find((card) => card.id === id) || fallbackCards.find((card) => card.id === id) || null; }
+        function currentCard() { return appState.cards[appState.index] || null; }
+        function roleLabel() { return appState.office === 'presidencia' ? 'Candidatura à Presidência' : 'Candidatura'; }
+        function candidateSourceLine() { return manifest?.generatedAt ? `Registro público do TSE consultado em ${formatCheckedAt(manifest.generatedAt)}` : `Registro público do TSE consultado em ${checkedAt}`; }
+        function showView(name, {focus=true} = {}) { views.forEach((view) => { view.hidden = view.id !== `view-${name}`; }); appState.lastView = name; nav.hidden = ['welcome','state','priorities','offices'].includes(name) || !appState.office; document.querySelectorAll('.nav-button').forEach((button) => { const active = button.dataset.nav === name || (name === 'profile' && button.dataset.nav === 'explore'); button.toggleAttribute('aria-current', active); if (active) button.setAttribute('aria-current','page'); }); persist(); if (focus) { const heading = document.querySelector(`#view-${name} h1,#view-${name} h2`); if (heading) { heading.setAttribute('tabindex','-1'); heading.focus({preventScroll:true}); heading.removeAttribute('tabindex'); } } window.scrollTo({top:0,behavior:'auto'}); }
+        function renderPriorities() { priorityButtons.forEach((button) => button.setAttribute('aria-pressed',String(appState.priorities.includes(button.dataset.topic)))); const count = appState.priorities.length; document.getElementById('priority-status').textContent = count ? `${count} de ${maxPriorities} temas selecionados` : 'Nenhum tema selecionado'; }
+        function renderAvatar(card) { const avatar = document.getElementById('candidate-avatar'); const image = document.getElementById('candidate-photo'); document.getElementById('candidate-initials').textContent = card.initials; avatar.classList.remove('has-photo'); image.removeAttribute('src'); const photo = card.photo?.src; if (photo) { image.onload = () => avatar.classList.add('has-photo'); image.onerror = () => avatar.classList.remove('has-photo'); image.src = photo; } }
+        function renderExplore() { const card = currentCard(); const total = appState.cards.length; const finished = !card; const seen = Math.min(appState.index + 1,total); document.getElementById('selected-state-label').textContent = stateSelect.options[stateSelect.selectedIndex]?.text || 'Brasil'; document.getElementById('explore-office-label').textContent = 'Presidência'; document.getElementById('explore-title').textContent = 'Candidaturas à Presidência'; document.getElementById('progress-text').textContent = total ? (finished ? `${total} de ${total} vistos` : `${seen} de ${total} vistos`) : 'Nenhuma candidatura carregada'; document.getElementById('progress-value').style.width = `${total ? Math.round((Math.min(appState.index + 1,total) / total) * 100) : 0}%`; document.querySelector('.progress-track').setAttribute('aria-valuemax',String(total)); document.querySelector('.progress-track').setAttribute('aria-valuenow',String(seen)); document.getElementById('profile-card').hidden = finished; document.getElementById('explore-actions').hidden = finished; document.getElementById('explore-finished').hidden = !finished; if (!card) return; renderAvatar(card); document.getElementById('candidate-name').textContent = card.name; document.getElementById('candidate-role').textContent = roleLabel(); document.getElementById('candidate-summary').textContent = card.summary; document.getElementById('candidate-source-line').textContent = candidateSourceLine(); const tags = document.getElementById('candidate-tags'); tags.replaceChildren(...(card.tags?.length ? card.tags : ['Fontes em revisão']).map((tag) => { const node = document.createElement('span'); node.className='tag'; node.textContent=tag; return node; })); }
+        function setMessage(message, undo) { const target = document.getElementById('explore-message'); target.replaceChildren(document.createTextNode(message)); if (undo) { const button = document.createElement('button'); button.type='button'; button.className='inline-button'; button.textContent='Desfazer'; button.addEventListener('click',undo); target.append(' ',button); } }
+        async function fetchJson(path, cache='force-cache') { const response = await fetch(new URL(path,window.location.href),{cache}); if (!response.ok) throw new Error(`Não foi possível carregar ${path}`); return response.json(); }
+        async function loadCatalog() { try { const current = await fetchJson('data/current.json','no-store'); if (!current.manifest) throw new Error('Release não encontrada'); manifest = await fetchJson(current.manifest); const collection = manifest.coverage?.BR?.presidencia; if (!collection?.cards) throw new Error('Catálogo não encontrado'); const cardData = await fetchJson(collection.cards); appState.cards = shuffle(cardData.cards || []); usingFallback = false; document.getElementById('release-badge').textContent = 'Dados oficiais'; document.getElementById('data-notice').innerHTML = '<strong>Primeiro lote com dados oficiais.</strong> A Presidência usa registros públicos do TSE; os outros cargos entram após importação e revisão das fontes.'; document.getElementById('presidencia-count').textContent = `${appState.cards.length} registros oficiais • lote inicial`; } catch (error) { manifest = {generatedAt:'2026-09-16T14:30:00-03:00'}; appState.cards = shuffle(fallbackCards); usingFallback = true; document.getElementById('release-badge').textContent = 'Cópia local'; document.getElementById('data-notice').innerHTML = '<strong>Cópia local do lote oficial.</strong> Para receber atualizações, publique a pasta inteira do site em uma hospedagem estática.'; document.getElementById('presidencia-count').textContent = '14 registros oficiais • cópia local'; } document.getElementById('start-button').disabled = appState.cards.length === 0; stateSelect.value = appState.uf; stateNext.disabled = !appState.uf; renderPriorities(); }
+        async function profileFor(card) { if (profiles.has(card.id)) return profiles.get(card.id); try { const profile = await fetchJson(card.profile); profiles.set(card.id,profile); return profile; } catch { const profile = fallbackProfiles[card.id]; if (!profile) throw new Error('Perfil indisponível'); profiles.set(card.id,profile); return profile; } }
+        function sourceModalFor(item) { document.getElementById('source-modal-title').textContent = item.sourceLabel || 'Fonte'; document.getElementById('source-modal-copy').textContent = `Fonte original. Ela pode conter outros dados eleitorais da candidatura. Consulta da ficha: ${formatCheckedAt(activeProfile?.sourceCheckedAt)}.`; const link = document.getElementById('source-modal-link'); link.href = item.sourceUrl || activeProfile?.sources?.candidateRecord || '#'; link.hidden = !item.sourceUrl && !activeProfile?.sources?.candidateRecord; sourceModal.hidden = false; document.getElementById('close-modal').focus(); }
+        let activeProfile = null;
+        function renderProfile(profile) { activeProfile = profile; document.getElementById('profile-title').textContent = profile.name; document.getElementById('profile-role').textContent = roleLabel(); const proposals = document.getElementById('proposals'); proposals.replaceChildren(...(profile.proposals || []).map((proposal) => { const section = document.createElement('section'); section.className='proposal'; const title = document.createElement('h3'); title.textContent=proposal.title; const text = document.createElement('p'); text.textContent=proposal.text; const source = document.createElement('button'); source.type='button'; source.className='source-button'; source.textContent=`Fonte: ${proposal.sourceLabel}`; source.addEventListener('click',() => sourceModalFor(proposal)); section.append(title,text,source); return section; })); document.getElementById('candidate-party').textContent = profile.electionData.party; document.getElementById('candidate-number').textContent = profile.electionData.number; document.getElementById('candidate-status').textContent = profile.electionData.status; document.getElementById('candidate-checked-at').textContent = formatCheckedAt(profile.sourceCheckedAt); const links = document.getElementById('candidate-link-list'); links.replaceChildren(); const tse = document.createElement('a'); tse.className='candidate-link'; tse.href=profile.sources.candidateRecord; tse.target='_blank'; tse.rel='noopener noreferrer'; tse.textContent='Conferir ficha oficial no TSE'; links.append(tse); const networks = profile.networks || {state:'importing',items:[]}; const copy = document.getElementById('candidate-links-copy'); if (networks.items?.length) { copy.textContent='Endereços informados à Justiça Eleitoral. Eles abrem fora deste site, sem prévia ou rastreamento de clique.'; networks.items.forEach((network) => { const link = document.createElement('a'); link.className='candidate-link'; link.href=network.url; link.target='_blank'; link.rel='noopener noreferrer'; link.textContent=`Abrir ${network.label} (canal informado no registro)`; links.append(link); }); } else { copy.textContent='Os canais informados no registro ainda estão sendo importados da base oficial. Não buscamos perfis por nome ou popularidade.'; } document.getElementById('election-data').hidden = true; document.getElementById('show-election-data').hidden = false; const saved = appState.saved.includes(profile.id); document.getElementById('save-from-profile').textContent = saved ? 'Remover dos salvos' : 'Salvar para revisar'; }
+        async function openProfile(id) { const card = cardById(id); if (!card) return; appState.activeId=id; document.getElementById('profile-loading').hidden = false; document.getElementById('proposals').replaceChildren(); showView('profile'); try { const profile = await profileFor(card); document.getElementById('profile-loading').hidden = true; renderProfile(profile); } catch { document.getElementById('profile-loading').hidden = true; document.getElementById('proposals').replaceChildren(Object.assign(document.createElement('p'),{textContent:'Não foi possível carregar este perfil agora. Tente novamente.'})); } }
+        function renderSaved() { const list = document.getElementById('saved-list'); const empty = document.getElementById('saved-empty'); list.replaceChildren(); empty.hidden = appState.saved.length > 0; appState.saved.forEach((id) => { const card=cardById(id); if (!card) return; const item=document.createElement('article'); item.className='saved-item'; const top=document.createElement('div'); top.className='saved-item-top'; const avatar=document.createElement('div'); avatar.className='avatar'; avatar.setAttribute('aria-hidden','true'); avatar.textContent=card.initials; const copy=document.createElement('div'); const name=document.createElement('h3'); name.textContent=card.name; const role=document.createElement('p'); role.textContent=roleLabel(); copy.append(name,role); top.append(avatar,copy); const review=document.createElement('button'); review.className='button button--secondary'; review.type='button'; review.textContent='Rever perfil e dados eleitorais'; review.addEventListener('click',() => openProfile(card.id)); item.append(top,review); list.append(item); }); const skipped=document.getElementById('skipped-list'); skipped.replaceChildren(); document.getElementById('skipped-summary').textContent=`Candidaturas puladas (${appState.skipped.length})`; document.getElementById('skipped-details').hidden=appState.skipped.length===0; appState.skipped.forEach((id) => { const card=cardById(id); if (!card) return; const row=document.createElement('div'); row.className='skipped-row'; const name=document.createElement('span'); name.textContent=card.name; const restore=document.createElement('button'); restore.className='text-button'; restore.type='button'; restore.textContent='Recuperar'; restore.addEventListener('click',() => { appState.skipped=appState.skipped.filter((candidateId)=>candidateId!==id); if (!appState.cards.some((candidate)=>candidate.id===id)) appState.cards.push(card); appState.index=Math.max(0,appState.cards.findIndex((candidate)=>candidate.id===id)); persist(); renderSaved(); renderExplore(); showView('explore'); }); row.append(name,restore); skipped.append(row); }); }
+        function initializeOffice(office) { if (office !== 'presidencia') return; appState.office=office; appState.cards=shuffle(appState.cards.length ? appState.cards : fallbackCards); appState.index=0; appState.saved=[]; appState.skipped=[]; appState.activeId=''; persist(); renderExplore(); showView('explore'); }
+        function toggleSave(id) { const saved=appState.saved.includes(id); appState.saved=saved ? appState.saved.filter((candidateId)=>candidateId!==id) : [...appState.saved,id]; persist(); return !saved; }
+
+        document.getElementById('start-button').addEventListener('click',() => showView('state'));
+        document.getElementById('how-it-works-button').addEventListener('click',() => showView('about'));
+        document.getElementById('brand-home').addEventListener('click',(event) => { event.preventDefault(); showView('welcome'); });
+        stateSelect.addEventListener('change',() => { appState.uf=stateSelect.value; stateNext.disabled=!appState.uf; persist(); });
+        stateNext.addEventListener('click',() => { document.getElementById('office-copy').textContent=`Você selecionou ${stateSelect.options[stateSelect.selectedIndex].text}. A Presidência é nacional; os cargos do estado entram após a importação oficial.`; showView('priorities'); });
+        priorityButtons.forEach((button) => button.addEventListener('click',() => { const topic=button.dataset.topic; const selected=appState.priorities.includes(topic); if (!selected && appState.priorities.length >= maxPriorities) { document.getElementById('priority-status').textContent=`Você pode escolher no máximo ${maxPriorities} temas.`; return; } appState.priorities=selected ? appState.priorities.filter((item)=>item!==topic) : [...appState.priorities,topic]; persist(); renderPriorities(); }));
+        document.getElementById('priorities-next').addEventListener('click',() => showView('offices'));
+        document.querySelectorAll('.office').forEach((button)=>button.addEventListener('click',() => initializeOffice(button.dataset.office)));
+        document.getElementById('change-office').addEventListener('click',() => showView('offices'));
+        document.getElementById('open-profile').addEventListener('click',() => { const card=currentCard(); if (card) openProfile(card.id); });
+        document.getElementById('skip-candidate').addEventListener('click',() => { const card=currentCard(); if (!card) return; const oldIndex=appState.index; const oldSkipped=[...appState.skipped]; appState.skipped=[...appState.skipped,card.id]; appState.index+=1; persist(); renderExplore(); setMessage('Candidatura pulada por enquanto.',() => { appState.index=oldIndex; appState.skipped=oldSkipped; persist(); renderExplore(); setMessage('Ação desfeita.'); }); });
+        document.getElementById('save-candidate').addEventListener('click',() => { const card=currentCard(); if (!card) return; const oldIndex=appState.index; const oldSaved=[...appState.saved]; if (!appState.saved.includes(card.id)) appState.saved=[...appState.saved,card.id]; appState.index+=1; persist(); renderExplore(); setMessage('Candidatura salva para revisar.',() => { appState.index=oldIndex; appState.saved=oldSaved; persist(); renderExplore(); setMessage('Ação desfeita.'); }); renderSaved(); });
+        document.getElementById('save-from-profile').addEventListener('click',() => { const saved=toggleSave(appState.activeId); document.getElementById('save-from-profile').textContent=saved ? 'Remover dos salvos' : 'Salvar para revisar'; renderSaved(); });
+        document.getElementById('show-election-data').addEventListener('click',() => { document.getElementById('election-data').hidden=false; document.getElementById('show-election-data').hidden=true; document.getElementById('election-data').scrollIntoView({behavior:'smooth',block:'nearest'}); });
+        document.getElementById('back-to-explore').addEventListener('click',() => { renderExplore(); showView('explore'); });
+        document.getElementById('finished-saved').addEventListener('click',() => { renderSaved(); showView('saved'); });
+        document.getElementById('restart-explore').addEventListener('click',() => { appState.cards=shuffle(appState.cards); appState.index=0; appState.skipped=[]; persist(); renderExplore(); setMessage('Novo lote iniciado.'); });
+        document.getElementById('empty-explore').addEventListener('click',() => { renderExplore(); showView('explore'); });
+        document.querySelectorAll('.nav-button').forEach((button)=>button.addEventListener('click',() => { const target=button.dataset.nav; if (target==='explore') { if (appState.office) { renderExplore(); showView('explore'); } else showView('offices'); } if (target==='saved') { renderSaved(); showView('saved'); } if (target==='about') showView('about'); }));
+        document.getElementById('clear-data').addEventListener('click',() => { clearStoredData(); stateSelect.value=''; stateNext.disabled=true; renderPriorities(); showView('welcome'); });
+        document.getElementById('restart').addEventListener('click',() => { clearStoredData(); stateSelect.value=''; stateNext.disabled=true; renderPriorities(); showView('state'); });
+        document.getElementById('close-modal').addEventListener('click',() => { sourceModal.hidden=true; document.querySelector('.source-button')?.focus(); });
+        sourceModal.addEventListener('click',(event) => { if (event.target === sourceModal) sourceModal.hidden=true; });
+        document.addEventListener('keydown',(event) => { if (event.key==='Escape' && !sourceModal.hidden) sourceModal.hidden=true; });
+
+        loadCatalog().then(() => { const safeView=['welcome','state','priorities','offices','explore','profile','saved','about'].includes(appState.lastView) ? appState.lastView : 'welcome'; if (safeView==='explore' && !appState.office) showView('welcome',{focus:false}); else if (safeView==='profile' && appState.activeId) openProfile(appState.activeId); else if (safeView==='saved') { renderSaved(); showView('saved',{focus:false}); } else showView(safeView,{focus:false}); });
+      })();
+    </script>
+  </body>
+</html>

@@ -1,0 +1,12 @@
+{
+  "id": "280002553884",
+  "name": "Pablo Marçal",
+  "office": "presidencia",
+  "uf": "BR",
+  "sourceCheckedAt": "2026-09-16T14:30:00-03:00",
+  "electionData": { "party": "PRTB", "number": "28", "status": "Inapto" },
+  "photo": { "state": "pending-local-copy", "sourceUrl": "https://divulgacandcontas.tse.jus.br/divulga/rest/arquivo/img/20322002026/280002553884/BR" },
+  "proposals": [{ "state": "not-indexed", "title": "Proposta de governo", "text": "Ainda não há proposta indexada nesta ficha. Isso não permite concluir a posição da candidatura sobre qualquer tema.", "sourceLabel": "Ficha pública da candidatura no TSE" }],
+  "networks": { "state": "importing", "items": [] },
+  "sources": { "candidateRecord": "https://divulgacandcontas.tse.jus.br/divulga/#/candidato/BR/BR/20322002026/280002553884/2026/BR" }
+}
